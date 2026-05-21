@@ -3,7 +3,7 @@
 This project demonstrates how to use [Font Awesome icons](https://fontawesome.com/) in Python `matplotlib` figures as text objects or scatter plot paths, including partial icons, custom alignment, and image overlays.
 
 ## Blog Post
-[Read the full tutorial here](https://www.DataDrivenMai/blog/python-matplotlib-font-awesome-icons)
+[Read the full tutorial here](https://www.DataDrivenMai/blog/python-matplotlib-font-awesome-icons/)
 
 ## Project Structure
 - `README.md` (you are here)
