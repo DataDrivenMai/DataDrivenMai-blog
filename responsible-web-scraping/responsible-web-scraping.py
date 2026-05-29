@@ -14,6 +14,11 @@ import pandas as pd
 robots_url = 'https://www.equibase.com/robots.txt'
 robots_filename = './data/equibase_robots.txt'
 
+# URL containing 10-minute interval weather data from Tokyo site on March 1-5, 2024
+dates = [1, 2, 3, 4, 5]
+jma_URL_base = 'https://www.data.jma.go.jp/stats/etrn/view/10min_s1.php?prec_no=44&block_no=47662&year=2024&month=3&day=' 
+jma_URL_suffix = '&view='
+
 # One good and one bad URL to try to access
 delay_time = 30
 time_out = 20
@@ -108,6 +113,23 @@ def main():
     with open(robots_filename, "w") as f:
         f.write(str(robots_txt))
     
+    # Access JMA Tokyo data from March 1 to 5, 2024
+    for i in dates:
+        # Make the appropriate URL for the date
+        jma_URL = jma_URL_base + str(i) + jma_URL_suffix
+        
+        # HTTP GET request to jma_URL
+        http_resp = requests.get(jma_URL)
+        print("Request sent to URL:\n\t", jma_URL)
+        
+        # Wait between hits
+        time.sleep(30) 
+        
+        # Take a peek at the weather data contained within the table
+        JMA_df = PeekAtWeatherData(http_resp)
+        print(JMA_df.loc[0:5, ['time', 'temperature (℃)', 'relative humidity', 'average wind speed (m/s)']])
+
+
     # Try accessing one good and one bad URL
     for i in range(0, len(URL_sample)):
         # Make the appropriate URL for the date
