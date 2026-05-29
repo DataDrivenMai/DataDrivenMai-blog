@@ -25,7 +25,7 @@ This folder contains information and code demonstrating good web scraping practi
 ## Project Value
 
 ### Motivation
-Scraping data from websites too quickly can overload the server, slow down or crash the website, and be mistakened as a malicious attacker. Good web scraping practices keep you from inadvertently leading a cyberattack on a website, and prevents your IP address from being banned of access. This tutorial will demonstrate how beginners can carry out data scraping in a responsible and robust manner.
+Scraping data from websites too quickly can overload the server, slow down or crash the website, and be mistakened as a malicious attack. Good web scraping practices keep you from inadvertently leading a cyberattack on a website, and prevents your IP address from being banned of access. This tutorial will demonstrate how beginners can carry out data scraping in a responsible and robust manner.
 
 ### Key Skills Demonstrated
 - Read `robots.txt` files to see
