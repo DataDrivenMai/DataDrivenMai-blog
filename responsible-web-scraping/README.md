@@ -3,7 +3,7 @@
 This folder contains information and code demonstrating good web scraping practices.
 
 ## Blog Post
-[Read the full tutorial here](https://www.DataDrivenMai/blog/responsible-web-scraping)
+[Read the full tutorial here](https://datadrivenmai.com/blog/responsible-web-scraping/)
 
 ## Project Structure
 - `README.md` (you are here)
