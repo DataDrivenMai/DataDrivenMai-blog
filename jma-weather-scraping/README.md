@@ -17,7 +17,7 @@ This project demonstrates how to scrape, parse, structure and save weather data 
 ## The Ins and Outs
 ### Input 
 - URL to weather data collected every 10 min from one s1 type JMA observation site
-    - Default URL provided (Tokyo site for March 9, 2024)
+    - Default URL provided ([Tokyo site for March 9, 2024](https://www.data.jma.go.jp/stats/etrn/view/10min_s1.php?prec_no=44&block_no=47662&year=2024&month=3&day=9&view=))
 
 ### Output
 -  `jma_weather_scraping_xxx.csv` with 10 min weather data, ready for further analysis
