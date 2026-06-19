@@ -39,7 +39,7 @@ Scraping data from websites too quickly can overload the server, slow down or cr
 Open the `responsible-web-scraping.ipynb` notebook and run all cells sequentially, or run the `responsible-web-scraping.py` python script in one go.
 
 ### Requirements for Code to Run
-- Python 3.x
+- Python 3 (Verified on 3.14.3)
 - Python libraries
     - `urllib`
 	- `requests`

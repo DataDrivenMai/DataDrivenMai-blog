@@ -41,7 +41,7 @@ This project builds a pipeline to extract and clean that data for analysis.
 Open the `jma-weather-scraping.ipynb` notebook and run all cells sequentially, or run the `jma-weather-scraping.py` python script in one go.
 
 ### Requirements for Code to Run
-- Python 3.x
+- Python 3 (Verified on 3.14.3)
 - Python libraries
     - `requests`
     - `bs4`

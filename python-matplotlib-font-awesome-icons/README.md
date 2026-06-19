@@ -43,7 +43,7 @@ Expand your data visualization skills with the power to draw [Font Awesome icons
 Open the `python-matplotlib-font-awesome-icons.ipynb` notebook and run all cells sequentially, or run the `python-matplotlib-font-awesome-icons.py` python script in one go.
 
 ### Requirements for Code to Run
-- Python 3.x
+- Python 3 (Verified on 3.14.3)
 - Python libraries
 	- `numpy`
 	- `matplotlib.font_manager`
