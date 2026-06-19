@@ -3,7 +3,7 @@
 This project demonstrates how to scrape, parse, structure and save weather data (per 10 min) from the Japan Meteorological Agency (JMA) website using Python.
 
 ## Blog Post
-[Read the full tutorial here](https://www.DataDrivenMai/blog/jma-weather-scraping)
+[Read the full tutorial here](https://www.DataDrivenMai/blog/jma-weather-scraping/)
 
 ## Project Structure
 - `README.md` (you are here)
