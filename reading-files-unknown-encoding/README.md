@@ -1,49 +1,42 @@
 # Web Scraping Etiquette
 
-This folder contains information and code demonstrating good web scraping practices.
+This folder contains information and code on reading in CSV files with unknown encoding into `pandas` DataFrames.
 
 ## Blog Post
-[Read the full tutorial here](https://datadrivenmai.com/blog/responsible-web-scraping/)
+[Read the full tutorial here](https://datadrivenmai.com/blog/reading-files-unknown-encoding/)
 
 ## Project Structure
 - `README.md` (you are here)
-- `responsible-web-scraping.ipynb`
+- `reading-files-unknown-encoding.ipynb`
     - Step-by-step tutorial identical to the original blog post
-- `responsible-web-scraping.py`
+- `reading-files-unknown-encoding.py`
     - Python script containing only the essential code from the tutorial with minimal explanation
 - `data/`
-- `images/`
 
 ## The Ins and Outs
 ### Input 
-- URL to read `robots.txt` file from
-- One good and one bad URL for demonstration
+- Demo CSV file `'ame_master_20260324.csv` with unknown encoding
 
 ### Output
-- `data/equibase_robots.txt` file is saved with the python file, `responsible-web-scraping.py`, but not with the Jupyter notebook.
+- `data/ame_master_utf8.csv` file is saved with the python file, `reading-files-unknown-encoding.py`, but not with the Jupyter notebook.
 
 ## Project Value
 
 ### Motivation
-Scraping data from websites too quickly can overload the server, slow down or crash the website, and be mistakened as a malicious attack. Good web scraping practices keep you from inadvertently leading a cyberattack on a website, and prevents your IP address from being banned of access. This tutorial will demonstrate how beginners can carry out data scraping in a responsible and robust manner.
+Manually testing all possible encoding models to open a mystery CSV file with unknown encoding is inefficient. An adaptable procedure that can be applied to any file of unknown encoding is desired.
 
 ### Key Skills Demonstrated
-- Read `robots.txt` files to see
-	- Which webpages you are and are not allowed to access
-	- Determine the minimum time to pause between `requests.get()`
-- Pause between HTTP requests using the `time.sleep()` function
-- Handle exceptions using `try`, `except` and `else`
-	- Specify a `timeout` parameter on the `requests.get()` function 
+
+- Open a mystery CSV file as raw binary data using `'rb'` designation on the `open()` function
+- Detect the encoding of the mystery CSV file by using `charset_normalizer.detect()` on the raw binary data
+- Use the detected encoding to read the mystery CSV file as a `pandas` DataFrame
 
 ## How to Run
-Open the `responsible-web-scraping.ipynb` notebook and run all cells sequentially, or run the `responsible-web-scraping.py` python script in one go.
+Open the `reading-files-unknown-encoding.ipynb` notebook and run all cells sequentially, or run the `reading-files-unknown-encoding.py` python script in one go.
 
 ### Requirements for Code to Run
 - Python 3 (Verified on 3.14.3)
 - Python libraries
-    - `urllib`
-	- `requests`
-	- `time`
+    - `charset_normalizer`
 	- `pandas`
-	- `bs4`
-- `data/` subfolder to save the `equibase_robots.txt` file 
+- `data/` subfolder to load `ame_master_20260324.csv` file and save the UTF-8 version in the Python script
