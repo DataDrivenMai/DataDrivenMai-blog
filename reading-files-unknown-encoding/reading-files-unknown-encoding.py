@@ -9,6 +9,7 @@ import pandas as pd
 # Constants
 # CSV file with unknown encoding to open as demonstration
 fileName = './data/ame_master_20260324.csv'
+save_fileName = './data/ame_master_utf8.csv'
 
 # Main script
 def main():
@@ -30,7 +31,7 @@ def main():
     amedas_df = pd.read_csv(fileName, encoding=detected_encoding)
 
     # Write out the decoded CSV with UTF-8 encoding
-    amedas_df.to_csv('output.csv', index=False, encoding='utf-8')
+    amedas_df.to_csv(save_fileName, index=False, encoding='utf-8')
 
 if __name__ == "__main__":
     main()
