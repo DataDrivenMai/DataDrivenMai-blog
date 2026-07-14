@@ -1,4 +1,4 @@
-# Web Scraping Etiquette
+# Reading Files of Unknown Encoding
 
 This folder contains information and code on reading in CSV files with unknown encoding into `pandas` DataFrames.
 
@@ -15,7 +15,7 @@ This folder contains information and code on reading in CSV files with unknown e
 
 ## The Ins and Outs
 ### Input 
-- Demo CSV file `'ame_master_20260324.csv` with unknown encoding
+- Demo CSV file `ame_master_20260324.csv` with unknown encoding
 
 ### Output
 - `data/ame_master_utf8.csv` file is saved with the python file, `reading-files-unknown-encoding.py`, but not with the Jupyter notebook.
