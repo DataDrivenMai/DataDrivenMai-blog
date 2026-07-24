@@ -36,7 +36,7 @@ Copying and pasting several webpages to scrape data from can be an error prone p
 - Stored the identifiers as a nested dictionary for all JMA weather stations and saved it as a JSON file
 
 ## How to Run
-Open the `algorithmic-site-crawling-url-discovery.ipynb` notebook and run all cells sequentially, or run the `algorithmic-site-crawling-url-discovery.py` python script in one go.
+If you would like the code to do the web crawling process (which will take just over 30 minutes), please ensure that you **delete the `amedas_prec_block_no_dict.json` file in the `data/` subfolder**. Then, open the `algorithmic-site-crawling-url-discovery.ipynb` notebook and run all cells sequentially, or run the `algorithmic-site-crawling-url-discovery.py` python script in one go.
 
 ### Requirements for Code to Run
 - Python 3 (Verified on 3.14.3)
