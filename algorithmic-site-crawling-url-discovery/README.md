@@ -1,4 +1,4 @@
-# Algorithmic Site Crawling for Automatic Discovery of URL Identifiers of Japan's Weather Stations
+# Algorithmic Site Crawling for Automatic Discovery of URL Identifiers for Japan's Weather Stations
 
 This folder contains information and code demonstrating the process of algorithmically crawling the Japan Meteorological Agency (JMA) website to automatically discover the unique identifiers for each weather station in Japan. The unique identifiers are stored as a nested dictionary and saved as a JSON file, which can be used in later scripts to generate the URLs associated with each weather station. 
 
@@ -12,16 +12,18 @@ This folder contains information and code demonstrating the process of algorithm
 - `algorithmic-site-crawling-url-discovery.py`
     - Python script containing only the essential code from the tutorial with minimal explanation
 - `data/`
+    - Please delete the output file, `amedas_prec_block_no_dict.json`, if you'd like to actually carry out algorithmic site crawling process
 - `images/`
 
 ## The Ins and Outs
 ### Input 
 - The starting map interface URL: `url_japan_map = 'https://www.data.jma.go.jp/stats/etrn/select/prefecture00.php?prec_no=&block_no=&year=&month=&day=&view='`
-    - Note that the code is suited for the JMA website and its unique map interface design. If you want to crawl a different site, you will need to use the code in parts and modify the tags and attributes that you search for.
+    - Note that the code is designed specifically for the JMA website and its unique map interface design. If you want to crawl a different site, you will need to use the code in parts and modify the tags and attributes that you search for.
 
 ### Output
 - `data/amedas_prec_block_no_dict.json` file of the nested python dictionary containing the unique identifiers for each weather station
     - Note that the weather station name is stored in Japanese
+    - Also note that you will need to delete this JSON file to go through with the algorithmic site crawling process. Otherwise, the code will detect the presence of the JSON file and skip the loop altogether.
 
 ## Project Value
 
@@ -30,10 +32,10 @@ Copying and pasting several webpages to scrape data from can be an error prone p
 
 ### Key Skills Demonstrated
 
-- From a starting JMA map interface URL, scrape the HTML to collect `href` attributes to generate complete URLs to each regional map using `requests` and `Beautiful Soup` libraries
-- From each regional map URL, scraped and parse `href` and `onmouseover` attributes which contain the three unique identifiers for each JMA weather station
+- From a [starting JMA map interface URL](https://www.data.jma.go.jp/stats/etrn/select/prefecture00.php?prec_no=&block_no=&year=&month=&day=&view=), scrape the HTML to collect `href` attributes to generate complete URLs to each regional map using `requests` and `Beautiful Soup` libraries
+- From each regional map URL ([follow this link to see a regional map of Tokyo](https://www.data.jma.go.jp/stats/etrn/select/prefecture.php?prec_no=44&block_no=&year=&month=&day=&view=)), scrape and parse `href` and `onmouseover` attributes which contain the three unique identifiers for each JMA weather station
 - Use regular expressions (regex) to extract identifiers unique to each JMA weather station
-- Stored the identifiers as a nested dictionary for all JMA weather stations and saved it as a JSON file
+- Store the identifiers as a nested dictionary for all JMA weather stations and save it as a JSON file
 
 ## How to Run
 If you would like the code to do the web crawling process (which will take just over 30 minutes), please ensure that you **delete the `amedas_prec_block_no_dict.json` file in the `data/` subfolder**. Then, open the `algorithmic-site-crawling-url-discovery.ipynb` notebook and run all cells sequentially, or run the `algorithmic-site-crawling-url-discovery.py` python script in one go.
@@ -46,5 +48,6 @@ If you would like the code to do the web crawling process (which will take just 
     - `bs4`
     - `time`
     - `pathlib`
+    - `tqdm`
     - `json`
 - `data/` subfolder to save `amedas_prec_block_no_dict.json` file containing the nested dictionary
