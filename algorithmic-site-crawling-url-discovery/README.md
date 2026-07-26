@@ -28,7 +28,7 @@ This folder contains information and code demonstrating the process of algorithm
 ## Project Value
 
 ### Motivation
-Copying and pasting several webpages to scrape data from can be an error prone process, especially when you have many URLs. You may miss a URL, accidently include duplicate URLs, or introduce a typo into the URL resulting in a failure to scrape data. For webpages all residing in the same website, you can automatically discover the desired URLs with algorithmic site crawling.
+Copying and pasting several web pages to scrape data from can be an error prone process, especially when you have many URLs. You may miss a URL, accidently include duplicate URLs, or introduce a typo into the URL resulting in a failure to scrape data. For web pages all residing in the same website, you can automatically discover the desired URLs with algorithmic site crawling.
 
 ### Key Skills Demonstrated
 

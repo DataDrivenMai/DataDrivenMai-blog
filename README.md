@@ -19,15 +19,7 @@ Each folder corresponds to one blog post, and contains the following:
 ## Blog Directory
 Use the table below to locate the project you're looking for
 
-### Data Collection
 
-| Project | Folder | Description | Blog | 
+| Date | Folder | Description | Blog | 
 |--------|--------|------------|------|
-| JMA Weather Data Scraping | [`jma-weather-scraping`](https://github.com/DataDrivenMai/DataDrivenMai-blog/tree/main/jma-weather-scraping) | Scrape and structure 10-minute JMA weather data | [blog post](https://www.datadrivenmai.com/blog/jma-weather-scraping) | 
-
-
-### Data Preprocessing
-
-| Project | Folder | Description | Blog |
-|--------|--------|------------|------|
-|  |  |  | [Read](...) |
+| 2026-05 | [`jma-weather-scraping`](https://github.com/DataDrivenMai/DataDrivenMai-blog/tree/main/jma-weather-scraping) | Scrape and structure 10-minute JMA weather data | [blog post](https://www.datadrivenmai.com/blog/jma-weather-scraping) | 
