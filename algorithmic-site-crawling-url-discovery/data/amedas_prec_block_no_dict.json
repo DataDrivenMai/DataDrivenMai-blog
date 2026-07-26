@@ -1,0 +1,8377 @@
+{
+    "稚内": {
+        "prec_no": "11",
+        "block_no": "47401",
+        "a or s": "s"
+    },
+    "沓形": {
+        "prec_no": "11",
+        "block_no": "0002",
+        "a or s": "a"
+    },
+    "浜頓別": {
+        "prec_no": "11",
+        "block_no": "0003",
+        "a or s": "a"
+    },
+    "北見枝幸": {
+        "prec_no": "11",
+        "block_no": "47402",
+        "a or s": "s"
+    },
+    "歌登": {
+        "prec_no": "11",
+        "block_no": "0005",
+        "a or s": "a"
+    },
+    "中頓別": {
+        "prec_no": "11",
+        "block_no": "1051",
+        "a or s": "a"
+    },
+    "豊富": {
+        "prec_no": "11",
+        "block_no": "1054",
+        "a or s": "a"
+    },
+    "沼川": {
+        "prec_no": "11",
+        "block_no": "1203",
+        "a or s": "a"
+    },
+    "船泊": {
+        "prec_no": "11",
+        "block_no": "1207",
+        "a or s": "a"
+    },
+    "宗谷岬": {
+        "prec_no": "11",
+        "block_no": "1284",
+        "a or s": "a"
+    },
+    "浜鬼志別": {
+        "prec_no": "11",
+        "block_no": "1285",
+        "a or s": "a"
+    },
+    "本泊": {
+        "prec_no": "11",
+        "block_no": "1512",
+        "a or s": "a"
+    },
+    "声問": {
+        "prec_no": "11",
+        "block_no": "1528",
+        "a or s": "a"
+    },
+    "礼文": {
+        "prec_no": "11",
+        "block_no": "1546",
+        "a or s": "a"
+    },
+    "幌泊": {
+        "prec_no": "11",
+        "block_no": "1593",
+        "a or s": "a"
+    },
+    "宗谷地方全地点": {
+        "prec_no": "11",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "幌延": {
+        "prec_no": "11",
+        "block_no": "1573",
+        "a or s": "a"
+    },
+    "礼文上泊埼": {
+        "prec_no": "11",
+        "block_no": "1656",
+        "a or s": "a"
+    },
+    "美深": {
+        "prec_no": "12",
+        "block_no": "0006",
+        "a or s": "a"
+    },
+    "ピヤシリ山": {
+        "prec_no": "12",
+        "block_no": "0007",
+        "a or s": "a"
+    },
+    "名寄": {
+        "prec_no": "12",
+        "block_no": "0008",
+        "a or s": "a"
+    },
+    "西風連": {
+        "prec_no": "12",
+        "block_no": "0009",
+        "a or s": "a"
+    },
+    "下川": {
+        "prec_no": "12",
+        "block_no": "0010",
+        "a or s": "a"
+    },
+    "士別": {
+        "prec_no": "12",
+        "block_no": "0011",
+        "a or s": "a"
+    },
+    "犬牛別峠": {
+        "prec_no": "12",
+        "block_no": "0012",
+        "a or s": "a"
+    },
+    "雄鷹峰": {
+        "prec_no": "12",
+        "block_no": "0013",
+        "a or s": "a"
+    },
+    "蓬莱山": {
+        "prec_no": "12",
+        "block_no": "0014",
+        "a or s": "a"
+    },
+    "上川": {
+        "prec_no": "12",
+        "block_no": "0015",
+        "a or s": "a"
+    },
+    "旭川": {
+        "prec_no": "12",
+        "block_no": "47407",
+        "a or s": "s"
+    },
+    "瑞穂": {
+        "prec_no": "68",
+        "block_no": "1094",
+        "a or s": "a"
+    },
+    "終沢": {
+        "prec_no": "12",
+        "block_no": "0018",
+        "a or s": "a"
+    },
+    "旭岳": {
+        "prec_no": "12",
+        "block_no": "0019",
+        "a or s": "a"
+    },
+    "白金": {
+        "prec_no": "12",
+        "block_no": "0020",
+        "a or s": "a"
+    },
+    "富良野": {
+        "prec_no": "12",
+        "block_no": "0021",
+        "a or s": "a"
+    },
+    "前富良野岳": {
+        "prec_no": "12",
+        "block_no": "0022",
+        "a or s": "a"
+    },
+    "前時雨山": {
+        "prec_no": "12",
+        "block_no": "0023",
+        "a or s": "a"
+    },
+    "朝日": {
+        "prec_no": "55",
+        "block_no": "0546",
+        "a or s": "a"
+    },
+    "比布": {
+        "prec_no": "12",
+        "block_no": "1048",
+        "a or s": "a"
+    },
+    "層雲峡": {
+        "prec_no": "12",
+        "block_no": "1049",
+        "a or s": "a"
+    },
+    "美瑛": {
+        "prec_no": "12",
+        "block_no": "1052",
+        "a or s": "a"
+    },
+    "和寒": {
+        "prec_no": "12",
+        "block_no": "1055",
+        "a or s": "a"
+    },
+    "東川": {
+        "prec_no": "12",
+        "block_no": "1184",
+        "a or s": "a"
+    },
+    "志比内": {
+        "prec_no": "12",
+        "block_no": "1185",
+        "a or s": "a"
+    },
+    "幾寅": {
+        "prec_no": "12",
+        "block_no": "1188",
+        "a or s": "a"
+    },
+    "占冠": {
+        "prec_no": "12",
+        "block_no": "1189",
+        "a or s": "a"
+    },
+    "上富良野": {
+        "prec_no": "12",
+        "block_no": "1190",
+        "a or s": "a"
+    },
+    "江丹別": {
+        "prec_no": "12",
+        "block_no": "1191",
+        "a or s": "a"
+    },
+    "音威子府": {
+        "prec_no": "12",
+        "block_no": "1197",
+        "a or s": "a"
+    },
+    "中川": {
+        "prec_no": "12",
+        "block_no": "1201",
+        "a or s": "a"
+    },
+    "麓郷": {
+        "prec_no": "12",
+        "block_no": "1280",
+        "a or s": "a"
+    },
+    "東神楽": {
+        "prec_no": "12",
+        "block_no": "1458",
+        "a or s": "a"
+    },
+    "小車": {
+        "prec_no": "12",
+        "block_no": "1570",
+        "a or s": "a"
+    },
+    "剣淵": {
+        "prec_no": "12",
+        "block_no": "1572",
+        "a or s": "a"
+    },
+    "金山": {
+        "prec_no": "52",
+        "block_no": "0487",
+        "a or s": "a"
+    },
+    "上川地方全地点": {
+        "prec_no": "12",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "幌加内": {
+        "prec_no": "12",
+        "block_no": "1053",
+        "a or s": "a"
+    },
+    "朱鞠内": {
+        "prec_no": "12",
+        "block_no": "1279",
+        "a or s": "a"
+    },
+    "天塩": {
+        "prec_no": "13",
+        "block_no": "0024",
+        "a or s": "a"
+    },
+    "遠別": {
+        "prec_no": "13",
+        "block_no": "0025",
+        "a or s": "a"
+    },
+    "羽幌": {
+        "prec_no": "13",
+        "block_no": "47404",
+        "a or s": "s"
+    },
+    "留萌": {
+        "prec_no": "13",
+        "block_no": "47406",
+        "a or s": "s"
+    },
+    "増毛": {
+        "prec_no": "13",
+        "block_no": "0028",
+        "a or s": "a"
+    },
+    "古丹別": {
+        "prec_no": "13",
+        "block_no": "1112",
+        "a or s": "a"
+    },
+    "焼尻": {
+        "prec_no": "13",
+        "block_no": "1213",
+        "a or s": "a"
+    },
+    "初山別": {
+        "prec_no": "13",
+        "block_no": "1216",
+        "a or s": "a"
+    },
+    "達布": {
+        "prec_no": "13",
+        "block_no": "1217",
+        "a or s": "a"
+    },
+    "幌糠": {
+        "prec_no": "13",
+        "block_no": "1218",
+        "a or s": "a"
+    },
+    "留萌地方全地点": {
+        "prec_no": "13",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "阿曽岩": {
+        "prec_no": "14",
+        "block_no": "0029",
+        "a or s": "a"
+    },
+    "新篠津": {
+        "prec_no": "14",
+        "block_no": "0030",
+        "a or s": "a"
+    },
+    "山口": {
+        "prec_no": "81",
+        "block_no": "47784",
+        "a or s": "s"
+    },
+    "手稲山": {
+        "prec_no": "14",
+        "block_no": "0032",
+        "a or s": "a"
+    },
+    "札幌": {
+        "prec_no": "14",
+        "block_no": "47412",
+        "a or s": "s"
+    },
+    "小金湯": {
+        "prec_no": "14",
+        "block_no": "0034",
+        "a or s": "a"
+    },
+    "恵庭島松": {
+        "prec_no": "14",
+        "block_no": "0035",
+        "a or s": "a"
+    },
+    "島松山": {
+        "prec_no": "14",
+        "block_no": "0036",
+        "a or s": "a"
+    },
+    "支笏湖畔": {
+        "prec_no": "14",
+        "block_no": "0037",
+        "a or s": "a"
+    },
+    "西野幌": {
+        "prec_no": "14",
+        "block_no": "1076",
+        "a or s": "a"
+    },
+    "石狩": {
+        "prec_no": "14",
+        "block_no": "1085",
+        "a or s": "a"
+    },
+    "浜益": {
+        "prec_no": "14",
+        "block_no": "1193",
+        "a or s": "a"
+    },
+    "厚田": {
+        "prec_no": "14",
+        "block_no": "1194",
+        "a or s": "a"
+    },
+    "千歳": {
+        "prec_no": "14",
+        "block_no": "1459",
+        "a or s": "a"
+    },
+    "江別": {
+        "prec_no": "14",
+        "block_no": "1507",
+        "a or s": "a"
+    },
+    "石狩地方全地点": {
+        "prec_no": "14",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "石狩沼田": {
+        "prec_no": "15",
+        "block_no": "0038",
+        "a or s": "a"
+    },
+    "深川": {
+        "prec_no": "15",
+        "block_no": "0039",
+        "a or s": "a"
+    },
+    "常盤山": {
+        "prec_no": "15",
+        "block_no": "0040",
+        "a or s": "a"
+    },
+    "滝川": {
+        "prec_no": "15",
+        "block_no": "0041",
+        "a or s": "a"
+    },
+    "神威岳": {
+        "prec_no": "15",
+        "block_no": "0042",
+        "a or s": "a"
+    },
+    "芦別": {
+        "prec_no": "15",
+        "block_no": "0043",
+        "a or s": "a"
+    },
+    "美唄": {
+        "prec_no": "15",
+        "block_no": "0044",
+        "a or s": "a"
+    },
+    "岩見沢": {
+        "prec_no": "15",
+        "block_no": "47413",
+        "a or s": "s"
+    },
+    "下桂沢": {
+        "prec_no": "15",
+        "block_no": "0046",
+        "a or s": "a"
+    },
+    "長沼": {
+        "prec_no": "36",
+        "block_no": "1268",
+        "a or s": "a"
+    },
+    "丁未山": {
+        "prec_no": "15",
+        "block_no": "0048",
+        "a or s": "a"
+    },
+    "夕張": {
+        "prec_no": "15",
+        "block_no": "0049",
+        "a or s": "a"
+    },
+    "登川山": {
+        "prec_no": "15",
+        "block_no": "0050",
+        "a or s": "a"
+    },
+    "月形": {
+        "prec_no": "15",
+        "block_no": "0999",
+        "a or s": "a"
+    },
+    "栗沢": {
+        "prec_no": "15",
+        "block_no": "1068",
+        "a or s": "a"
+    },
+    "晩生内": {
+        "prec_no": "15",
+        "block_no": "1270",
+        "a or s": "a"
+    },
+    "桜山": {
+        "prec_no": "81",
+        "block_no": "0773",
+        "a or s": "a"
+    },
+    "空知吉野": {
+        "prec_no": "15",
+        "block_no": "1287",
+        "a or s": "a"
+    },
+    "浦臼": {
+        "prec_no": "15",
+        "block_no": "1400",
+        "a or s": "a"
+    },
+    "鹿島": {
+        "prec_no": "68",
+        "block_no": "0693",
+        "a or s": "a"
+    },
+    "沼の沢": {
+        "prec_no": "15",
+        "block_no": "1402",
+        "a or s": "a"
+    },
+    "新城": {
+        "prec_no": "51",
+        "block_no": "1541",
+        "a or s": "a"
+    },
+    "赤平": {
+        "prec_no": "15",
+        "block_no": "1566",
+        "a or s": "a"
+    },
+    "雨竜": {
+        "prec_no": "15",
+        "block_no": "1567",
+        "a or s": "a"
+    },
+    "空知地方全地点": {
+        "prec_no": "15",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "秩父別": {
+        "prec_no": "15",
+        "block_no": "1674",
+        "a or s": "a"
+    },
+    "美国": {
+        "prec_no": "16",
+        "block_no": "0051",
+        "a or s": "a"
+    },
+    "余市": {
+        "prec_no": "16",
+        "block_no": "0052",
+        "a or s": "a"
+    },
+    "小樽": {
+        "prec_no": "16",
+        "block_no": "47411",
+        "a or s": "s"
+    },
+    "共和": {
+        "prec_no": "16",
+        "block_no": "0054",
+        "a or s": "a"
+    },
+    "蘭越": {
+        "prec_no": "16",
+        "block_no": "0055",
+        "a or s": "a"
+    },
+    "倶知安": {
+        "prec_no": "16",
+        "block_no": "47433",
+        "a or s": "s"
+    },
+    "脇方台地": {
+        "prec_no": "16",
+        "block_no": "0057",
+        "a or s": "a"
+    },
+    "寿都": {
+        "prec_no": "16",
+        "block_no": "47421",
+        "a or s": "s"
+    },
+    "桂台": {
+        "prec_no": "16",
+        "block_no": "0059",
+        "a or s": "a"
+    },
+    "喜茂別": {
+        "prec_no": "16",
+        "block_no": "0060",
+        "a or s": "a"
+    },
+    "黒松内": {
+        "prec_no": "16",
+        "block_no": "0061",
+        "a or s": "a"
+    },
+    "真狩": {
+        "prec_no": "16",
+        "block_no": "1072",
+        "a or s": "a"
+    },
+    "赤井川": {
+        "prec_no": "16",
+        "block_no": "1091",
+        "a or s": "a"
+    },
+    "神恵内": {
+        "prec_no": "16",
+        "block_no": "1208",
+        "a or s": "a"
+    },
+    "後志地方全地点": {
+        "prec_no": "16",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "ニセコ": {
+        "prec_no": "16",
+        "block_no": "1615",
+        "a or s": "a"
+    },
+    "雄武": {
+        "prec_no": "17",
+        "block_no": "47405",
+        "a or s": "s"
+    },
+    "興部": {
+        "prec_no": "17",
+        "block_no": "0063",
+        "a or s": "a"
+    },
+    "紋別": {
+        "prec_no": "17",
+        "block_no": "47435",
+        "a or s": "s"
+    },
+    "湧別": {
+        "prec_no": "17",
+        "block_no": "0065",
+        "a or s": "a"
+    },
+    "滝上": {
+        "prec_no": "17",
+        "block_no": "0066",
+        "a or s": "a"
+    },
+    "上藻別": {
+        "prec_no": "17",
+        "block_no": "0067",
+        "a or s": "a"
+    },
+    "常呂": {
+        "prec_no": "17",
+        "block_no": "0068",
+        "a or s": "a"
+    },
+    "遠軽": {
+        "prec_no": "17",
+        "block_no": "0069",
+        "a or s": "a"
+    },
+    "佐呂間": {
+        "prec_no": "17",
+        "block_no": "0070",
+        "a or s": "a"
+    },
+    "網走": {
+        "prec_no": "17",
+        "block_no": "47409",
+        "a or s": "s"
+    },
+    "生田原": {
+        "prec_no": "17",
+        "block_no": "0072",
+        "a or s": "a"
+    },
+    "仁頃山": {
+        "prec_no": "17",
+        "block_no": "0073",
+        "a or s": "a"
+    },
+    "北見": {
+        "prec_no": "17",
+        "block_no": "0074",
+        "a or s": "a"
+    },
+    "小清水": {
+        "prec_no": "17",
+        "block_no": "0075",
+        "a or s": "a"
+    },
+    "斜里": {
+        "prec_no": "17",
+        "block_no": "0076",
+        "a or s": "a"
+    },
+    "留辺蘂": {
+        "prec_no": "17",
+        "block_no": "0077",
+        "a or s": "a"
+    },
+    "留辺蘂山": {
+        "prec_no": "17",
+        "block_no": "0078",
+        "a or s": "a"
+    },
+    "美幌": {
+        "prec_no": "17",
+        "block_no": "0079",
+        "a or s": "a"
+    },
+    "藻琴山": {
+        "prec_no": "17",
+        "block_no": "0080",
+        "a or s": "a"
+    },
+    "チミケップ山": {
+        "prec_no": "17",
+        "block_no": "0081",
+        "a or s": "a"
+    },
+    "津別": {
+        "prec_no": "17",
+        "block_no": "0082",
+        "a or s": "a"
+    },
+    "北見中山": {
+        "prec_no": "17",
+        "block_no": "0083",
+        "a or s": "a"
+    },
+    "宇登呂": {
+        "prec_no": "17",
+        "block_no": "0981",
+        "a or s": "a"
+    },
+    "西興部": {
+        "prec_no": "17",
+        "block_no": "1073",
+        "a or s": "a"
+    },
+    "白滝": {
+        "prec_no": "17",
+        "block_no": "1092",
+        "a or s": "a"
+    },
+    "境野": {
+        "prec_no": "17",
+        "block_no": "1209",
+        "a or s": "a"
+    },
+    "東藻琴": {
+        "prec_no": "17",
+        "block_no": "1263",
+        "a or s": "a"
+    },
+    "丸瀬布": {
+        "prec_no": "17",
+        "block_no": "1420",
+        "a or s": "a"
+    },
+    "女満別": {
+        "prec_no": "17",
+        "block_no": "1460",
+        "a or s": "a"
+    },
+    "紋別小向": {
+        "prec_no": "17",
+        "block_no": "1487",
+        "a or s": "a"
+    },
+    "津別二又": {
+        "prec_no": "17",
+        "block_no": "1568",
+        "a or s": "a"
+    },
+    "置戸常元": {
+        "prec_no": "17",
+        "block_no": "1569",
+        "a or s": "a"
+    },
+    "網走・北見・紋別地方全地点": {
+        "prec_no": "17",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "山園": {
+        "prec_no": "17",
+        "block_no": "1617",
+        "a or s": "a"
+    },
+    "羅臼": {
+        "prec_no": "18",
+        "block_no": "0084",
+        "a or s": "a"
+    },
+    "標津": {
+        "prec_no": "18",
+        "block_no": "0085",
+        "a or s": "a"
+    },
+    "中標津": {
+        "prec_no": "18",
+        "block_no": "0086",
+        "a or s": "a"
+    },
+    "計根別": {
+        "prec_no": "18",
+        "block_no": "0087",
+        "a or s": "a"
+    },
+    "別海": {
+        "prec_no": "18",
+        "block_no": "0088",
+        "a or s": "a"
+    },
+    "根室": {
+        "prec_no": "18",
+        "block_no": "47420",
+        "a or s": "s"
+    },
+    "納沙布": {
+        "prec_no": "18",
+        "block_no": "1056",
+        "a or s": "a"
+    },
+    "厚床": {
+        "prec_no": "18",
+        "block_no": "1196",
+        "a or s": "a"
+    },
+    "糸櫛別": {
+        "prec_no": "18",
+        "block_no": "1266",
+        "a or s": "a"
+    },
+    "根室中標津": {
+        "prec_no": "18",
+        "block_no": "1489",
+        "a or s": "a"
+    },
+    "上標津": {
+        "prec_no": "18",
+        "block_no": "1547",
+        "a or s": "a"
+    },
+    "根室地方全地点": {
+        "prec_no": "18",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "川湯": {
+        "prec_no": "19",
+        "block_no": "0090",
+        "a or s": "a"
+    },
+    "阿寒湖畔": {
+        "prec_no": "19",
+        "block_no": "0091",
+        "a or s": "a"
+    },
+    "弟子屈": {
+        "prec_no": "19",
+        "block_no": "1187",
+        "a or s": "a"
+    },
+    "標茶": {
+        "prec_no": "19",
+        "block_no": "0093",
+        "a or s": "a"
+    },
+    "幌呂台地": {
+        "prec_no": "19",
+        "block_no": "0094",
+        "a or s": "a"
+    },
+    "中徹別": {
+        "prec_no": "19",
+        "block_no": "0095",
+        "a or s": "a"
+    },
+    "阿寒": {
+        "prec_no": "19",
+        "block_no": "0096",
+        "a or s": "a"
+    },
+    "霧多布": {
+        "prec_no": "19",
+        "block_no": "0097",
+        "a or s": "a"
+    },
+    "白糠": {
+        "prec_no": "19",
+        "block_no": "0098",
+        "a or s": "a"
+    },
+    "釧路": {
+        "prec_no": "19",
+        "block_no": "47418",
+        "a or s": "s"
+    },
+    "二俣": {
+        "prec_no": "19",
+        "block_no": "1107",
+        "a or s": "a"
+    },
+    "鶴居": {
+        "prec_no": "19",
+        "block_no": "1186",
+        "a or s": "a"
+    },
+    "太田": {
+        "prec_no": "19",
+        "block_no": "1192",
+        "a or s": "a"
+    },
+    "榊町": {
+        "prec_no": "19",
+        "block_no": "1195",
+        "a or s": "a"
+    },
+    "知方学": {
+        "prec_no": "19",
+        "block_no": "1283",
+        "a or s": "a"
+    },
+    "塘路": {
+        "prec_no": "19",
+        "block_no": "1403",
+        "a or s": "a"
+    },
+    "茶内原野": {
+        "prec_no": "19",
+        "block_no": "1417",
+        "a or s": "a"
+    },
+    "鶴丘": {
+        "prec_no": "19",
+        "block_no": "1461",
+        "a or s": "a"
+    },
+    "釧路地方全地点": {
+        "prec_no": "19",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "軍艦山": {
+        "prec_no": "20",
+        "block_no": "0100",
+        "a or s": "a"
+    },
+    "陸別": {
+        "prec_no": "20",
+        "block_no": "0101",
+        "a or s": "a"
+    },
+    "殖産高地": {
+        "prec_no": "20",
+        "block_no": "0102",
+        "a or s": "a"
+    },
+    "ぬかびら源泉郷": {
+        "prec_no": "20",
+        "block_no": "0103",
+        "a or s": "a"
+    },
+    "小坂山": {
+        "prec_no": "20",
+        "block_no": "0104",
+        "a or s": "a"
+    },
+    "上足寄": {
+        "prec_no": "20",
+        "block_no": "0105",
+        "a or s": "a"
+    },
+    "西ヌプカウシ山": {
+        "prec_no": "20",
+        "block_no": "0106",
+        "a or s": "a"
+    },
+    "上士幌": {
+        "prec_no": "20",
+        "block_no": "0107",
+        "a or s": "a"
+    },
+    "幌安山": {
+        "prec_no": "20",
+        "block_no": "0108",
+        "a or s": "a"
+    },
+    "足寄": {
+        "prec_no": "20",
+        "block_no": "0109",
+        "a or s": "a"
+    },
+    "佐幌岳": {
+        "prec_no": "20",
+        "block_no": "0110",
+        "a or s": "a"
+    },
+    "三角山": {
+        "prec_no": "20",
+        "block_no": "0111",
+        "a or s": "a"
+    },
+    "本別": {
+        "prec_no": "20",
+        "block_no": "0112",
+        "a or s": "a"
+    },
+    "新得": {
+        "prec_no": "20",
+        "block_no": "0113",
+        "a or s": "a"
+    },
+    "鹿追": {
+        "prec_no": "20",
+        "block_no": "0114",
+        "a or s": "a"
+    },
+    "芽室": {
+        "prec_no": "20",
+        "block_no": "0115",
+        "a or s": "a"
+    },
+    "帯広": {
+        "prec_no": "20",
+        "block_no": "47417",
+        "a or s": "s"
+    },
+    "池田": {
+        "prec_no": "71",
+        "block_no": "0720",
+        "a or s": "a"
+    },
+    "浦幌": {
+        "prec_no": "20",
+        "block_no": "0118",
+        "a or s": "a"
+    },
+    "帯広岳": {
+        "prec_no": "20",
+        "block_no": "0119",
+        "a or s": "a"
+    },
+    "ひょうたん沢": {
+        "prec_no": "20",
+        "block_no": "0120",
+        "a or s": "a"
+    },
+    "大樹": {
+        "prec_no": "20",
+        "block_no": "0121",
+        "a or s": "a"
+    },
+    "広尾": {
+        "prec_no": "20",
+        "block_no": "47440",
+        "a or s": "s"
+    },
+    "三国山": {
+        "prec_no": "20",
+        "block_no": "1099",
+        "a or s": "a"
+    },
+    "駒場": {
+        "prec_no": "20",
+        "block_no": "1204",
+        "a or s": "a"
+    },
+    "上札内": {
+        "prec_no": "20",
+        "block_no": "1210",
+        "a or s": "a"
+    },
+    "更別": {
+        "prec_no": "20",
+        "block_no": "1211",
+        "a or s": "a"
+    },
+    "大津": {
+        "prec_no": "60",
+        "block_no": "0586",
+        "a or s": "a"
+    },
+    "糠内": {
+        "prec_no": "20",
+        "block_no": "1286",
+        "a or s": "a"
+    },
+    "小利別": {
+        "prec_no": "20",
+        "block_no": "1404",
+        "a or s": "a"
+    },
+    "押帯": {
+        "prec_no": "20",
+        "block_no": "1405",
+        "a or s": "a"
+    },
+    "柏倉": {
+        "prec_no": "20",
+        "block_no": "1409",
+        "a or s": "a"
+    },
+    "上螺湾": {
+        "prec_no": "20",
+        "block_no": "1410",
+        "a or s": "a"
+    },
+    "留真": {
+        "prec_no": "20",
+        "block_no": "1418",
+        "a or s": "a"
+    },
+    "帯広泉": {
+        "prec_no": "20",
+        "block_no": "1510",
+        "a or s": "a"
+    },
+    "三股": {
+        "prec_no": "20",
+        "block_no": "1571",
+        "a or s": "a"
+    },
+    "十勝地方全地点": {
+        "prec_no": "20",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "安平": {
+        "prec_no": "21",
+        "block_no": "0123",
+        "a or s": "a"
+    },
+    "厚真": {
+        "prec_no": "21",
+        "block_no": "0124",
+        "a or s": "a"
+    },
+    "穂別": {
+        "prec_no": "21",
+        "block_no": "0125",
+        "a or s": "a"
+    },
+    "森野": {
+        "prec_no": "21",
+        "block_no": "0126",
+        "a or s": "a"
+    },
+    "苫小牧": {
+        "prec_no": "21",
+        "block_no": "47424",
+        "a or s": "s"
+    },
+    "大岸": {
+        "prec_no": "21",
+        "block_no": "0128",
+        "a or s": "a"
+    },
+    "有珠山": {
+        "prec_no": "21",
+        "block_no": "0129",
+        "a or s": "a"
+    },
+    "白老": {
+        "prec_no": "21",
+        "block_no": "0130",
+        "a or s": "a"
+    },
+    "鵡川": {
+        "prec_no": "21",
+        "block_no": "0131",
+        "a or s": "a"
+    },
+    "伊達": {
+        "prec_no": "21",
+        "block_no": "0132",
+        "a or s": "a"
+    },
+    "登別山": {
+        "prec_no": "21",
+        "block_no": "0133",
+        "a or s": "a"
+    },
+    "登別": {
+        "prec_no": "21",
+        "block_no": "0134",
+        "a or s": "a"
+    },
+    "室蘭": {
+        "prec_no": "21",
+        "block_no": "47423",
+        "a or s": "s"
+    },
+    "大滝": {
+        "prec_no": "21",
+        "block_no": "1067",
+        "a or s": "a"
+    },
+    "洞爺湖温泉": {
+        "prec_no": "21",
+        "block_no": "1329",
+        "a or s": "a"
+    },
+    "カルルス": {
+        "prec_no": "21",
+        "block_no": "1429",
+        "a or s": "a"
+    },
+    "豊浦": {
+        "prec_no": "21",
+        "block_no": "1496",
+        "a or s": "a"
+    },
+    "花和": {
+        "prec_no": "21",
+        "block_no": "1498",
+        "a or s": "a"
+    },
+    "虻田": {
+        "prec_no": "21",
+        "block_no": "1499",
+        "a or s": "a"
+    },
+    "壮瞥": {
+        "prec_no": "21",
+        "block_no": "1500",
+        "a or s": "a"
+    },
+    "入江": {
+        "prec_no": "21",
+        "block_no": "1501",
+        "a or s": "a"
+    },
+    "月浦": {
+        "prec_no": "21",
+        "block_no": "1502",
+        "a or s": "a"
+    },
+    "北有珠": {
+        "prec_no": "21",
+        "block_no": "1503",
+        "a or s": "a"
+    },
+    "洞爺湖畔": {
+        "prec_no": "21",
+        "block_no": "1504",
+        "a or s": "a"
+    },
+    "胆振地方全地点": {
+        "prec_no": "21",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "厚真幌内": {
+        "prec_no": "21",
+        "block_no": "1665",
+        "a or s": "a"
+    },
+    "日高門別": {
+        "prec_no": "22",
+        "block_no": "0136",
+        "a or s": "a"
+    },
+    "新和": {
+        "prec_no": "22",
+        "block_no": "0137",
+        "a or s": "a"
+    },
+    "ヌモトル山": {
+        "prec_no": "22",
+        "block_no": "0138",
+        "a or s": "a"
+    },
+    "笹山": {
+        "prec_no": "48",
+        "block_no": "0425",
+        "a or s": "a"
+    },
+    "静内": {
+        "prec_no": "22",
+        "block_no": "0140",
+        "a or s": "a"
+    },
+    "ピセナイ山": {
+        "prec_no": "22",
+        "block_no": "0141",
+        "a or s": "a"
+    },
+    "浦河": {
+        "prec_no": "22",
+        "block_no": "47426",
+        "a or s": "s"
+    },
+    "仁世宇": {
+        "prec_no": "22",
+        "block_no": "1097",
+        "a or s": "a"
+    },
+    "三石": {
+        "prec_no": "22",
+        "block_no": "1198",
+        "a or s": "a"
+    },
+    "日高": {
+        "prec_no": "22",
+        "block_no": "1202",
+        "a or s": "a"
+    },
+    "幌満": {
+        "prec_no": "22",
+        "block_no": "1264",
+        "a or s": "a"
+    },
+    "目黒": {
+        "prec_no": "22",
+        "block_no": "1276",
+        "a or s": "a"
+    },
+    "中杵臼": {
+        "prec_no": "22",
+        "block_no": "1288",
+        "a or s": "a"
+    },
+    "えりも岬": {
+        "prec_no": "22",
+        "block_no": "1340",
+        "a or s": "a"
+    },
+    "旭": {
+        "prec_no": "22",
+        "block_no": "1430",
+        "a or s": "a"
+    },
+    "平取": {
+        "prec_no": "22",
+        "block_no": "1594",
+        "a or s": "a"
+    },
+    "日高地方全地点": {
+        "prec_no": "22",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "長万部": {
+        "prec_no": "23",
+        "block_no": "0143",
+        "a or s": "a"
+    },
+    "八雲": {
+        "prec_no": "23",
+        "block_no": "0144",
+        "a or s": "a"
+    },
+    "森": {
+        "prec_no": "23",
+        "block_no": "0145",
+        "a or s": "a"
+    },
+    "大沼": {
+        "prec_no": "23",
+        "block_no": "0146",
+        "a or s": "a"
+    },
+    "川汲": {
+        "prec_no": "23",
+        "block_no": "0147",
+        "a or s": "a"
+    },
+    "北斗": {
+        "prec_no": "23",
+        "block_no": "0148",
+        "a or s": "a"
+    },
+    "函館": {
+        "prec_no": "23",
+        "block_no": "47430",
+        "a or s": "s"
+    },
+    "汐首": {
+        "prec_no": "23",
+        "block_no": "0150",
+        "a or s": "a"
+    },
+    "小谷石": {
+        "prec_no": "23",
+        "block_no": "0151",
+        "a or s": "a"
+    },
+    "松前": {
+        "prec_no": "23",
+        "block_no": "0152",
+        "a or s": "a"
+    },
+    "木古内": {
+        "prec_no": "23",
+        "block_no": "0917",
+        "a or s": "a"
+    },
+    "千軒": {
+        "prec_no": "23",
+        "block_no": "1265",
+        "a or s": "a"
+    },
+    "蛾眉野": {
+        "prec_no": "23",
+        "block_no": "1416",
+        "a or s": "a"
+    },
+    "高松": {
+        "prec_no": "72",
+        "block_no": "47891",
+        "a or s": "s"
+    },
+    "戸井泊": {
+        "prec_no": "23",
+        "block_no": "1543",
+        "a or s": "a"
+    },
+    "知内": {
+        "prec_no": "23",
+        "block_no": "1552",
+        "a or s": "a"
+    },
+    "熊石": {
+        "prec_no": "23",
+        "block_no": "0155",
+        "a or s": "a"
+    },
+    "渡島地方全地点": {
+        "prec_no": "23",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "せたな": {
+        "prec_no": "24",
+        "block_no": "0153",
+        "a or s": "a"
+    },
+    "今金": {
+        "prec_no": "24",
+        "block_no": "0154",
+        "a or s": "a"
+    },
+    "潮見": {
+        "prec_no": "24",
+        "block_no": "0156",
+        "a or s": "a"
+    },
+    "江差": {
+        "prec_no": "24",
+        "block_no": "47428",
+        "a or s": "s"
+    },
+    "奥尻": {
+        "prec_no": "24",
+        "block_no": "1199",
+        "a or s": "a"
+    },
+    "鶉": {
+        "prec_no": "24",
+        "block_no": "1200",
+        "a or s": "a"
+    },
+    "石崎": {
+        "prec_no": "24",
+        "block_no": "1205",
+        "a or s": "a"
+    },
+    "米岡": {
+        "prec_no": "24",
+        "block_no": "1513",
+        "a or s": "a"
+    },
+    "檜山地方全地点": {
+        "prec_no": "24",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "障子山": {
+        "prec_no": "31",
+        "block_no": "0158",
+        "a or s": "a"
+    },
+    "むつ": {
+        "prec_no": "31",
+        "block_no": "47576",
+        "a or s": "s"
+    },
+    "蟹田": {
+        "prec_no": "31",
+        "block_no": "0160",
+        "a or s": "a"
+    },
+    "青森": {
+        "prec_no": "31",
+        "block_no": "47575",
+        "a or s": "s"
+    },
+    "野辺地": {
+        "prec_no": "31",
+        "block_no": "0162",
+        "a or s": "a"
+    },
+    "鰺ケ沢": {
+        "prec_no": "31",
+        "block_no": "0163",
+        "a or s": "a"
+    },
+    "五所川原": {
+        "prec_no": "31",
+        "block_no": "0164",
+        "a or s": "a"
+    },
+    "深浦": {
+        "prec_no": "31",
+        "block_no": "47574",
+        "a or s": "s"
+    },
+    "弘前": {
+        "prec_no": "31",
+        "block_no": "0166",
+        "a or s": "a"
+    },
+    "黒石": {
+        "prec_no": "31",
+        "block_no": "0167",
+        "a or s": "a"
+    },
+    "八甲田山": {
+        "prec_no": "31",
+        "block_no": "0168",
+        "a or s": "a"
+    },
+    "三沢": {
+        "prec_no": "31",
+        "block_no": "0169",
+        "a or s": "a"
+    },
+    "四兵衛森": {
+        "prec_no": "31",
+        "block_no": "0170",
+        "a or s": "a"
+    },
+    "毛無山": {
+        "prec_no": "31",
+        "block_no": "0171",
+        "a or s": "a"
+    },
+    "十和田": {
+        "prec_no": "31",
+        "block_no": "0172",
+        "a or s": "a"
+    },
+    "八戸": {
+        "prec_no": "31",
+        "block_no": "47581",
+        "a or s": "s"
+    },
+    "大鰐": {
+        "prec_no": "31",
+        "block_no": "0174",
+        "a or s": "a"
+    },
+    "碇ケ関": {
+        "prec_no": "31",
+        "block_no": "0175",
+        "a or s": "a"
+    },
+    "空岱山": {
+        "prec_no": "31",
+        "block_no": "0176",
+        "a or s": "a"
+    },
+    "休屋": {
+        "prec_no": "31",
+        "block_no": "0177",
+        "a or s": "a"
+    },
+    "朝日奈岳": {
+        "prec_no": "31",
+        "block_no": "0178",
+        "a or s": "a"
+    },
+    "三戸": {
+        "prec_no": "31",
+        "block_no": "0179",
+        "a or s": "a"
+    },
+    "今別": {
+        "prec_no": "31",
+        "block_no": "1026",
+        "a or s": "a"
+    },
+    "六ケ所": {
+        "prec_no": "31",
+        "block_no": "1027",
+        "a or s": "a"
+    },
+    "大間": {
+        "prec_no": "31",
+        "block_no": "1041",
+        "a or s": "a"
+    },
+    "大和山": {
+        "prec_no": "31",
+        "block_no": "1042",
+        "a or s": "a"
+    },
+    "酸ケ湯": {
+        "prec_no": "31",
+        "block_no": "1079",
+        "a or s": "a"
+    },
+    "岳": {
+        "prec_no": "31",
+        "block_no": "1108",
+        "a or s": "a"
+    },
+    "長慶平": {
+        "prec_no": "31",
+        "block_no": "1110",
+        "a or s": "a"
+    },
+    "市浦": {
+        "prec_no": "31",
+        "block_no": "1119",
+        "a or s": "a"
+    },
+    "小田野沢": {
+        "prec_no": "31",
+        "block_no": "1122",
+        "a or s": "a"
+    },
+    "脇野沢": {
+        "prec_no": "31",
+        "block_no": "1124",
+        "a or s": "a"
+    },
+    "七戸": {
+        "prec_no": "31",
+        "block_no": "1183",
+        "a or s": "a"
+    },
+    "戸来": {
+        "prec_no": "31",
+        "block_no": "1272",
+        "a or s": "a"
+    },
+    "温川": {
+        "prec_no": "31",
+        "block_no": "1406",
+        "a or s": "a"
+    },
+    "青森大谷": {
+        "prec_no": "31",
+        "block_no": "1495",
+        "a or s": "a"
+    },
+    "湯野川": {
+        "prec_no": "31",
+        "block_no": "1559",
+        "a or s": "a"
+    },
+    "青森県全地点": {
+        "prec_no": "31",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "田代岳": {
+        "prec_no": "32",
+        "block_no": "0180",
+        "a or s": "a"
+    },
+    "陣場": {
+        "prec_no": "32",
+        "block_no": "0181",
+        "a or s": "a"
+    },
+    "杉沢山": {
+        "prec_no": "32",
+        "block_no": "0182",
+        "a or s": "a"
+    },
+    "能代": {
+        "prec_no": "32",
+        "block_no": "0183",
+        "a or s": "a"
+    },
+    "鷹巣": {
+        "prec_no": "32",
+        "block_no": "0184",
+        "a or s": "a"
+    },
+    "鹿角": {
+        "prec_no": "32",
+        "block_no": "0185",
+        "a or s": "a"
+    },
+    "湯瀬": {
+        "prec_no": "32",
+        "block_no": "0186",
+        "a or s": "a"
+    },
+    "森吉山": {
+        "prec_no": "32",
+        "block_no": "0187",
+        "a or s": "a"
+    },
+    "五城目": {
+        "prec_no": "32",
+        "block_no": "0188",
+        "a or s": "a"
+    },
+    "男鹿本山": {
+        "prec_no": "32",
+        "block_no": "0189",
+        "a or s": "a"
+    },
+    "秋田": {
+        "prec_no": "32",
+        "block_no": "47582",
+        "a or s": "s"
+    },
+    "太平山": {
+        "prec_no": "35",
+        "block_no": "0261",
+        "a or s": "a"
+    },
+    "岩見三内": {
+        "prec_no": "32",
+        "block_no": "0192",
+        "a or s": "a"
+    },
+    "角館": {
+        "prec_no": "32",
+        "block_no": "0193",
+        "a or s": "a"
+    },
+    "田沢湖": {
+        "prec_no": "32",
+        "block_no": "0194",
+        "a or s": "a"
+    },
+    "大曲": {
+        "prec_no": "32",
+        "block_no": "0195",
+        "a or s": "a"
+    },
+    "本荘": {
+        "prec_no": "32",
+        "block_no": "0196",
+        "a or s": "a"
+    },
+    "保呂羽山": {
+        "prec_no": "32",
+        "block_no": "0197",
+        "a or s": "a"
+    },
+    "横手": {
+        "prec_no": "32",
+        "block_no": "0198",
+        "a or s": "a"
+    },
+    "にかほ": {
+        "prec_no": "32",
+        "block_no": "0199",
+        "a or s": "a"
+    },
+    "矢島": {
+        "prec_no": "32",
+        "block_no": "0200",
+        "a or s": "a"
+    },
+    "三森山": {
+        "prec_no": "52",
+        "block_no": "0498",
+        "a or s": "a"
+    },
+    "湯沢": {
+        "prec_no": "54",
+        "block_no": "0544",
+        "a or s": "a"
+    },
+    "姥井戸山": {
+        "prec_no": "32",
+        "block_no": "0203",
+        "a or s": "a"
+    },
+    "湯の岱": {
+        "prec_no": "32",
+        "block_no": "0204",
+        "a or s": "a"
+    },
+    "大館": {
+        "prec_no": "32",
+        "block_no": "0912",
+        "a or s": "a"
+    },
+    "大潟": {
+        "prec_no": "54",
+        "block_no": "1302",
+        "a or s": "a"
+    },
+    "男鹿": {
+        "prec_no": "32",
+        "block_no": "1036",
+        "a or s": "a"
+    },
+    "八森": {
+        "prec_no": "32",
+        "block_no": "1043",
+        "a or s": "a"
+    },
+    "大正寺": {
+        "prec_no": "32",
+        "block_no": "1050",
+        "a or s": "a"
+    },
+    "東成瀬": {
+        "prec_no": "32",
+        "block_no": "1109",
+        "a or s": "a"
+    },
+    "比立内": {
+        "prec_no": "32",
+        "block_no": "1115",
+        "a or s": "a"
+    },
+    "東由利": {
+        "prec_no": "32",
+        "block_no": "1117",
+        "a or s": "a"
+    },
+    "阿仁合": {
+        "prec_no": "32",
+        "block_no": "1131",
+        "a or s": "a"
+    },
+    "鎧畑": {
+        "prec_no": "32",
+        "block_no": "1167",
+        "a or s": "a"
+    },
+    "藤里": {
+        "prec_no": "32",
+        "block_no": "1273",
+        "a or s": "a"
+    },
+    "桧木内": {
+        "prec_no": "32",
+        "block_no": "1278",
+        "a or s": "a"
+    },
+    "八幡平": {
+        "prec_no": "32",
+        "block_no": "1289",
+        "a or s": "a"
+    },
+    "笹子": {
+        "prec_no": "32",
+        "block_no": "1407",
+        "a or s": "a"
+    },
+    "藤原": {
+        "prec_no": "42",
+        "block_no": "1222",
+        "a or s": "a"
+    },
+    "男鹿真山": {
+        "prec_no": "32",
+        "block_no": "1422",
+        "a or s": "a"
+    },
+    "仁別": {
+        "prec_no": "32",
+        "block_no": "1425",
+        "a or s": "a"
+    },
+    "脇神": {
+        "prec_no": "32",
+        "block_no": "1463",
+        "a or s": "a"
+    },
+    "雄和": {
+        "prec_no": "32",
+        "block_no": "1511",
+        "a or s": "a"
+    },
+    "秋田県全地点": {
+        "prec_no": "32",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "田沢湖高原": {
+        "prec_no": "32",
+        "block_no": "1652",
+        "a or s": "a"
+    },
+    "種市": {
+        "prec_no": "33",
+        "block_no": "0205",
+        "a or s": "a"
+    },
+    "軽米": {
+        "prec_no": "33",
+        "block_no": "0206",
+        "a or s": "a"
+    },
+    "二戸": {
+        "prec_no": "33",
+        "block_no": "0207",
+        "a or s": "a"
+    },
+    "折爪岳": {
+        "prec_no": "33",
+        "block_no": "0208",
+        "a or s": "a"
+    },
+    "久慈": {
+        "prec_no": "33",
+        "block_no": "0209",
+        "a or s": "a"
+    },
+    "西岳": {
+        "prec_no": "33",
+        "block_no": "0210",
+        "a or s": "a"
+    },
+    "葛巻": {
+        "prec_no": "33",
+        "block_no": "0211",
+        "a or s": "a"
+    },
+    "袖山": {
+        "prec_no": "33",
+        "block_no": "0212",
+        "a or s": "a"
+    },
+    "茶臼岳": {
+        "prec_no": "33",
+        "block_no": "0213",
+        "a or s": "a"
+    },
+    "岩手松尾": {
+        "prec_no": "33",
+        "block_no": "0214",
+        "a or s": "a"
+    },
+    "岩手山": {
+        "prec_no": "33",
+        "block_no": "0215",
+        "a or s": "a"
+    },
+    "岩洞": {
+        "prec_no": "33",
+        "block_no": "0216",
+        "a or s": "a"
+    },
+    "大森山": {
+        "prec_no": "33",
+        "block_no": "0217",
+        "a or s": "a"
+    },
+    "岩泉": {
+        "prec_no": "33",
+        "block_no": "0218",
+        "a or s": "a"
+    },
+    "駒ケ岳": {
+        "prec_no": "33",
+        "block_no": "0219",
+        "a or s": "a"
+    },
+    "害鷹森": {
+        "prec_no": "33",
+        "block_no": "0220",
+        "a or s": "a"
+    },
+    "雫石": {
+        "prec_no": "33",
+        "block_no": "0221",
+        "a or s": "a"
+    },
+    "盛岡": {
+        "prec_no": "33",
+        "block_no": "47584",
+        "a or s": "s"
+    },
+    "宮古": {
+        "prec_no": "33",
+        "block_no": "47585",
+        "a or s": "s"
+    },
+    "薬師岳": {
+        "prec_no": "33",
+        "block_no": "0224",
+        "a or s": "a"
+    },
+    "黒森山": {
+        "prec_no": "33",
+        "block_no": "0225",
+        "a or s": "a"
+    },
+    "豊沢": {
+        "prec_no": "33",
+        "block_no": "0226",
+        "a or s": "a"
+    },
+    "花巻": {
+        "prec_no": "33",
+        "block_no": "0227",
+        "a or s": "a"
+    },
+    "大迫": {
+        "prec_no": "33",
+        "block_no": "0228",
+        "a or s": "a"
+    },
+    "湯田": {
+        "prec_no": "33",
+        "block_no": "0229",
+        "a or s": "a"
+    },
+    "北上": {
+        "prec_no": "33",
+        "block_no": "0230",
+        "a or s": "a"
+    },
+    "遠野": {
+        "prec_no": "33",
+        "block_no": "0231",
+        "a or s": "a"
+    },
+    "五葉山": {
+        "prec_no": "33",
+        "block_no": "0232",
+        "a or s": "a"
+    },
+    "釜石": {
+        "prec_no": "33",
+        "block_no": "0233",
+        "a or s": "a"
+    },
+    "岳山": {
+        "prec_no": "33",
+        "block_no": "0234",
+        "a or s": "a"
+    },
+    "若柳": {
+        "prec_no": "33",
+        "block_no": "0235",
+        "a or s": "a"
+    },
+    "江刺": {
+        "prec_no": "33",
+        "block_no": "0236",
+        "a or s": "a"
+    },
+    "大船渡": {
+        "prec_no": "33",
+        "block_no": "47512",
+        "a or s": "s"
+    },
+    "一関": {
+        "prec_no": "33",
+        "block_no": "0238",
+        "a or s": "a"
+    },
+    "千厩": {
+        "prec_no": "33",
+        "block_no": "0239",
+        "a or s": "a"
+    },
+    "室根山": {
+        "prec_no": "33",
+        "block_no": "0240",
+        "a or s": "a"
+    },
+    "祭畤": {
+        "prec_no": "33",
+        "block_no": "1028",
+        "a or s": "a"
+    },
+    "好摩": {
+        "prec_no": "33",
+        "block_no": "1032",
+        "a or s": "a"
+    },
+    "山田": {
+        "prec_no": "87",
+        "block_no": "1624",
+        "a or s": "a"
+    },
+    "大野": {
+        "prec_no": "57",
+        "block_no": "0573",
+        "a or s": "a"
+    },
+    "衣川": {
+        "prec_no": "33",
+        "block_no": "1045",
+        "a or s": "a"
+    },
+    "薮川": {
+        "prec_no": "33",
+        "block_no": "1078",
+        "a or s": "a"
+    },
+    "米里": {
+        "prec_no": "33",
+        "block_no": "1113",
+        "a or s": "a"
+    },
+    "沢内": {
+        "prec_no": "33",
+        "block_no": "1118",
+        "a or s": "a"
+    },
+    "荒屋": {
+        "prec_no": "33",
+        "block_no": "1120",
+        "a or s": "a"
+    },
+    "普代": {
+        "prec_no": "33",
+        "block_no": "1123",
+        "a or s": "a"
+    },
+    "紫波": {
+        "prec_no": "33",
+        "block_no": "1128",
+        "a or s": "a"
+    },
+    "葛根田": {
+        "prec_no": "33",
+        "block_no": "1168",
+        "a or s": "a"
+    },
+    "住田": {
+        "prec_no": "33",
+        "block_no": "1206",
+        "a or s": "a"
+    },
+    "小本": {
+        "prec_no": "33",
+        "block_no": "1212",
+        "a or s": "a"
+    },
+    "奥中山": {
+        "prec_no": "33",
+        "block_no": "1215",
+        "a or s": "a"
+    },
+    "山形": {
+        "prec_no": "35",
+        "block_no": "47588",
+        "a or s": "s"
+    },
+    "川井": {
+        "prec_no": "33",
+        "block_no": "1224",
+        "a or s": "a"
+    },
+    "門馬": {
+        "prec_no": "33",
+        "block_no": "1225",
+        "a or s": "a"
+    },
+    "下戸鎖": {
+        "prec_no": "33",
+        "block_no": "1332",
+        "a or s": "a"
+    },
+    "区界": {
+        "prec_no": "33",
+        "block_no": "1447",
+        "a or s": "a"
+    },
+    "大槌": {
+        "prec_no": "33",
+        "block_no": "1508",
+        "a or s": "a"
+    },
+    "大東": {
+        "prec_no": "68",
+        "block_no": "0696",
+        "a or s": "a"
+    },
+    "金ケ崎": {
+        "prec_no": "33",
+        "block_no": "1558",
+        "a or s": "a"
+    },
+    "滝沢": {
+        "prec_no": "33",
+        "block_no": "1560",
+        "a or s": "a"
+    },
+    "附馬牛": {
+        "prec_no": "33",
+        "block_no": "1563",
+        "a or s": "a"
+    },
+    "岩手県全地点": {
+        "prec_no": "33",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "厳美": {
+        "prec_no": "33",
+        "block_no": "1598",
+        "a or s": "a"
+    },
+    "刈屋": {
+        "prec_no": "33",
+        "block_no": "1627",
+        "a or s": "a"
+    },
+    "新町": {
+        "prec_no": "33",
+        "block_no": "1628",
+        "a or s": "a"
+    },
+    "陸前高田": {
+        "prec_no": "33",
+        "block_no": "1629",
+        "a or s": "a"
+    },
+    "一方井": {
+        "prec_no": "33",
+        "block_no": "1653",
+        "a or s": "a"
+    },
+    "栗駒山": {
+        "prec_no": "34",
+        "block_no": "0241",
+        "a or s": "a"
+    },
+    "気仙沼": {
+        "prec_no": "34",
+        "block_no": "0242",
+        "a or s": "a"
+    },
+    "川渡": {
+        "prec_no": "34",
+        "block_no": "0243",
+        "a or s": "a"
+    },
+    "築館": {
+        "prec_no": "34",
+        "block_no": "0244",
+        "a or s": "a"
+    },
+    "箕輪山": {
+        "prec_no": "34",
+        "block_no": "0245",
+        "a or s": "a"
+    },
+    "志津川": {
+        "prec_no": "34",
+        "block_no": "0246",
+        "a or s": "a"
+    },
+    "古川": {
+        "prec_no": "34",
+        "block_no": "0247",
+        "a or s": "a"
+    },
+    "大衡": {
+        "prec_no": "34",
+        "block_no": "0248",
+        "a or s": "a"
+    },
+    "鹿島台": {
+        "prec_no": "34",
+        "block_no": "0249",
+        "a or s": "a"
+    },
+    "石巻": {
+        "prec_no": "34",
+        "block_no": "47592",
+        "a or s": "s"
+    },
+    "新川": {
+        "prec_no": "34",
+        "block_no": "0251",
+        "a or s": "a"
+    },
+    "鷹巣山": {
+        "prec_no": "34",
+        "block_no": "0252",
+        "a or s": "a"
+    },
+    "仙台": {
+        "prec_no": "34",
+        "block_no": "47590",
+        "a or s": "s"
+    },
+    "川崎": {
+        "prec_no": "34",
+        "block_no": "0254",
+        "a or s": "a"
+    },
+    "不忘山": {
+        "prec_no": "34",
+        "block_no": "0255",
+        "a or s": "a"
+    },
+    "白石": {
+        "prec_no": "85",
+        "block_no": "0829",
+        "a or s": "a"
+    },
+    "亘理": {
+        "prec_no": "34",
+        "block_no": "0257",
+        "a or s": "a"
+    },
+    "雄勝": {
+        "prec_no": "34",
+        "block_no": "0985",
+        "a or s": "a"
+    },
+    "米山": {
+        "prec_no": "34",
+        "block_no": "1029",
+        "a or s": "a"
+    },
+    "塩釜": {
+        "prec_no": "34",
+        "block_no": "1030",
+        "a or s": "a"
+    },
+    "駒ノ湯": {
+        "prec_no": "34",
+        "block_no": "1126",
+        "a or s": "a"
+    },
+    "丸森": {
+        "prec_no": "34",
+        "block_no": "1220",
+        "a or s": "a"
+    },
+    "花山": {
+        "prec_no": "34",
+        "block_no": "1267",
+        "a or s": "a"
+    },
+    "江ノ島": {
+        "prec_no": "46",
+        "block_no": "0391",
+        "a or s": "a"
+    },
+    "筆甫": {
+        "prec_no": "34",
+        "block_no": "1298",
+        "a or s": "a"
+    },
+    "泉ケ岳": {
+        "prec_no": "34",
+        "block_no": "1365",
+        "a or s": "a"
+    },
+    "名取": {
+        "prec_no": "34",
+        "block_no": "1464",
+        "a or s": "a"
+    },
+    "鴬沢": {
+        "prec_no": "34",
+        "block_no": "1526",
+        "a or s": "a"
+    },
+    "加美": {
+        "prec_no": "34",
+        "block_no": "1561",
+        "a or s": "a"
+    },
+    "蔵王": {
+        "prec_no": "34",
+        "block_no": "1564",
+        "a or s": "a"
+    },
+    "宮城県全地点": {
+        "prec_no": "34",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "栗駒深山": {
+        "prec_no": "34",
+        "block_no": "1597",
+        "a or s": "a"
+    },
+    "栗駒": {
+        "prec_no": "34",
+        "block_no": "1600",
+        "a or s": "a"
+    },
+    "女川": {
+        "prec_no": "34",
+        "block_no": "1626",
+        "a or s": "a"
+    },
+    "桃生": {
+        "prec_no": "34",
+        "block_no": "1630",
+        "a or s": "a"
+    },
+    "東松島": {
+        "prec_no": "34",
+        "block_no": "1631",
+        "a or s": "a"
+    },
+    "岩沼": {
+        "prec_no": "34",
+        "block_no": "1632",
+        "a or s": "a"
+    },
+    "鳥海山": {
+        "prec_no": "35",
+        "block_no": "0258",
+        "a or s": "a"
+    },
+    "酒田": {
+        "prec_no": "35",
+        "block_no": "47587",
+        "a or s": "s"
+    },
+    "差首鍋": {
+        "prec_no": "35",
+        "block_no": "0260",
+        "a or s": "a"
+    },
+    "鶴岡": {
+        "prec_no": "35",
+        "block_no": "0263",
+        "a or s": "a"
+    },
+    "狩川": {
+        "prec_no": "35",
+        "block_no": "0264",
+        "a or s": "a"
+    },
+    "新庄": {
+        "prec_no": "35",
+        "block_no": "47520",
+        "a or s": "s"
+    },
+    "瀬見": {
+        "prec_no": "35",
+        "block_no": "0266",
+        "a or s": "a"
+    },
+    "温海岳": {
+        "prec_no": "35",
+        "block_no": "0267",
+        "a or s": "a"
+    },
+    "櫛引": {
+        "prec_no": "35",
+        "block_no": "0268",
+        "a or s": "a"
+    },
+    "月山": {
+        "prec_no": "35",
+        "block_no": "0269",
+        "a or s": "a"
+    },
+    "銀山": {
+        "prec_no": "35",
+        "block_no": "0270",
+        "a or s": "a"
+    },
+    "楯岡": {
+        "prec_no": "35",
+        "block_no": "0271",
+        "a or s": "a"
+    },
+    "左沢": {
+        "prec_no": "35",
+        "block_no": "0272",
+        "a or s": "a"
+    },
+    "葉山": {
+        "prec_no": "35",
+        "block_no": "0274",
+        "a or s": "a"
+    },
+    "長井": {
+        "prec_no": "35",
+        "block_no": "0275",
+        "a or s": "a"
+    },
+    "蔵王山": {
+        "prec_no": "35",
+        "block_no": "0276",
+        "a or s": "a"
+    },
+    "小国": {
+        "prec_no": "54",
+        "block_no": "1154",
+        "a or s": "a"
+    },
+    "高峰": {
+        "prec_no": "35",
+        "block_no": "0278",
+        "a or s": "a"
+    },
+    "米沢": {
+        "prec_no": "35",
+        "block_no": "0279",
+        "a or s": "a"
+    },
+    "西吾妻山": {
+        "prec_no": "35",
+        "block_no": "0280",
+        "a or s": "a"
+    },
+    "向町": {
+        "prec_no": "35",
+        "block_no": "0910",
+        "a or s": "a"
+    },
+    "上草津": {
+        "prec_no": "35",
+        "block_no": "1038",
+        "a or s": "a"
+    },
+    "尾花沢": {
+        "prec_no": "35",
+        "block_no": "1039",
+        "a or s": "a"
+    },
+    "鼠ケ関": {
+        "prec_no": "35",
+        "block_no": "1040",
+        "a or s": "a"
+    },
+    "山毛欅潰山": {
+        "prec_no": "35",
+        "block_no": "1103",
+        "a or s": "a"
+    },
+    "肘折": {
+        "prec_no": "35",
+        "block_no": "1125",
+        "a or s": "a"
+    },
+    "高畠": {
+        "prec_no": "35",
+        "block_no": "1132",
+        "a or s": "a"
+    },
+    "落合": {
+        "prec_no": "35",
+        "block_no": "1169",
+        "a or s": "a"
+    },
+    "飛島": {
+        "prec_no": "35",
+        "block_no": "1291",
+        "a or s": "a"
+    },
+    "大井沢": {
+        "prec_no": "35",
+        "block_no": "1292",
+        "a or s": "a"
+    },
+    "荒沢": {
+        "prec_no": "35",
+        "block_no": "1357",
+        "a or s": "a"
+    },
+    "中津川": {
+        "prec_no": "52",
+        "block_no": "0494",
+        "a or s": "a"
+    },
+    "白鷹山": {
+        "prec_no": "35",
+        "block_no": "1428",
+        "a or s": "a"
+    },
+    "浜中": {
+        "prec_no": "35",
+        "block_no": "1465",
+        "a or s": "a"
+    },
+    "東根": {
+        "prec_no": "35",
+        "block_no": "1488",
+        "a or s": "a"
+    },
+    "村山": {
+        "prec_no": "35",
+        "block_no": "1539",
+        "a or s": "a"
+    },
+    "上山中山": {
+        "prec_no": "35",
+        "block_no": "1562",
+        "a or s": "a"
+    },
+    "山形県全地点": {
+        "prec_no": "35",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "酒田大沢": {
+        "prec_no": "35",
+        "block_no": "1664",
+        "a or s": "a"
+    },
+    "上田沢": {
+        "prec_no": "35",
+        "block_no": "1678",
+        "a or s": "a"
+    },
+    "浪江": {
+        "prec_no": "36",
+        "block_no": "0295",
+        "a or s": "a"
+    },
+    "小野新町": {
+        "prec_no": "36",
+        "block_no": "0304",
+        "a or s": "a"
+    },
+    "広野": {
+        "prec_no": "36",
+        "block_no": "1034",
+        "a or s": "a"
+    },
+    "川内": {
+        "prec_no": "88",
+        "block_no": "0880",
+        "a or s": "a"
+    },
+    "相馬": {
+        "prec_no": "36",
+        "block_no": "0285",
+        "a or s": "a"
+    },
+    "郡山": {
+        "prec_no": "36",
+        "block_no": "0299",
+        "a or s": "a"
+    },
+    "福島県全地点": {
+        "prec_no": "36",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "梁川": {
+        "prec_no": "36",
+        "block_no": "0281",
+        "a or s": "a"
+    },
+    "稲荷峠": {
+        "prec_no": "36",
+        "block_no": "0282",
+        "a or s": "a"
+    },
+    "吾妻山": {
+        "prec_no": "68",
+        "block_no": "0700",
+        "a or s": "a"
+    },
+    "福島": {
+        "prec_no": "36",
+        "block_no": "47595",
+        "a or s": "s"
+    },
+    "喜多方": {
+        "prec_no": "36",
+        "block_no": "0286",
+        "a or s": "a"
+    },
+    "八木沢": {
+        "prec_no": "36",
+        "block_no": "0287",
+        "a or s": "a"
+    },
+    "原町": {
+        "prec_no": "36",
+        "block_no": "0288",
+        "a or s": "a"
+    },
+    "飯谷山": {
+        "prec_no": "36",
+        "block_no": "0289",
+        "a or s": "a"
+    },
+    "猪苗代": {
+        "prec_no": "36",
+        "block_no": "0290",
+        "a or s": "a"
+    },
+    "二本松": {
+        "prec_no": "36",
+        "block_no": "0291",
+        "a or s": "a"
+    },
+    "白馬石山": {
+        "prec_no": "36",
+        "block_no": "0292",
+        "a or s": "a"
+    },
+    "若松": {
+        "prec_no": "36",
+        "block_no": "47570",
+        "a or s": "s"
+    },
+    "船引": {
+        "prec_no": "36",
+        "block_no": "0294",
+        "a or s": "a"
+    },
+    "浅草岳": {
+        "prec_no": "36",
+        "block_no": "0296",
+        "a or s": "a"
+    },
+    "只見": {
+        "prec_no": "36",
+        "block_no": "0297",
+        "a or s": "a"
+    },
+    "博士峠": {
+        "prec_no": "36",
+        "block_no": "0298",
+        "a or s": "a"
+    },
+    "富岡": {
+        "prec_no": "36",
+        "block_no": "0300",
+        "a or s": "a"
+    },
+    "南郷": {
+        "prec_no": "36",
+        "block_no": "0301",
+        "a or s": "a"
+    },
+    "駒止峠": {
+        "prec_no": "36",
+        "block_no": "0302",
+        "a or s": "a"
+    },
+    "田島": {
+        "prec_no": "36",
+        "block_no": "0303",
+        "a or s": "a"
+    },
+    "観音山": {
+        "prec_no": "36",
+        "block_no": "0305",
+        "a or s": "a"
+    },
+    "白河": {
+        "prec_no": "36",
+        "block_no": "47597",
+        "a or s": "s"
+    },
+    "石川": {
+        "prec_no": "36",
+        "block_no": "0307",
+        "a or s": "a"
+    },
+    "山王峠": {
+        "prec_no": "36",
+        "block_no": "0308",
+        "a or s": "a"
+    },
+    "大辷山": {
+        "prec_no": "36",
+        "block_no": "0309",
+        "a or s": "a"
+    },
+    "平": {
+        "prec_no": "55",
+        "block_no": "1413",
+        "a or s": "a"
+    },
+    "田代山": {
+        "prec_no": "36",
+        "block_no": "0311",
+        "a or s": "a"
+    },
+    "東白川": {
+        "prec_no": "36",
+        "block_no": "0312",
+        "a or s": "a"
+    },
+    "小名浜": {
+        "prec_no": "36",
+        "block_no": "47598",
+        "a or s": "s"
+    },
+    "西会津": {
+        "prec_no": "36",
+        "block_no": "1031",
+        "a or s": "a"
+    },
+    "鷲倉": {
+        "prec_no": "36",
+        "block_no": "1116",
+        "a or s": "a"
+    },
+    "上遠野": {
+        "prec_no": "36",
+        "block_no": "1127",
+        "a or s": "a"
+    },
+    "飯舘": {
+        "prec_no": "36",
+        "block_no": "1130",
+        "a or s": "a"
+    },
+    "津島": {
+        "prec_no": "36",
+        "block_no": "1150",
+        "a or s": "a"
+    },
+    "舘岩": {
+        "prec_no": "36",
+        "block_no": "1269",
+        "a or s": "a"
+    },
+    "川前": {
+        "prec_no": "36",
+        "block_no": "1274",
+        "a or s": "a"
+    },
+    "桧原": {
+        "prec_no": "36",
+        "block_no": "1282",
+        "a or s": "a"
+    },
+    "茂庭": {
+        "prec_no": "36",
+        "block_no": "1293",
+        "a or s": "a"
+    },
+    "湯本": {
+        "prec_no": "36",
+        "block_no": "1294",
+        "a or s": "a"
+    },
+    "桧枝岐": {
+        "prec_no": "36",
+        "block_no": "1295",
+        "a or s": "a"
+    },
+    "吉尾峠": {
+        "prec_no": "36",
+        "block_no": "1359",
+        "a or s": "a"
+    },
+    "六十里越": {
+        "prec_no": "36",
+        "block_no": "1364",
+        "a or s": "a"
+    },
+    "湖南": {
+        "prec_no": "36",
+        "block_no": "1386",
+        "a or s": "a"
+    },
+    "玉川": {
+        "prec_no": "73",
+        "block_no": "0733",
+        "a or s": "a"
+    },
+    "新地": {
+        "prec_no": "36",
+        "block_no": "1633",
+        "a or s": "a"
+    },
+    "古殿": {
+        "prec_no": "36",
+        "block_no": "1634",
+        "a or s": "a"
+    },
+    "花園": {
+        "prec_no": "40",
+        "block_no": "0314",
+        "a or s": "a"
+    },
+    "北茨城": {
+        "prec_no": "40",
+        "block_no": "0315",
+        "a or s": "a"
+    },
+    "大子": {
+        "prec_no": "40",
+        "block_no": "0316",
+        "a or s": "a"
+    },
+    "神峰山": {
+        "prec_no": "40",
+        "block_no": "0317",
+        "a or s": "a"
+    },
+    "笠間": {
+        "prec_no": "40",
+        "block_no": "0318",
+        "a or s": "a"
+    },
+    "水戸": {
+        "prec_no": "40",
+        "block_no": "47629",
+        "a or s": "s"
+    },
+    "古河": {
+        "prec_no": "40",
+        "block_no": "0320",
+        "a or s": "a"
+    },
+    "愛宕山": {
+        "prec_no": "40",
+        "block_no": "0321",
+        "a or s": "a"
+    },
+    "下妻": {
+        "prec_no": "40",
+        "block_no": "0322",
+        "a or s": "a"
+    },
+    "坂東": {
+        "prec_no": "40",
+        "block_no": "0323",
+        "a or s": "a"
+    },
+    "土浦": {
+        "prec_no": "40",
+        "block_no": "0324",
+        "a or s": "a"
+    },
+    "鹿嶋": {
+        "prec_no": "40",
+        "block_no": "0325",
+        "a or s": "a"
+    },
+    "江戸崎": {
+        "prec_no": "40",
+        "block_no": "0911",
+        "a or s": "a"
+    },
+    "日立": {
+        "prec_no": "40",
+        "block_no": "1011",
+        "a or s": "a"
+    },
+    "柿岡": {
+        "prec_no": "40",
+        "block_no": "1012",
+        "a or s": "a"
+    },
+    "美野里": {
+        "prec_no": "40",
+        "block_no": "1013",
+        "a or s": "a"
+    },
+    "龍ケ崎": {
+        "prec_no": "40",
+        "block_no": "1014",
+        "a or s": "a"
+    },
+    "筑波山": {
+        "prec_no": "40",
+        "block_no": "1082",
+        "a or s": "a"
+    },
+    "中野": {
+        "prec_no": "40",
+        "block_no": "1170",
+        "a or s": "a"
+    },
+    "徳田": {
+        "prec_no": "40",
+        "block_no": "1173",
+        "a or s": "a"
+    },
+    "鉾田": {
+        "prec_no": "40",
+        "block_no": "1245",
+        "a or s": "a"
+    },
+    "常陸大宮": {
+        "prec_no": "40",
+        "block_no": "1331",
+        "a or s": "a"
+    },
+    "門井": {
+        "prec_no": "40",
+        "block_no": "1388",
+        "a or s": "a"
+    },
+    "大能": {
+        "prec_no": "40",
+        "block_no": "1421",
+        "a or s": "a"
+    },
+    "つくば（館野）": {
+        "prec_no": "40",
+        "block_no": "47646",
+        "a or s": "s"
+    },
+    "下館": {
+        "prec_no": "40",
+        "block_no": "1530",
+        "a or s": "a"
+    },
+    "茨城県全地点": {
+        "prec_no": "40",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "高萩": {
+        "prec_no": "40",
+        "block_no": "1635",
+        "a or s": "a"
+    },
+    "常総": {
+        "prec_no": "40",
+        "block_no": "1661",
+        "a or s": "a"
+    },
+    "那須高原": {
+        "prec_no": "41",
+        "block_no": "0326",
+        "a or s": "a"
+    },
+    "黒田原": {
+        "prec_no": "41",
+        "block_no": "0327",
+        "a or s": "a"
+    },
+    "八方が原": {
+        "prec_no": "41",
+        "block_no": "0328",
+        "a or s": "a"
+    },
+    "黒磯": {
+        "prec_no": "41",
+        "block_no": "0329",
+        "a or s": "a"
+    },
+    "八溝山": {
+        "prec_no": "41",
+        "block_no": "0330",
+        "a or s": "a"
+    },
+    "大田原": {
+        "prec_no": "41",
+        "block_no": "0331",
+        "a or s": "a"
+    },
+    "奥日光（日光）": {
+        "prec_no": "41",
+        "block_no": "47690",
+        "a or s": "s"
+    },
+    "方塞山": {
+        "prec_no": "41",
+        "block_no": "0333",
+        "a or s": "a"
+    },
+    "高根沢": {
+        "prec_no": "41",
+        "block_no": "0334",
+        "a or s": "a"
+    },
+    "鹿沼": {
+        "prec_no": "41",
+        "block_no": "0335",
+        "a or s": "a"
+    },
+    "宇都宮": {
+        "prec_no": "41",
+        "block_no": "47615",
+        "a or s": "s"
+    },
+    "葛生": {
+        "prec_no": "41",
+        "block_no": "0337",
+        "a or s": "a"
+    },
+    "真岡": {
+        "prec_no": "41",
+        "block_no": "0338",
+        "a or s": "a"
+    },
+    "足利": {
+        "prec_no": "41",
+        "block_no": "0339",
+        "a or s": "a"
+    },
+    "栃木": {
+        "prec_no": "41",
+        "block_no": "0340",
+        "a or s": "a"
+    },
+    "小山": {
+        "prec_no": "41",
+        "block_no": "0341",
+        "a or s": "a"
+    },
+    "五十里": {
+        "prec_no": "41",
+        "block_no": "1015",
+        "a or s": "a"
+    },
+    "足尾": {
+        "prec_no": "41",
+        "block_no": "1016",
+        "a or s": "a"
+    },
+    "烏山": {
+        "prec_no": "41",
+        "block_no": "1017",
+        "a or s": "a"
+    },
+    "佐野": {
+        "prec_no": "41",
+        "block_no": "1018",
+        "a or s": "a"
+    },
+    "土呂部": {
+        "prec_no": "41",
+        "block_no": "1221",
+        "a or s": "a"
+    },
+    "今市": {
+        "prec_no": "41",
+        "block_no": "1333",
+        "a or s": "a"
+    },
+    "塩谷": {
+        "prec_no": "41",
+        "block_no": "1334",
+        "a or s": "a"
+    },
+    "栃木県全地点": {
+        "prec_no": "41",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "那須烏山": {
+        "prec_no": "41",
+        "block_no": "1605",
+        "a or s": "a"
+    },
+    "日光東町": {
+        "prec_no": "41",
+        "block_no": "1675",
+        "a or s": "a"
+    },
+    "前武尊": {
+        "prec_no": "42",
+        "block_no": "0342",
+        "a or s": "a"
+    },
+    "草津": {
+        "prec_no": "42",
+        "block_no": "0343",
+        "a or s": "a"
+    },
+    "野反湖": {
+        "prec_no": "42",
+        "block_no": "0344",
+        "a or s": "a"
+    },
+    "雨見山": {
+        "prec_no": "42",
+        "block_no": "0345",
+        "a or s": "a"
+    },
+    "沼田": {
+        "prec_no": "42",
+        "block_no": "0346",
+        "a or s": "a"
+    },
+    "赤城山": {
+        "prec_no": "42",
+        "block_no": "0347",
+        "a or s": "a"
+    },
+    "田代": {
+        "prec_no": "88",
+        "block_no": "1136",
+        "a or s": "a"
+    },
+    "榛名山": {
+        "prec_no": "42",
+        "block_no": "0349",
+        "a or s": "a"
+    },
+    "前橋": {
+        "prec_no": "42",
+        "block_no": "47624",
+        "a or s": "s"
+    },
+    "桐生": {
+        "prec_no": "42",
+        "block_no": "0351",
+        "a or s": "a"
+    },
+    "一の字山": {
+        "prec_no": "42",
+        "block_no": "0352",
+        "a or s": "a"
+    },
+    "上里見": {
+        "prec_no": "42",
+        "block_no": "0353",
+        "a or s": "a"
+    },
+    "西野牧": {
+        "prec_no": "42",
+        "block_no": "0354",
+        "a or s": "a"
+    },
+    "藤岡": {
+        "prec_no": "42",
+        "block_no": "0355",
+        "a or s": "a"
+    },
+    "館林": {
+        "prec_no": "42",
+        "block_no": "0356",
+        "a or s": "a"
+    },
+    "稲含山": {
+        "prec_no": "42",
+        "block_no": "0357",
+        "a or s": "a"
+    },
+    "みなかみ": {
+        "prec_no": "42",
+        "block_no": "1019",
+        "a or s": "a"
+    },
+    "中之条": {
+        "prec_no": "42",
+        "block_no": "1020",
+        "a or s": "a"
+    },
+    "伊勢崎": {
+        "prec_no": "42",
+        "block_no": "1021",
+        "a or s": "a"
+    },
+    "片品": {
+        "prec_no": "42",
+        "block_no": "1174",
+        "a or s": "a"
+    },
+    "神流": {
+        "prec_no": "42",
+        "block_no": "1223",
+        "a or s": "a"
+    },
+    "黒保根": {
+        "prec_no": "42",
+        "block_no": "1259",
+        "a or s": "a"
+    },
+    "高手山": {
+        "prec_no": "42",
+        "block_no": "1375",
+        "a or s": "a"
+    },
+    "群馬県全地点": {
+        "prec_no": "42",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "熊谷": {
+        "prec_no": "43",
+        "block_no": "47626",
+        "a or s": "s"
+    },
+    "久喜": {
+        "prec_no": "43",
+        "block_no": "0359",
+        "a or s": "a"
+    },
+    "秩父": {
+        "prec_no": "43",
+        "block_no": "47641",
+        "a or s": "s"
+    },
+    "堂平": {
+        "prec_no": "43",
+        "block_no": "0361",
+        "a or s": "a"
+    },
+    "飯能": {
+        "prec_no": "43",
+        "block_no": "0362",
+        "a or s": "a"
+    },
+    "さいたま": {
+        "prec_no": "43",
+        "block_no": "0363",
+        "a or s": "a"
+    },
+    "越谷": {
+        "prec_no": "43",
+        "block_no": "0364",
+        "a or s": "a"
+    },
+    "三峰": {
+        "prec_no": "43",
+        "block_no": "1000",
+        "a or s": "a"
+    },
+    "寄居": {
+        "prec_no": "43",
+        "block_no": "1009",
+        "a or s": "a"
+    },
+    "鴻巣": {
+        "prec_no": "43",
+        "block_no": "1069",
+        "a or s": "a"
+    },
+    "所沢": {
+        "prec_no": "43",
+        "block_no": "1070",
+        "a or s": "a"
+    },
+    "浦山": {
+        "prec_no": "43",
+        "block_no": "1159",
+        "a or s": "a"
+    },
+    "上吉田": {
+        "prec_no": "43",
+        "block_no": "1182",
+        "a or s": "a"
+    },
+    "鳩山": {
+        "prec_no": "43",
+        "block_no": "1232",
+        "a or s": "a"
+    },
+    "ときがわ": {
+        "prec_no": "43",
+        "block_no": "1497",
+        "a or s": "a"
+    },
+    "埼玉県全地点": {
+        "prec_no": "43",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "小河内": {
+        "prec_no": "44",
+        "block_no": "0365",
+        "a or s": "a"
+    },
+    "八王子": {
+        "prec_no": "44",
+        "block_no": "0366",
+        "a or s": "a"
+    },
+    "調布": {
+        "prec_no": "44",
+        "block_no": "0367",
+        "a or s": "a"
+    },
+    "世田谷": {
+        "prec_no": "44",
+        "block_no": "0368",
+        "a or s": "a"
+    },
+    "東京": {
+        "prec_no": "44",
+        "block_no": "47662",
+        "a or s": "s"
+    },
+    "江戸川臨海": {
+        "prec_no": "44",
+        "block_no": "0370",
+        "a or s": "a"
+    },
+    "羽田": {
+        "prec_no": "44",
+        "block_no": "0371",
+        "a or s": "a"
+    },
+    "大島": {
+        "prec_no": "44",
+        "block_no": "47675",
+        "a or s": "s"
+    },
+    "三宅島": {
+        "prec_no": "44",
+        "block_no": "47677",
+        "a or s": "s"
+    },
+    "八丈島": {
+        "prec_no": "44",
+        "block_no": "47678",
+        "a or s": "s"
+    },
+    "青梅": {
+        "prec_no": "44",
+        "block_no": "1001",
+        "a or s": "a"
+    },
+    "練馬": {
+        "prec_no": "44",
+        "block_no": "1002",
+        "a or s": "a"
+    },
+    "府中": {
+        "prec_no": "67",
+        "block_no": "0951",
+        "a or s": "a"
+    },
+    "新島": {
+        "prec_no": "44",
+        "block_no": "1522",
+        "a or s": "a"
+    },
+    "小沢": {
+        "prec_no": "44",
+        "block_no": "1180",
+        "a or s": "a"
+    },
+    "父島": {
+        "prec_no": "44",
+        "block_no": "47971",
+        "a or s": "s"
+    },
+    "大島北ノ山": {
+        "prec_no": "44",
+        "block_no": "1467",
+        "a or s": "a"
+    },
+    "八重見ヶ原": {
+        "prec_no": "44",
+        "block_no": "1468",
+        "a or s": "a"
+    },
+    "神津島": {
+        "prec_no": "44",
+        "block_no": "1523",
+        "a or s": "a"
+    },
+    "三宅坪田": {
+        "prec_no": "44",
+        "block_no": "1506",
+        "a or s": "a"
+    },
+    "三宅島阿古": {
+        "prec_no": "44",
+        "block_no": "1509",
+        "a or s": "a"
+    },
+    "三宅伊豆": {
+        "prec_no": "44",
+        "block_no": "1525",
+        "a or s": "a"
+    },
+    "南鳥島": {
+        "prec_no": "44",
+        "block_no": "47991",
+        "a or s": "s"
+    },
+    "東京都全地点": {
+        "prec_no": "44",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "母島": {
+        "prec_no": "44",
+        "block_no": "1595",
+        "a or s": "a"
+    },
+    "大島臨時": {
+        "prec_no": "44",
+        "block_no": "1642",
+        "a or s": "a"
+    },
+    "大島泉津": {
+        "prec_no": "44",
+        "block_no": "1643",
+        "a or s": "a"
+    },
+    "大島差木地": {
+        "prec_no": "44",
+        "block_no": "1644",
+        "a or s": "a"
+    },
+    "利島": {
+        "prec_no": "44",
+        "block_no": "1646",
+        "a or s": "a"
+    },
+    "青ヶ島": {
+        "prec_no": "44",
+        "block_no": "1648",
+        "a or s": "a"
+    },
+    "香取": {
+        "prec_no": "45",
+        "block_no": "0375",
+        "a or s": "a"
+    },
+    "我孫子": {
+        "prec_no": "45",
+        "block_no": "0376",
+        "a or s": "a"
+    },
+    "東庄": {
+        "prec_no": "45",
+        "block_no": "0377",
+        "a or s": "a"
+    },
+    "成田": {
+        "prec_no": "45",
+        "block_no": "0378",
+        "a or s": "a"
+    },
+    "銚子": {
+        "prec_no": "45",
+        "block_no": "47648",
+        "a or s": "s"
+    },
+    "千葉": {
+        "prec_no": "45",
+        "block_no": "47682",
+        "a or s": "s"
+    },
+    "茂原": {
+        "prec_no": "45",
+        "block_no": "0381",
+        "a or s": "a"
+    },
+    "木更津": {
+        "prec_no": "45",
+        "block_no": "0382",
+        "a or s": "a"
+    },
+    "鋸南": {
+        "prec_no": "45",
+        "block_no": "0383",
+        "a or s": "a"
+    },
+    "鴨川": {
+        "prec_no": "45",
+        "block_no": "0384",
+        "a or s": "a"
+    },
+    "勝浦": {
+        "prec_no": "45",
+        "block_no": "47674",
+        "a or s": "s"
+    },
+    "館山": {
+        "prec_no": "45",
+        "block_no": "47672",
+        "a or s": "s"
+    },
+    "佐倉": {
+        "prec_no": "45",
+        "block_no": "0916",
+        "a or s": "a"
+    },
+    "横芝光": {
+        "prec_no": "45",
+        "block_no": "1003",
+        "a or s": "a"
+    },
+    "大多喜": {
+        "prec_no": "45",
+        "block_no": "1004",
+        "a or s": "a"
+    },
+    "船橋": {
+        "prec_no": "45",
+        "block_no": "1236",
+        "a or s": "a"
+    },
+    "牛久": {
+        "prec_no": "45",
+        "block_no": "1238",
+        "a or s": "a"
+    },
+    "坂畑": {
+        "prec_no": "45",
+        "block_no": "1241",
+        "a or s": "a"
+    },
+    "千葉県全地点": {
+        "prec_no": "45",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "相模湖": {
+        "prec_no": "46",
+        "block_no": "0387",
+        "a or s": "a"
+    },
+    "海老名": {
+        "prec_no": "46",
+        "block_no": "0388",
+        "a or s": "a"
+    },
+    "横浜": {
+        "prec_no": "46",
+        "block_no": "47670",
+        "a or s": "s"
+    },
+    "箱根": {
+        "prec_no": "46",
+        "block_no": "0390",
+        "a or s": "a"
+    },
+    "三浦": {
+        "prec_no": "46",
+        "block_no": "0392",
+        "a or s": "a"
+    },
+    "相模原中央": {
+        "prec_no": "46",
+        "block_no": "1005",
+        "a or s": "a"
+    },
+    "日吉": {
+        "prec_no": "46",
+        "block_no": "1006",
+        "a or s": "a"
+    },
+    "平塚": {
+        "prec_no": "46",
+        "block_no": "1007",
+        "a or s": "a"
+    },
+    "小田原": {
+        "prec_no": "46",
+        "block_no": "1008",
+        "a or s": "a"
+    },
+    "丹沢湖": {
+        "prec_no": "46",
+        "block_no": "1096",
+        "a or s": "a"
+    },
+    "辻堂": {
+        "prec_no": "46",
+        "block_no": "1443",
+        "a or s": "a"
+    },
+    "神奈川県全地点": {
+        "prec_no": "46",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "野沢温泉": {
+        "prec_no": "48",
+        "block_no": "0393",
+        "a or s": "a"
+    },
+    "信濃町": {
+        "prec_no": "48",
+        "block_no": "0394",
+        "a or s": "a"
+    },
+    "飯山": {
+        "prec_no": "48",
+        "block_no": "0395",
+        "a or s": "a"
+    },
+    "白馬": {
+        "prec_no": "48",
+        "block_no": "0396",
+        "a or s": "a"
+    },
+    "長野": {
+        "prec_no": "48",
+        "block_no": "47610",
+        "a or s": "s"
+    },
+    "笠岳": {
+        "prec_no": "48",
+        "block_no": "0398",
+        "a or s": "a"
+    },
+    "大町": {
+        "prec_no": "85",
+        "block_no": "1667",
+        "a or s": "a"
+    },
+    "信州新町": {
+        "prec_no": "48",
+        "block_no": "0400",
+        "a or s": "a"
+    },
+    "四阿屋山": {
+        "prec_no": "48",
+        "block_no": "0401",
+        "a or s": "a"
+    },
+    "上田": {
+        "prec_no": "48",
+        "block_no": "0402",
+        "a or s": "a"
+    },
+    "燕岳": {
+        "prec_no": "48",
+        "block_no": "0403",
+        "a or s": "a"
+    },
+    "穂高": {
+        "prec_no": "48",
+        "block_no": "0404",
+        "a or s": "a"
+    },
+    "軽井沢": {
+        "prec_no": "48",
+        "block_no": "47622",
+        "a or s": "s"
+    },
+    "松本": {
+        "prec_no": "48",
+        "block_no": "47618",
+        "a or s": "s"
+    },
+    "鹿教湯": {
+        "prec_no": "48",
+        "block_no": "0407",
+        "a or s": "a"
+    },
+    "佐久": {
+        "prec_no": "48",
+        "block_no": "0408",
+        "a or s": "a"
+    },
+    "高ボッチ": {
+        "prec_no": "48",
+        "block_no": "0409",
+        "a or s": "a"
+    },
+    "茂来山": {
+        "prec_no": "48",
+        "block_no": "0410",
+        "a or s": "a"
+    },
+    "諏訪": {
+        "prec_no": "48",
+        "block_no": "47620",
+        "a or s": "s"
+    },
+    "八ケ岳": {
+        "prec_no": "48",
+        "block_no": "0412",
+        "a or s": "a"
+    },
+    "木曽平沢": {
+        "prec_no": "48",
+        "block_no": "0413",
+        "a or s": "a"
+    },
+    "原村": {
+        "prec_no": "48",
+        "block_no": "0414",
+        "a or s": "a"
+    },
+    "野辺山": {
+        "prec_no": "48",
+        "block_no": "0415",
+        "a or s": "a"
+    },
+    "御嶽山": {
+        "prec_no": "48",
+        "block_no": "0416",
+        "a or s": "a"
+    },
+    "木曽福島": {
+        "prec_no": "48",
+        "block_no": "0417",
+        "a or s": "a"
+    },
+    "高遠": {
+        "prec_no": "48",
+        "block_no": "1551",
+        "a or s": "a"
+    },
+    "入笠山": {
+        "prec_no": "48",
+        "block_no": "0419",
+        "a or s": "a"
+    },
+    "宮田高原": {
+        "prec_no": "48",
+        "block_no": "0420",
+        "a or s": "a"
+    },
+    "松峯": {
+        "prec_no": "48",
+        "block_no": "0421",
+        "a or s": "a"
+    },
+    "須原": {
+        "prec_no": "48",
+        "block_no": "0422",
+        "a or s": "a"
+    },
+    "摺古木山": {
+        "prec_no": "48",
+        "block_no": "0423",
+        "a or s": "a"
+    },
+    "飯島": {
+        "prec_no": "48",
+        "block_no": "0424",
+        "a or s": "a"
+    },
+    "飯田": {
+        "prec_no": "48",
+        "block_no": "47637",
+        "a or s": "s"
+    },
+    "恵那山": {
+        "prec_no": "48",
+        "block_no": "0427",
+        "a or s": "a"
+    },
+    "鶯巣": {
+        "prec_no": "48",
+        "block_no": "0428",
+        "a or s": "a"
+    },
+    "菅平": {
+        "prec_no": "48",
+        "block_no": "0992",
+        "a or s": "a"
+    },
+    "東御": {
+        "prec_no": "48",
+        "block_no": "0993",
+        "a or s": "a"
+    },
+    "上高地": {
+        "prec_no": "48",
+        "block_no": "0994",
+        "a or s": "a"
+    },
+    "南木曽": {
+        "prec_no": "48",
+        "block_no": "1022",
+        "a or s": "a"
+    },
+    "南小谷": {
+        "prec_no": "48",
+        "block_no": "1090",
+        "a or s": "a"
+    },
+    "鬼無里": {
+        "prec_no": "48",
+        "block_no": "1162",
+        "a or s": "a"
+    },
+    "立科": {
+        "prec_no": "48",
+        "block_no": "1300",
+        "a or s": "a"
+    },
+    "奈川": {
+        "prec_no": "48",
+        "block_no": "1312",
+        "a or s": "a"
+    },
+    "開田高原": {
+        "prec_no": "48",
+        "block_no": "1314",
+        "a or s": "a"
+    },
+    "浪合": {
+        "prec_no": "48",
+        "block_no": "1317",
+        "a or s": "a"
+    },
+    "辰野": {
+        "prec_no": "48",
+        "block_no": "1319",
+        "a or s": "a"
+    },
+    "南信濃": {
+        "prec_no": "48",
+        "block_no": "1323",
+        "a or s": "a"
+    },
+    "阿南": {
+        "prec_no": "48",
+        "block_no": "1339",
+        "a or s": "a"
+    },
+    "聖高原": {
+        "prec_no": "48",
+        "block_no": "1360",
+        "a or s": "a"
+    },
+    "網掛山": {
+        "prec_no": "48",
+        "block_no": "1392",
+        "a or s": "a"
+    },
+    "大鹿": {
+        "prec_no": "48",
+        "block_no": "1394",
+        "a or s": "a"
+    },
+    "杉島": {
+        "prec_no": "48",
+        "block_no": "1397",
+        "a or s": "a"
+    },
+    "十石峠": {
+        "prec_no": "48",
+        "block_no": "1399",
+        "a or s": "a"
+    },
+    "小谷": {
+        "prec_no": "55",
+        "block_no": "0556",
+        "a or s": "a"
+    },
+    "伊那": {
+        "prec_no": "48",
+        "block_no": "1445",
+        "a or s": "a"
+    },
+    "松本今井": {
+        "prec_no": "48",
+        "block_no": "1529",
+        "a or s": "a"
+    },
+    "北相木": {
+        "prec_no": "48",
+        "block_no": "1549",
+        "a or s": "a"
+    },
+    "白樺湖": {
+        "prec_no": "48",
+        "block_no": "1550",
+        "a or s": "a"
+    },
+    "宮田": {
+        "prec_no": "48",
+        "block_no": "1591",
+        "a or s": "a"
+    },
+    "長野県全地点": {
+        "prec_no": "48",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "王滝大又": {
+        "prec_no": "48",
+        "block_no": "1659",
+        "a or s": "a"
+    },
+    "木祖薮原": {
+        "prec_no": "48",
+        "block_no": "1666",
+        "a or s": "a"
+    },
+    "剣ノ峰": {
+        "prec_no": "49",
+        "block_no": "0429",
+        "a or s": "a"
+    },
+    "日向山": {
+        "prec_no": "49",
+        "block_no": "0430",
+        "a or s": "a"
+    },
+    "大菩薩": {
+        "prec_no": "49",
+        "block_no": "0431",
+        "a or s": "a"
+    },
+    "甲府": {
+        "prec_no": "49",
+        "block_no": "47638",
+        "a or s": "s"
+    },
+    "勝沼": {
+        "prec_no": "49",
+        "block_no": "0433",
+        "a or s": "a"
+    },
+    "大月": {
+        "prec_no": "49",
+        "block_no": "0434",
+        "a or s": "a"
+    },
+    "八町山": {
+        "prec_no": "49",
+        "block_no": "0435",
+        "a or s": "a"
+    },
+    "古関": {
+        "prec_no": "49",
+        "block_no": "0436",
+        "a or s": "a"
+    },
+    "河口湖": {
+        "prec_no": "49",
+        "block_no": "47640",
+        "a or s": "s"
+    },
+    "山中": {
+        "prec_no": "49",
+        "block_no": "0438",
+        "a or s": "a"
+    },
+    "南部": {
+        "prec_no": "49",
+        "block_no": "0439",
+        "a or s": "a"
+    },
+    "大泉": {
+        "prec_no": "49",
+        "block_no": "1023",
+        "a or s": "a"
+    },
+    "韮崎": {
+        "prec_no": "49",
+        "block_no": "1024",
+        "a or s": "a"
+    },
+    "上野原": {
+        "prec_no": "49",
+        "block_no": "1165",
+        "a or s": "a"
+    },
+    "切石": {
+        "prec_no": "49",
+        "block_no": "1234",
+        "a or s": "a"
+    },
+    "富士山": {
+        "prec_no": "50",
+        "block_no": "47639",
+        "a or s": "s"
+    },
+    "山梨県全地点": {
+        "prec_no": "49",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "乙女湖": {
+        "prec_no": "49",
+        "block_no": "1599",
+        "a or s": "a"
+    },
+    "富士川": {
+        "prec_no": "49",
+        "block_no": "1640",
+        "a or s": "a"
+    },
+    "白糸": {
+        "prec_no": "50",
+        "block_no": "0440",
+        "a or s": "a"
+    },
+    "御殿場": {
+        "prec_no": "50",
+        "block_no": "0441",
+        "a or s": "a"
+    },
+    "富士": {
+        "prec_no": "50",
+        "block_no": "0442",
+        "a or s": "a"
+    },
+    "三島": {
+        "prec_no": "50",
+        "block_no": "47657",
+        "a or s": "s"
+    },
+    "越木平": {
+        "prec_no": "50",
+        "block_no": "0444",
+        "a or s": "a"
+    },
+    "川根本町": {
+        "prec_no": "50",
+        "block_no": "0445",
+        "a or s": "a"
+    },
+    "大山": {
+        "prec_no": "69",
+        "block_no": "0716",
+        "a or s": "a"
+    },
+    "網代": {
+        "prec_no": "50",
+        "block_no": "47668",
+        "a or s": "s"
+    },
+    "高根山": {
+        "prec_no": "50",
+        "block_no": "0448",
+        "a or s": "a"
+    },
+    "静岡": {
+        "prec_no": "50",
+        "block_no": "47656",
+        "a or s": "s"
+    },
+    "霧山": {
+        "prec_no": "50",
+        "block_no": "0450",
+        "a or s": "a"
+    },
+    "天竜": {
+        "prec_no": "50",
+        "block_no": "0451",
+        "a or s": "a"
+    },
+    "島田": {
+        "prec_no": "50",
+        "block_no": "0452",
+        "a or s": "a"
+    },
+    "湯ケ島": {
+        "prec_no": "50",
+        "block_no": "0453",
+        "a or s": "a"
+    },
+    "天城山": {
+        "prec_no": "50",
+        "block_no": "0454",
+        "a or s": "a"
+    },
+    "浜松": {
+        "prec_no": "50",
+        "block_no": "47654",
+        "a or s": "s"
+    },
+    "松崎": {
+        "prec_no": "50",
+        "block_no": "0456",
+        "a or s": "a"
+    },
+    "稲取": {
+        "prec_no": "50",
+        "block_no": "0457",
+        "a or s": "a"
+    },
+    "御前崎": {
+        "prec_no": "50",
+        "block_no": "47655",
+        "a or s": "s"
+    },
+    "石廊崎": {
+        "prec_no": "50",
+        "block_no": "47666",
+        "a or s": "s"
+    },
+    "佐久間": {
+        "prec_no": "50",
+        "block_no": "0986",
+        "a or s": "a"
+    },
+    "土肥": {
+        "prec_no": "50",
+        "block_no": "0987",
+        "a or s": "a"
+    },
+    "三ヶ日": {
+        "prec_no": "50",
+        "block_no": "0988",
+        "a or s": "a"
+    },
+    "掛川": {
+        "prec_no": "50",
+        "block_no": "0989",
+        "a or s": "a"
+    },
+    "熊": {
+        "prec_no": "50",
+        "block_no": "1105",
+        "a or s": "a"
+    },
+    "三倉": {
+        "prec_no": "50",
+        "block_no": "1393",
+        "a or s": "a"
+    },
+    "梅ケ島": {
+        "prec_no": "50",
+        "block_no": "1114",
+        "a or s": "a"
+    },
+    "清水": {
+        "prec_no": "74",
+        "block_no": "47898",
+        "a or s": "s"
+    },
+    "磐田": {
+        "prec_no": "50",
+        "block_no": "1244",
+        "a or s": "a"
+    },
+    "菊川牧之原": {
+        "prec_no": "50",
+        "block_no": "1335",
+        "a or s": "a"
+    },
+    "井川": {
+        "prec_no": "50",
+        "block_no": "1338",
+        "a or s": "a"
+    },
+    "鍵穴": {
+        "prec_no": "50",
+        "block_no": "1440",
+        "a or s": "a"
+    },
+    "静岡県全地点": {
+        "prec_no": "50",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "静岡空港": {
+        "prec_no": "50",
+        "block_no": "1601",
+        "a or s": "a"
+    },
+    "春野": {
+        "prec_no": "50",
+        "block_no": "1662",
+        "a or s": "a"
+    },
+    "有東木": {
+        "prec_no": "50",
+        "block_no": "1668",
+        "a or s": "a"
+    },
+    "熱海伊豆山": {
+        "prec_no": "50",
+        "block_no": "1673",
+        "a or s": "a"
+    },
+    "一宮": {
+        "prec_no": "63",
+        "block_no": "0615",
+        "a or s": "a"
+    },
+    "豊山": {
+        "prec_no": "51",
+        "block_no": "0461",
+        "a or s": "a"
+    },
+    "茶臼山": {
+        "prec_no": "51",
+        "block_no": "0462",
+        "a or s": "a"
+    },
+    "名古屋": {
+        "prec_no": "51",
+        "block_no": "47636",
+        "a or s": "s"
+    },
+    "豊田": {
+        "prec_no": "81",
+        "block_no": "0772",
+        "a or s": "a"
+    },
+    "東海": {
+        "prec_no": "51",
+        "block_no": "0465",
+        "a or s": "a"
+    },
+    "出来山": {
+        "prec_no": "51",
+        "block_no": "0466",
+        "a or s": "a"
+    },
+    "岡崎": {
+        "prec_no": "51",
+        "block_no": "0467",
+        "a or s": "a"
+    },
+    "作手": {
+        "prec_no": "51",
+        "block_no": "0468",
+        "a or s": "a"
+    },
+    "一色": {
+        "prec_no": "51",
+        "block_no": "0469",
+        "a or s": "a"
+    },
+    "豊橋": {
+        "prec_no": "51",
+        "block_no": "0470",
+        "a or s": "a"
+    },
+    "伊良湖": {
+        "prec_no": "51",
+        "block_no": "47653",
+        "a or s": "s"
+    },
+    "田原": {
+        "prec_no": "51",
+        "block_no": "0472",
+        "a or s": "a"
+    },
+    "稲武": {
+        "prec_no": "51",
+        "block_no": "0982",
+        "a or s": "a"
+    },
+    "蟹江": {
+        "prec_no": "51",
+        "block_no": "0983",
+        "a or s": "a"
+    },
+    "南知多": {
+        "prec_no": "51",
+        "block_no": "0984",
+        "a or s": "a"
+    },
+    "小原": {
+        "prec_no": "51",
+        "block_no": "1166",
+        "a or s": "a"
+    },
+    "鳳来": {
+        "prec_no": "51",
+        "block_no": "1341",
+        "a or s": "a"
+    },
+    "蒲郡": {
+        "prec_no": "51",
+        "block_no": "1344",
+        "a or s": "a"
+    },
+    "愛西": {
+        "prec_no": "51",
+        "block_no": "1346",
+        "a or s": "a"
+    },
+    "セントレア": {
+        "prec_no": "51",
+        "block_no": "1555",
+        "a or s": "a"
+    },
+    "阿蔵": {
+        "prec_no": "51",
+        "block_no": "1576",
+        "a or s": "a"
+    },
+    "愛知県全地点": {
+        "prec_no": "51",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "大府": {
+        "prec_no": "51",
+        "block_no": "1638",
+        "a or s": "a"
+    },
+    "神岡": {
+        "prec_no": "52",
+        "block_no": "0473",
+        "a or s": "a"
+    },
+    "流葉山": {
+        "prec_no": "52",
+        "block_no": "0474",
+        "a or s": "a"
+    },
+    "森茂": {
+        "prec_no": "52",
+        "block_no": "0475",
+        "a or s": "a"
+    },
+    "高山": {
+        "prec_no": "52",
+        "block_no": "47617",
+        "a or s": "s"
+    },
+    "乗鞍岳": {
+        "prec_no": "52",
+        "block_no": "0477",
+        "a or s": "a"
+    },
+    "大日岳": {
+        "prec_no": "52",
+        "block_no": "0478",
+        "a or s": "a"
+    },
+    "新渕山": {
+        "prec_no": "52",
+        "block_no": "0479",
+        "a or s": "a"
+    },
+    "船山": {
+        "prec_no": "52",
+        "block_no": "0480",
+        "a or s": "a"
+    },
+    "白尾山": {
+        "prec_no": "52",
+        "block_no": "0481",
+        "a or s": "a"
+    },
+    "白鳥": {
+        "prec_no": "52",
+        "block_no": "0482",
+        "a or s": "a"
+    },
+    "萩原": {
+        "prec_no": "52",
+        "block_no": "0483",
+        "a or s": "a"
+    },
+    "蕪山": {
+        "prec_no": "52",
+        "block_no": "0484",
+        "a or s": "a"
+    },
+    "八幡": {
+        "prec_no": "82",
+        "block_no": "0780",
+        "a or s": "a"
+    },
+    "樽見": {
+        "prec_no": "52",
+        "block_no": "0486",
+        "a or s": "a"
+    },
+    "三界山": {
+        "prec_no": "52",
+        "block_no": "0488",
+        "a or s": "a"
+    },
+    "権現山": {
+        "prec_no": "85",
+        "block_no": "0826",
+        "a or s": "a"
+    },
+    "伽藍": {
+        "prec_no": "52",
+        "block_no": "0490",
+        "a or s": "a"
+    },
+    "美濃加茂": {
+        "prec_no": "52",
+        "block_no": "0491",
+        "a or s": "a"
+    },
+    "柄石峠": {
+        "prec_no": "52",
+        "block_no": "0492",
+        "a or s": "a"
+    },
+    "恵那": {
+        "prec_no": "52",
+        "block_no": "0493",
+        "a or s": "a"
+    },
+    "関ケ原": {
+        "prec_no": "52",
+        "block_no": "0495",
+        "a or s": "a"
+    },
+    "大垣": {
+        "prec_no": "52",
+        "block_no": "0496",
+        "a or s": "a"
+    },
+    "岐阜": {
+        "prec_no": "52",
+        "block_no": "47632",
+        "a or s": "s"
+    },
+    "美濃": {
+        "prec_no": "52",
+        "block_no": "1057",
+        "a or s": "a"
+    },
+    "多治見": {
+        "prec_no": "52",
+        "block_no": "1058",
+        "a or s": "a"
+    },
+    "上石津": {
+        "prec_no": "52",
+        "block_no": "1059",
+        "a or s": "a"
+    },
+    "栃尾": {
+        "prec_no": "54",
+        "block_no": "0530",
+        "a or s": "a"
+    },
+    "宮地": {
+        "prec_no": "52",
+        "block_no": "1066",
+        "a or s": "a"
+    },
+    "平井": {
+        "prec_no": "52",
+        "block_no": "1153",
+        "a or s": "a"
+    },
+    "長滝": {
+        "prec_no": "52",
+        "block_no": "1299",
+        "a or s": "a"
+    },
+    "揖斐川": {
+        "prec_no": "52",
+        "block_no": "1301",
+        "a or s": "a"
+    },
+    "六厩": {
+        "prec_no": "52",
+        "block_no": "1305",
+        "a or s": "a"
+    },
+    "白川": {
+        "prec_no": "52",
+        "block_no": "1306",
+        "a or s": "a"
+    },
+    "河合": {
+        "prec_no": "52",
+        "block_no": "1308",
+        "a or s": "a"
+    },
+    "宮之前": {
+        "prec_no": "52",
+        "block_no": "1311",
+        "a or s": "a"
+    },
+    "黒川": {
+        "prec_no": "52",
+        "block_no": "1313",
+        "a or s": "a"
+    },
+    "大日": {
+        "prec_no": "52",
+        "block_no": "1363",
+        "a or s": "a"
+    },
+    "付知": {
+        "prec_no": "52",
+        "block_no": "1384",
+        "a or s": "a"
+    },
+    "御母衣": {
+        "prec_no": "52",
+        "block_no": "1387",
+        "a or s": "a"
+    },
+    "小津": {
+        "prec_no": "52",
+        "block_no": "1390",
+        "a or s": "a"
+    },
+    "十二岳": {
+        "prec_no": "52",
+        "block_no": "1396",
+        "a or s": "a"
+    },
+    "ひるがの": {
+        "prec_no": "52",
+        "block_no": "1436",
+        "a or s": "a"
+    },
+    "清見": {
+        "prec_no": "52",
+        "block_no": "1437",
+        "a or s": "a"
+    },
+    "丹生川": {
+        "prec_no": "52",
+        "block_no": "1438",
+        "a or s": "a"
+    },
+    "関市板取": {
+        "prec_no": "52",
+        "block_no": "1577",
+        "a or s": "a"
+    },
+    "岐阜県全地点": {
+        "prec_no": "52",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "北勢": {
+        "prec_no": "53",
+        "block_no": "0499",
+        "a or s": "a"
+    },
+    "桑名": {
+        "prec_no": "53",
+        "block_no": "0500",
+        "a or s": "a"
+    },
+    "雲母峰": {
+        "prec_no": "53",
+        "block_no": "0501",
+        "a or s": "a"
+    },
+    "四日市": {
+        "prec_no": "53",
+        "block_no": "47684",
+        "a or s": "s"
+    },
+    "亀山": {
+        "prec_no": "53",
+        "block_no": "0503",
+        "a or s": "a"
+    },
+    "上野": {
+        "prec_no": "53",
+        "block_no": "47649",
+        "a or s": "s"
+    },
+    "笠取山": {
+        "prec_no": "53",
+        "block_no": "0505",
+        "a or s": "a"
+    },
+    "津": {
+        "prec_no": "53",
+        "block_no": "47651",
+        "a or s": "s"
+    },
+    "名張": {
+        "prec_no": "53",
+        "block_no": "0507",
+        "a or s": "a"
+    },
+    "国見山": {
+        "prec_no": "84",
+        "block_no": "0815",
+        "a or s": "a"
+    },
+    "小俣": {
+        "prec_no": "53",
+        "block_no": "0509",
+        "a or s": "a"
+    },
+    "粥見": {
+        "prec_no": "53",
+        "block_no": "0510",
+        "a or s": "a"
+    },
+    "藤坂峠": {
+        "prec_no": "53",
+        "block_no": "0511",
+        "a or s": "a"
+    },
+    "尾鷲": {
+        "prec_no": "53",
+        "block_no": "47663",
+        "a or s": "s"
+    },
+    "八幡峠": {
+        "prec_no": "53",
+        "block_no": "0513",
+        "a or s": "a"
+    },
+    "熊野": {
+        "prec_no": "53",
+        "block_no": "0514",
+        "a or s": "a"
+    },
+    "大台": {
+        "prec_no": "53",
+        "block_no": "0918",
+        "a or s": "a"
+    },
+    "松阪": {
+        "prec_no": "53",
+        "block_no": "0990",
+        "a or s": "a"
+    },
+    "磯部": {
+        "prec_no": "53",
+        "block_no": "0991",
+        "a or s": "a"
+    },
+    "鳥羽": {
+        "prec_no": "53",
+        "block_no": "1230",
+        "a or s": "a"
+    },
+    "宮川": {
+        "prec_no": "53",
+        "block_no": "1255",
+        "a or s": "a"
+    },
+    "南伊勢": {
+        "prec_no": "53",
+        "block_no": "1258",
+        "a or s": "a"
+    },
+    "紀伊長島": {
+        "prec_no": "53",
+        "block_no": "1349",
+        "a or s": "a"
+    },
+    "白山": {
+        "prec_no": "53",
+        "block_no": "1356",
+        "a or s": "a"
+    },
+    "阿児": {
+        "prec_no": "53",
+        "block_no": "1381",
+        "a or s": "a"
+    },
+    "御浜": {
+        "prec_no": "53",
+        "block_no": "1423",
+        "a or s": "a"
+    },
+    "熊野新鹿": {
+        "prec_no": "53",
+        "block_no": "1532",
+        "a or s": "a"
+    },
+    "三重県全地点": {
+        "prec_no": "53",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "村上": {
+        "prec_no": "54",
+        "block_no": "0515",
+        "a or s": "a"
+    },
+    "鷲ケ巣山": {
+        "prec_no": "54",
+        "block_no": "0516",
+        "a or s": "a"
+    },
+    "相川": {
+        "prec_no": "54",
+        "block_no": "47602",
+        "a or s": "s"
+    },
+    "両津": {
+        "prec_no": "54",
+        "block_no": "0518",
+        "a or s": "a"
+    },
+    "新潟": {
+        "prec_no": "54",
+        "block_no": "47604",
+        "a or s": "s"
+    },
+    "二王子岳": {
+        "prec_no": "54",
+        "block_no": "0520",
+        "a or s": "a"
+    },
+    "新津": {
+        "prec_no": "54",
+        "block_no": "0521",
+        "a or s": "a"
+    },
+    "巻": {
+        "prec_no": "54",
+        "block_no": "0522",
+        "a or s": "a"
+    },
+    "宝珠山": {
+        "prec_no": "54",
+        "block_no": "0523",
+        "a or s": "a"
+    },
+    "寺泊": {
+        "prec_no": "54",
+        "block_no": "0524",
+        "a or s": "a"
+    },
+    "三条": {
+        "prec_no": "54",
+        "block_no": "0525",
+        "a or s": "a"
+    },
+    "村松": {
+        "prec_no": "54",
+        "block_no": "0526",
+        "a or s": "a"
+    },
+    "津川": {
+        "prec_no": "54",
+        "block_no": "0527",
+        "a or s": "a"
+    },
+    "粟ヶ岳": {
+        "prec_no": "54",
+        "block_no": "0528",
+        "a or s": "a"
+    },
+    "長岡": {
+        "prec_no": "54",
+        "block_no": "0529",
+        "a or s": "a"
+    },
+    "守門岳": {
+        "prec_no": "54",
+        "block_no": "0531",
+        "a or s": "a"
+    },
+    "柏崎": {
+        "prec_no": "54",
+        "block_no": "0532",
+        "a or s": "a"
+    },
+    "桜坂峠": {
+        "prec_no": "54",
+        "block_no": "0533",
+        "a or s": "a"
+    },
+    "小出": {
+        "prec_no": "54",
+        "block_no": "0534",
+        "a or s": "a"
+    },
+    "高田": {
+        "prec_no": "54",
+        "block_no": "47612",
+        "a or s": "s"
+    },
+    "安塚": {
+        "prec_no": "54",
+        "block_no": "0536",
+        "a or s": "a"
+    },
+    "十日町": {
+        "prec_no": "54",
+        "block_no": "0537",
+        "a or s": "a"
+    },
+    "枝折峠": {
+        "prec_no": "54",
+        "block_no": "0538",
+        "a or s": "a"
+    },
+    "糸魚川": {
+        "prec_no": "54",
+        "block_no": "0539",
+        "a or s": "a"
+    },
+    "能生": {
+        "prec_no": "54",
+        "block_no": "0540",
+        "a or s": "a"
+    },
+    "光ケ原": {
+        "prec_no": "54",
+        "block_no": "0541",
+        "a or s": "a"
+    },
+    "大沢峠": {
+        "prec_no": "54",
+        "block_no": "0542",
+        "a or s": "a"
+    },
+    "津南": {
+        "prec_no": "54",
+        "block_no": "0543",
+        "a or s": "a"
+    },
+    "袴岳": {
+        "prec_no": "54",
+        "block_no": "0545",
+        "a or s": "a"
+    },
+    "粟島": {
+        "prec_no": "54",
+        "block_no": "0995",
+        "a or s": "a"
+    },
+    "羽茂": {
+        "prec_no": "54",
+        "block_no": "0996",
+        "a or s": "a"
+    },
+    "守門": {
+        "prec_no": "54",
+        "block_no": "0997",
+        "a or s": "a"
+    },
+    "関山": {
+        "prec_no": "54",
+        "block_no": "0998",
+        "a or s": "a"
+    },
+    "下関": {
+        "prec_no": "81",
+        "block_no": "47762",
+        "a or s": "s"
+    },
+    "鍵取": {
+        "prec_no": "54",
+        "block_no": "1102",
+        "a or s": "a"
+    },
+    "赤谷": {
+        "prec_no": "54",
+        "block_no": "1111",
+        "a or s": "a"
+    },
+    "松代": {
+        "prec_no": "54",
+        "block_no": "1155",
+        "a or s": "a"
+    },
+    "高根": {
+        "prec_no": "54",
+        "block_no": "1256",
+        "a or s": "a"
+    },
+    "平岩": {
+        "prec_no": "54",
+        "block_no": "1297",
+        "a or s": "a"
+    },
+    "弾崎": {
+        "prec_no": "54",
+        "block_no": "1315",
+        "a or s": "a"
+    },
+    "中条": {
+        "prec_no": "54",
+        "block_no": "1318",
+        "a or s": "a"
+    },
+    "三面": {
+        "prec_no": "54",
+        "block_no": "1369",
+        "a or s": "a"
+    },
+    "大湯": {
+        "prec_no": "54",
+        "block_no": "1370",
+        "a or s": "a"
+    },
+    "塩沢": {
+        "prec_no": "54",
+        "block_no": "1395",
+        "a or s": "a"
+    },
+    "宮寄上": {
+        "prec_no": "54",
+        "block_no": "1398",
+        "a or s": "a"
+    },
+    "樽本": {
+        "prec_no": "54",
+        "block_no": "1424",
+        "a or s": "a"
+    },
+    "川谷": {
+        "prec_no": "54",
+        "block_no": "1426",
+        "a or s": "a"
+    },
+    "筒方": {
+        "prec_no": "54",
+        "block_no": "1427",
+        "a or s": "a"
+    },
+    "室谷": {
+        "prec_no": "54",
+        "block_no": "1444",
+        "a or s": "a"
+    },
+    "松浜": {
+        "prec_no": "54",
+        "block_no": "1469",
+        "a or s": "a"
+    },
+    "秋津": {
+        "prec_no": "54",
+        "block_no": "1514",
+        "a or s": "a"
+    },
+    "新潟県全地点": {
+        "prec_no": "54",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "瓢湖": {
+        "prec_no": "54",
+        "block_no": "1645",
+        "a or s": "a"
+    },
+    "魚津": {
+        "prec_no": "55",
+        "block_no": "0547",
+        "a or s": "a"
+    },
+    "宇奈月": {
+        "prec_no": "55",
+        "block_no": "1412",
+        "a or s": "a"
+    },
+    "嘉例沢": {
+        "prec_no": "55",
+        "block_no": "0549",
+        "a or s": "a"
+    },
+    "伏木": {
+        "prec_no": "83",
+        "block_no": "0797",
+        "a or s": "a"
+    },
+    "富山": {
+        "prec_no": "55",
+        "block_no": "47607",
+        "a or s": "s"
+    },
+    "砺波": {
+        "prec_no": "55",
+        "block_no": "0552",
+        "a or s": "a"
+    },
+    "上市": {
+        "prec_no": "55",
+        "block_no": "0553",
+        "a or s": "a"
+    },
+    "南砺高宮": {
+        "prec_no": "55",
+        "block_no": "0554",
+        "a or s": "a"
+    },
+    "八尾": {
+        "prec_no": "62",
+        "block_no": "1470",
+        "a or s": "a"
+    },
+    "立山": {
+        "prec_no": "55",
+        "block_no": "0557",
+        "a or s": "a"
+    },
+    "細尾峠": {
+        "prec_no": "55",
+        "block_no": "0558",
+        "a or s": "a"
+    },
+    "谷折": {
+        "prec_no": "55",
+        "block_no": "0559",
+        "a or s": "a"
+    },
+    "氷見": {
+        "prec_no": "55",
+        "block_no": "1309",
+        "a or s": "a"
+    },
+    "細入": {
+        "prec_no": "55",
+        "block_no": "1415",
+        "a or s": "a"
+    },
+    "猪谷": {
+        "prec_no": "55",
+        "block_no": "1455",
+        "a or s": "a"
+    },
+    "秋ヶ島": {
+        "prec_no": "55",
+        "block_no": "1533",
+        "a or s": "a"
+    },
+    "五箇山": {
+        "prec_no": "55",
+        "block_no": "1553",
+        "a or s": "a"
+    },
+    "富山県全地点": {
+        "prec_no": "55",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "立山芦峅": {
+        "prec_no": "55",
+        "block_no": "1621",
+        "a or s": "a"
+    },
+    "珠洲": {
+        "prec_no": "56",
+        "block_no": "0560",
+        "a or s": "a"
+    },
+    "輪島": {
+        "prec_no": "56",
+        "block_no": "47600",
+        "a or s": "s"
+    },
+    "門前": {
+        "prec_no": "56",
+        "block_no": "0562",
+        "a or s": "a"
+    },
+    "木原岳": {
+        "prec_no": "56",
+        "block_no": "0563",
+        "a or s": "a"
+    },
+    "志賀": {
+        "prec_no": "56",
+        "block_no": "0564",
+        "a or s": "a"
+    },
+    "七尾": {
+        "prec_no": "56",
+        "block_no": "0565",
+        "a or s": "a"
+    },
+    "羽咋": {
+        "prec_no": "56",
+        "block_no": "0566",
+        "a or s": "a"
+    },
+    "かほく": {
+        "prec_no": "56",
+        "block_no": "0567",
+        "a or s": "a"
+    },
+    "宝達山": {
+        "prec_no": "56",
+        "block_no": "0568",
+        "a or s": "a"
+    },
+    "金沢": {
+        "prec_no": "56",
+        "block_no": "47605",
+        "a or s": "s"
+    },
+    "医王山": {
+        "prec_no": "56",
+        "block_no": "0570",
+        "a or s": "a"
+    },
+    "加賀中津原": {
+        "prec_no": "56",
+        "block_no": "0571",
+        "a or s": "a"
+    },
+    "白山河内": {
+        "prec_no": "56",
+        "block_no": "0973",
+        "a or s": "a"
+    },
+    "白山白峰": {
+        "prec_no": "56",
+        "block_no": "1171",
+        "a or s": "a"
+    },
+    "小松": {
+        "prec_no": "56",
+        "block_no": "1324",
+        "a or s": "a"
+    },
+    "穴水": {
+        "prec_no": "56",
+        "block_no": "1486",
+        "a or s": "a"
+    },
+    "三井": {
+        "prec_no": "56",
+        "block_no": "1544",
+        "a or s": "a"
+    },
+    "宝達志水": {
+        "prec_no": "56",
+        "block_no": "1545",
+        "a or s": "a"
+    },
+    "石川県全地点": {
+        "prec_no": "56",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "舳倉島": {
+        "prec_no": "56",
+        "block_no": "1650",
+        "a or s": "a"
+    },
+    "福井": {
+        "prec_no": "57",
+        "block_no": "47616",
+        "a or s": "s"
+    },
+    "タイラ山": {
+        "prec_no": "57",
+        "block_no": "0574",
+        "a or s": "a"
+    },
+    "春日野": {
+        "prec_no": "57",
+        "block_no": "0575",
+        "a or s": "a"
+    },
+    "板垣": {
+        "prec_no": "57",
+        "block_no": "0576",
+        "a or s": "a"
+    },
+    "今庄": {
+        "prec_no": "57",
+        "block_no": "0577",
+        "a or s": "a"
+    },
+    "敦賀": {
+        "prec_no": "57",
+        "block_no": "47631",
+        "a or s": "s"
+    },
+    "小浜": {
+        "prec_no": "57",
+        "block_no": "0579",
+        "a or s": "a"
+    },
+    "美山": {
+        "prec_no": "61",
+        "block_no": "1303",
+        "a or s": "a"
+    },
+    "川上": {
+        "prec_no": "57",
+        "block_no": "0975",
+        "a or s": "a"
+    },
+    "美浜": {
+        "prec_no": "57",
+        "block_no": "1010",
+        "a or s": "a"
+    },
+    "三国": {
+        "prec_no": "57",
+        "block_no": "1071",
+        "a or s": "a"
+    },
+    "勝山": {
+        "prec_no": "57",
+        "block_no": "1226",
+        "a or s": "a"
+    },
+    "越廼": {
+        "prec_no": "57",
+        "block_no": "1316",
+        "a or s": "a"
+    },
+    "九頭竜": {
+        "prec_no": "57",
+        "block_no": "1382",
+        "a or s": "a"
+    },
+    "大飯": {
+        "prec_no": "57",
+        "block_no": "1454",
+        "a or s": "a"
+    },
+    "春江": {
+        "prec_no": "57",
+        "block_no": "1537",
+        "a or s": "a"
+    },
+    "武生": {
+        "prec_no": "57",
+        "block_no": "1565",
+        "a or s": "a"
+    },
+    "福井県全地点": {
+        "prec_no": "57",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "今津": {
+        "prec_no": "60",
+        "block_no": "0580",
+        "a or s": "a"
+    },
+    "荒川": {
+        "prec_no": "60",
+        "block_no": "0581",
+        "a or s": "a"
+    },
+    "春照": {
+        "prec_no": "60",
+        "block_no": "0582",
+        "a or s": "a"
+    },
+    "彦根": {
+        "prec_no": "60",
+        "block_no": "47761",
+        "a or s": "s"
+    },
+    "近江八幡": {
+        "prec_no": "60",
+        "block_no": "0584",
+        "a or s": "a"
+    },
+    "君ケ畑台地": {
+        "prec_no": "60",
+        "block_no": "0585",
+        "a or s": "a"
+    },
+    "土山": {
+        "prec_no": "60",
+        "block_no": "0587",
+        "a or s": "a"
+    },
+    "東近江": {
+        "prec_no": "60",
+        "block_no": "0963",
+        "a or s": "a"
+    },
+    "信楽": {
+        "prec_no": "60",
+        "block_no": "0964",
+        "a or s": "a"
+    },
+    "長浜": {
+        "prec_no": "73",
+        "block_no": "0739",
+        "a or s": "a"
+    },
+    "南小松": {
+        "prec_no": "60",
+        "block_no": "1083",
+        "a or s": "a"
+    },
+    "柳ケ瀬": {
+        "prec_no": "60",
+        "block_no": "1087",
+        "a or s": "a"
+    },
+    "霜ケ原": {
+        "prec_no": "60",
+        "block_no": "1361",
+        "a or s": "a"
+    },
+    "米原": {
+        "prec_no": "60",
+        "block_no": "1524",
+        "a or s": "a"
+    },
+    "朽木平良": {
+        "prec_no": "60",
+        "block_no": "1578",
+        "a or s": "a"
+    },
+    "伊吹山": {
+        "prec_no": "60",
+        "block_no": "47751",
+        "a or s": "s"
+    },
+    "滋賀県全地点": {
+        "prec_no": "60",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "峰山": {
+        "prec_no": "61",
+        "block_no": "0588",
+        "a or s": "a"
+    },
+    "宮津": {
+        "prec_no": "61",
+        "block_no": "0589",
+        "a or s": "a"
+    },
+    "舞鶴": {
+        "prec_no": "61",
+        "block_no": "47750",
+        "a or s": "s"
+    },
+    "仏坂": {
+        "prec_no": "61",
+        "block_no": "0591",
+        "a or s": "a"
+    },
+    "浅原山": {
+        "prec_no": "61",
+        "block_no": "0592",
+        "a or s": "a"
+    },
+    "福知山": {
+        "prec_no": "61",
+        "block_no": "0593",
+        "a or s": "a"
+    },
+    "胡麻": {
+        "prec_no": "61",
+        "block_no": "0594",
+        "a or s": "a"
+    },
+    "妙高山": {
+        "prec_no": "61",
+        "block_no": "0595",
+        "a or s": "a"
+    },
+    "園部": {
+        "prec_no": "61",
+        "block_no": "0596",
+        "a or s": "a"
+    },
+    "京都": {
+        "prec_no": "61",
+        "block_no": "47759",
+        "a or s": "s"
+    },
+    "京田辺": {
+        "prec_no": "61",
+        "block_no": "0598",
+        "a or s": "a"
+    },
+    "鷲峰山": {
+        "prec_no": "61",
+        "block_no": "0599",
+        "a or s": "a"
+    },
+    "花背峠": {
+        "prec_no": "61",
+        "block_no": "0920",
+        "a or s": "a"
+    },
+    "知井": {
+        "prec_no": "61",
+        "block_no": "0927",
+        "a or s": "a"
+    },
+    "京北": {
+        "prec_no": "61",
+        "block_no": "0928",
+        "a or s": "a"
+    },
+    "間人": {
+        "prec_no": "61",
+        "block_no": "0965",
+        "a or s": "a"
+    },
+    "本庄": {
+        "prec_no": "61",
+        "block_no": "0966",
+        "a or s": "a"
+    },
+    "長岡京": {
+        "prec_no": "61",
+        "block_no": "1025",
+        "a or s": "a"
+    },
+    "睦寄": {
+        "prec_no": "61",
+        "block_no": "1160",
+        "a or s": "a"
+    },
+    "須知": {
+        "prec_no": "61",
+        "block_no": "1378",
+        "a or s": "a"
+    },
+    "三岳": {
+        "prec_no": "61",
+        "block_no": "1379",
+        "a or s": "a"
+    },
+    "綾部": {
+        "prec_no": "61",
+        "block_no": "1380",
+        "a or s": "a"
+    },
+    "三和": {
+        "prec_no": "61",
+        "block_no": "1383",
+        "a or s": "a"
+    },
+    "京都府全地点": {
+        "prec_no": "61",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "坂浦": {
+        "prec_no": "61",
+        "block_no": "1641",
+        "a or s": "a"
+    },
+    "綾部山家": {
+        "prec_no": "61",
+        "block_no": "1671",
+        "a or s": "a"
+    },
+    "能勢": {
+        "prec_no": "62",
+        "block_no": "0600",
+        "a or s": "a"
+    },
+    "箕面": {
+        "prec_no": "62",
+        "block_no": "0601",
+        "a or s": "a"
+    },
+    "豊中": {
+        "prec_no": "62",
+        "block_no": "0602",
+        "a or s": "a"
+    },
+    "大阪": {
+        "prec_no": "62",
+        "block_no": "47772",
+        "a or s": "s"
+    },
+    "生駒山": {
+        "prec_no": "62",
+        "block_no": "0604",
+        "a or s": "a"
+    },
+    "河内長野": {
+        "prec_no": "62",
+        "block_no": "0605",
+        "a or s": "a"
+    },
+    "熊取": {
+        "prec_no": "62",
+        "block_no": "0606",
+        "a or s": "a"
+    },
+    "堺": {
+        "prec_no": "62",
+        "block_no": "1062",
+        "a or s": "a"
+    },
+    "枚方": {
+        "prec_no": "62",
+        "block_no": "1065",
+        "a or s": "a"
+    },
+    "関空島": {
+        "prec_no": "62",
+        "block_no": "1471",
+        "a or s": "a"
+    },
+    "大阪府全地点": {
+        "prec_no": "62",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "茨木": {
+        "prec_no": "62",
+        "block_no": "1602",
+        "a or s": "a"
+    },
+    "香住": {
+        "prec_no": "63",
+        "block_no": "0607",
+        "a or s": "a"
+    },
+    "温泉": {
+        "prec_no": "63",
+        "block_no": "0608",
+        "a or s": "a"
+    },
+    "三川山": {
+        "prec_no": "63",
+        "block_no": "0609",
+        "a or s": "a"
+    },
+    "豊岡": {
+        "prec_no": "63",
+        "block_no": "47747",
+        "a or s": "s"
+    },
+    "八鹿": {
+        "prec_no": "63",
+        "block_no": "0611",
+        "a or s": "a"
+    },
+    "和田山": {
+        "prec_no": "63",
+        "block_no": "0612",
+        "a or s": "a"
+    },
+    "生野": {
+        "prec_no": "63",
+        "block_no": "0613",
+        "a or s": "a"
+    },
+    "柏原": {
+        "prec_no": "63",
+        "block_no": "0614",
+        "a or s": "a"
+    },
+    "笠形山": {
+        "prec_no": "63",
+        "block_no": "0616",
+        "a or s": "a"
+    },
+    "佐用": {
+        "prec_no": "63",
+        "block_no": "0617",
+        "a or s": "a"
+    },
+    "後川": {
+        "prec_no": "63",
+        "block_no": "0618",
+        "a or s": "a"
+    },
+    "上郡": {
+        "prec_no": "63",
+        "block_no": "0619",
+        "a or s": "a"
+    },
+    "的場山": {
+        "prec_no": "63",
+        "block_no": "0620",
+        "a or s": "a"
+    },
+    "姫路": {
+        "prec_no": "63",
+        "block_no": "47769",
+        "a or s": "s"
+    },
+    "名塩": {
+        "prec_no": "63",
+        "block_no": "0622",
+        "a or s": "a"
+    },
+    "六甲山": {
+        "prec_no": "63",
+        "block_no": "0623",
+        "a or s": "a"
+    },
+    "家島": {
+        "prec_no": "63",
+        "block_no": "0624",
+        "a or s": "a"
+    },
+    "明石": {
+        "prec_no": "63",
+        "block_no": "0625",
+        "a or s": "a"
+    },
+    "神戸": {
+        "prec_no": "63",
+        "block_no": "47770",
+        "a or s": "s"
+    },
+    "洲本": {
+        "prec_no": "63",
+        "block_no": "47776",
+        "a or s": "s"
+    },
+    "福良": {
+        "prec_no": "63",
+        "block_no": "0628",
+        "a or s": "a"
+    },
+    "西脇": {
+        "prec_no": "63",
+        "block_no": "0956",
+        "a or s": "a"
+    },
+    "大屋": {
+        "prec_no": "63",
+        "block_no": "0967",
+        "a or s": "a"
+    },
+    "福崎": {
+        "prec_no": "63",
+        "block_no": "0968",
+        "a or s": "a"
+    },
+    "三田": {
+        "prec_no": "63",
+        "block_no": "0969",
+        "a or s": "a"
+    },
+    "郡家": {
+        "prec_no": "63",
+        "block_no": "0970",
+        "a or s": "a"
+    },
+    "兎和野高原": {
+        "prec_no": "63",
+        "block_no": "0977",
+        "a or s": "a"
+    },
+    "三木": {
+        "prec_no": "63",
+        "block_no": "1227",
+        "a or s": "a"
+    },
+    "南淡": {
+        "prec_no": "63",
+        "block_no": "1337",
+        "a or s": "a"
+    },
+    "淡路町": {
+        "prec_no": "63",
+        "block_no": "1448",
+        "a or s": "a"
+    },
+    "芦屋": {
+        "prec_no": "63",
+        "block_no": "1449",
+        "a or s": "a"
+    },
+    "神戸塩屋": {
+        "prec_no": "63",
+        "block_no": "1450",
+        "a or s": "a"
+    },
+    "神戸空港": {
+        "prec_no": "63",
+        "block_no": "1587",
+        "a or s": "a"
+    },
+    "西宮": {
+        "prec_no": "63",
+        "block_no": "1588",
+        "a or s": "a"
+    },
+    "兵庫県全地点": {
+        "prec_no": "63",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "奈良": {
+        "prec_no": "64",
+        "block_no": "47780",
+        "a or s": "s"
+    },
+    "針": {
+        "prec_no": "64",
+        "block_no": "0630",
+        "a or s": "a"
+    },
+    "田原本": {
+        "prec_no": "64",
+        "block_no": "0631",
+        "a or s": "a"
+    },
+    "曽爾": {
+        "prec_no": "64",
+        "block_no": "0632",
+        "a or s": "a"
+    },
+    "大宇陀": {
+        "prec_no": "64",
+        "block_no": "0633",
+        "a or s": "a"
+    },
+    "高見山": {
+        "prec_no": "64",
+        "block_no": "0634",
+        "a or s": "a"
+    },
+    "五條": {
+        "prec_no": "64",
+        "block_no": "0635",
+        "a or s": "a"
+    },
+    "天辻": {
+        "prec_no": "64",
+        "block_no": "0636",
+        "a or s": "a"
+    },
+    "山上ケ岳": {
+        "prec_no": "64",
+        "block_no": "0637",
+        "a or s": "a"
+    },
+    "荒神岳": {
+        "prec_no": "64",
+        "block_no": "0638",
+        "a or s": "a"
+    },
+    "日出岳": {
+        "prec_no": "64",
+        "block_no": "0639",
+        "a or s": "a"
+    },
+    "上野地": {
+        "prec_no": "64",
+        "block_no": "0640",
+        "a or s": "a"
+    },
+    "玉置山": {
+        "prec_no": "64",
+        "block_no": "0641",
+        "a or s": "a"
+    },
+    "上北山": {
+        "prec_no": "64",
+        "block_no": "0957",
+        "a or s": "a"
+    },
+    "風屋": {
+        "prec_no": "64",
+        "block_no": "1228",
+        "a or s": "a"
+    },
+    "高見": {
+        "prec_no": "64",
+        "block_no": "1366",
+        "a or s": "a"
+    },
+    "葛城": {
+        "prec_no": "64",
+        "block_no": "1376",
+        "a or s": "a"
+    },
+    "壷坂": {
+        "prec_no": "64",
+        "block_no": "1377",
+        "a or s": "a"
+    },
+    "吉野": {
+        "prec_no": "64",
+        "block_no": "1439",
+        "a or s": "a"
+    },
+    "奈良県全地点": {
+        "prec_no": "64",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "天川": {
+        "prec_no": "64",
+        "block_no": "1619",
+        "a or s": "a"
+    },
+    "下北山": {
+        "prec_no": "64",
+        "block_no": "1649",
+        "a or s": "a"
+    },
+    "葛川": {
+        "prec_no": "64",
+        "block_no": "1669",
+        "a or s": "a"
+    },
+    "葛城山": {
+        "prec_no": "65",
+        "block_no": "0642",
+        "a or s": "a"
+    },
+    "和歌山": {
+        "prec_no": "65",
+        "block_no": "47777",
+        "a or s": "s"
+    },
+    "岩出": {
+        "prec_no": "65",
+        "block_no": "0644",
+        "a or s": "a"
+    },
+    "高野山": {
+        "prec_no": "65",
+        "block_no": "0645",
+        "a or s": "a"
+    },
+    "護摩壇山": {
+        "prec_no": "65",
+        "block_no": "0646",
+        "a or s": "a"
+    },
+    "御坊": {
+        "prec_no": "65",
+        "block_no": "0647",
+        "a or s": "a"
+    },
+    "虎ケ峰峠": {
+        "prec_no": "65",
+        "block_no": "0648",
+        "a or s": "a"
+    },
+    "新宮": {
+        "prec_no": "65",
+        "block_no": "0649",
+        "a or s": "a"
+    },
+    "白浜": {
+        "prec_no": "65",
+        "block_no": "0650",
+        "a or s": "a"
+    },
+    "日置川": {
+        "prec_no": "65",
+        "block_no": "0651",
+        "a or s": "a"
+    },
+    "潮岬": {
+        "prec_no": "65",
+        "block_no": "47778",
+        "a or s": "s"
+    },
+    "栗栖川": {
+        "prec_no": "65",
+        "block_no": "0971",
+        "a or s": "a"
+    },
+    "湯浅": {
+        "prec_no": "65",
+        "block_no": "0978",
+        "a or s": "a"
+    },
+    "本宮": {
+        "prec_no": "65",
+        "block_no": "1074",
+        "a or s": "a"
+    },
+    "龍神": {
+        "prec_no": "65",
+        "block_no": "1089",
+        "a or s": "a"
+    },
+    "色川": {
+        "prec_no": "65",
+        "block_no": "1172",
+        "a or s": "a"
+    },
+    "かつらぎ": {
+        "prec_no": "65",
+        "block_no": "1342",
+        "a or s": "a"
+    },
+    "西川": {
+        "prec_no": "65",
+        "block_no": "1347",
+        "a or s": "a"
+    },
+    "友ケ島": {
+        "prec_no": "65",
+        "block_no": "1457",
+        "a or s": "a"
+    },
+    "川辺": {
+        "prec_no": "65",
+        "block_no": "1485",
+        "a or s": "a"
+    },
+    "南紀白浜": {
+        "prec_no": "65",
+        "block_no": "1589",
+        "a or s": "a"
+    },
+    "和歌山県全地点": {
+        "prec_no": "65",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "大空山": {
+        "prec_no": "66",
+        "block_no": "0653",
+        "a or s": "a"
+    },
+    "那岐山": {
+        "prec_no": "66",
+        "block_no": "0654",
+        "a or s": "a"
+    },
+    "今岡": {
+        "prec_no": "66",
+        "block_no": "0655",
+        "a or s": "a"
+    },
+    "久世": {
+        "prec_no": "66",
+        "block_no": "0656",
+        "a or s": "a"
+    },
+    "津山": {
+        "prec_no": "66",
+        "block_no": "47756",
+        "a or s": "s"
+    },
+    "新見": {
+        "prec_no": "66",
+        "block_no": "0658",
+        "a or s": "a"
+    },
+    "天子山": {
+        "prec_no": "66",
+        "block_no": "0659",
+        "a or s": "a"
+    },
+    "赤磐": {
+        "prec_no": "66",
+        "block_no": "0660",
+        "a or s": "a"
+    },
+    "陣山": {
+        "prec_no": "66",
+        "block_no": "0661",
+        "a or s": "a"
+    },
+    "大平山": {
+        "prec_no": "66",
+        "block_no": "0662",
+        "a or s": "a"
+    },
+    "福渡": {
+        "prec_no": "66",
+        "block_no": "0663",
+        "a or s": "a"
+    },
+    "和気": {
+        "prec_no": "66",
+        "block_no": "0664",
+        "a or s": "a"
+    },
+    "佐屋": {
+        "prec_no": "66",
+        "block_no": "0665",
+        "a or s": "a"
+    },
+    "矢掛": {
+        "prec_no": "66",
+        "block_no": "0666",
+        "a or s": "a"
+    },
+    "岡山": {
+        "prec_no": "66",
+        "block_no": "47768",
+        "a or s": "s"
+    },
+    "虫明": {
+        "prec_no": "66",
+        "block_no": "0668",
+        "a or s": "a"
+    },
+    "倉敷": {
+        "prec_no": "66",
+        "block_no": "0669",
+        "a or s": "a"
+    },
+    "玉野": {
+        "prec_no": "66",
+        "block_no": "0670",
+        "a or s": "a"
+    },
+    "笠岡": {
+        "prec_no": "66",
+        "block_no": "0919",
+        "a or s": "a"
+    },
+    "下呰部": {
+        "prec_no": "66",
+        "block_no": "0929",
+        "a or s": "a"
+    },
+    "高梁": {
+        "prec_no": "66",
+        "block_no": "0930",
+        "a or s": "a"
+    },
+    "奈義": {
+        "prec_no": "66",
+        "block_no": "1140",
+        "a or s": "a"
+    },
+    "上長田": {
+        "prec_no": "66",
+        "block_no": "1328",
+        "a or s": "a"
+    },
+    "千屋": {
+        "prec_no": "66",
+        "block_no": "1330",
+        "a or s": "a"
+    },
+    "恩原": {
+        "prec_no": "66",
+        "block_no": "1371",
+        "a or s": "a"
+    },
+    "日応寺": {
+        "prec_no": "66",
+        "block_no": "1531",
+        "a or s": "a"
+    },
+    "富": {
+        "prec_no": "66",
+        "block_no": "1584",
+        "a or s": "a"
+    },
+    "吉備中央": {
+        "prec_no": "66",
+        "block_no": "1585",
+        "a or s": "a"
+    },
+    "岡山県全地点": {
+        "prec_no": "66",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "旭西": {
+        "prec_no": "66",
+        "block_no": "1618",
+        "a or s": "a"
+    },
+    "道後山": {
+        "prec_no": "67",
+        "block_no": "0671",
+        "a or s": "a"
+    },
+    "安田山": {
+        "prec_no": "67",
+        "block_no": "0672",
+        "a or s": "a"
+    },
+    "犬伏山": {
+        "prec_no": "67",
+        "block_no": "0673",
+        "a or s": "a"
+    },
+    "三次": {
+        "prec_no": "67",
+        "block_no": "0674",
+        "a or s": "a"
+    },
+    "庄原": {
+        "prec_no": "67",
+        "block_no": "0675",
+        "a or s": "a"
+    },
+    "大朝": {
+        "prec_no": "67",
+        "block_no": "0676",
+        "a or s": "a"
+    },
+    "加計": {
+        "prec_no": "67",
+        "block_no": "0677",
+        "a or s": "a"
+    },
+    "海見山": {
+        "prec_no": "67",
+        "block_no": "0678",
+        "a or s": "a"
+    },
+    "上下": {
+        "prec_no": "67",
+        "block_no": "0679",
+        "a or s": "a"
+    },
+    "内黒山": {
+        "prec_no": "67",
+        "block_no": "0680",
+        "a or s": "a"
+    },
+    "世羅": {
+        "prec_no": "67",
+        "block_no": "0681",
+        "a or s": "a"
+    },
+    "恵下谷山": {
+        "prec_no": "67",
+        "block_no": "0682",
+        "a or s": "a"
+    },
+    "東広島": {
+        "prec_no": "67",
+        "block_no": "0683",
+        "a or s": "a"
+    },
+    "福山": {
+        "prec_no": "67",
+        "block_no": "47767",
+        "a or s": "s"
+    },
+    "広島": {
+        "prec_no": "67",
+        "block_no": "47765",
+        "a or s": "s"
+    },
+    "竹原": {
+        "prec_no": "67",
+        "block_no": "0686",
+        "a or s": "a"
+    },
+    "生口島": {
+        "prec_no": "67",
+        "block_no": "0687",
+        "a or s": "a"
+    },
+    "大竹": {
+        "prec_no": "67",
+        "block_no": "0688",
+        "a or s": "a"
+    },
+    "呉": {
+        "prec_no": "67",
+        "block_no": "47766",
+        "a or s": "s"
+    },
+    "倉橋": {
+        "prec_no": "67",
+        "block_no": "0690",
+        "a or s": "a"
+    },
+    "高野": {
+        "prec_no": "67",
+        "block_no": "0947",
+        "a or s": "a"
+    },
+    "東城": {
+        "prec_no": "67",
+        "block_no": "0948",
+        "a or s": "a"
+    },
+    "甲田": {
+        "prec_no": "67",
+        "block_no": "0949",
+        "a or s": "a"
+    },
+    "三入": {
+        "prec_no": "67",
+        "block_no": "0950",
+        "a or s": "a"
+    },
+    "河内": {
+        "prec_no": "67",
+        "block_no": "0952",
+        "a or s": "a"
+    },
+    "久比": {
+        "prec_no": "67",
+        "block_no": "0953",
+        "a or s": "a"
+    },
+    "志和": {
+        "prec_no": "67",
+        "block_no": "1163",
+        "a or s": "a"
+    },
+    "王泊": {
+        "prec_no": "67",
+        "block_no": "1257",
+        "a or s": "a"
+    },
+    "油木": {
+        "prec_no": "67",
+        "block_no": "1325",
+        "a or s": "a"
+    },
+    "廿日市津田": {
+        "prec_no": "67",
+        "block_no": "1326",
+        "a or s": "a"
+    },
+    "本郷": {
+        "prec_no": "67",
+        "block_no": "1472",
+        "a or s": "a"
+    },
+    "佐伯湯来": {
+        "prec_no": "67",
+        "block_no": "1575",
+        "a or s": "a"
+    },
+    "都志見": {
+        "prec_no": "67",
+        "block_no": "1579",
+        "a or s": "a"
+    },
+    "君田": {
+        "prec_no": "67",
+        "block_no": "1582",
+        "a or s": "a"
+    },
+    "美土里": {
+        "prec_no": "67",
+        "block_no": "1583",
+        "a or s": "a"
+    },
+    "広島県全地点": {
+        "prec_no": "67",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "安宿": {
+        "prec_no": "67",
+        "block_no": "1603",
+        "a or s": "a"
+    },
+    "呉市蒲刈": {
+        "prec_no": "67",
+        "block_no": "1606",
+        "a or s": "a"
+    },
+    "西郷": {
+        "prec_no": "68",
+        "block_no": "47740",
+        "a or s": "s"
+    },
+    "西ノ島": {
+        "prec_no": "68",
+        "block_no": "0692",
+        "a or s": "a"
+    },
+    "斐川": {
+        "prec_no": "68",
+        "block_no": "0694",
+        "a or s": "a"
+    },
+    "松江": {
+        "prec_no": "68",
+        "block_no": "47741",
+        "a or s": "s"
+    },
+    "大田": {
+        "prec_no": "68",
+        "block_no": "0697",
+        "a or s": "a"
+    },
+    "掛合": {
+        "prec_no": "68",
+        "block_no": "0698",
+        "a or s": "a"
+    },
+    "横田": {
+        "prec_no": "68",
+        "block_no": "0699",
+        "a or s": "a"
+    },
+    "川本": {
+        "prec_no": "68",
+        "block_no": "0701",
+        "a or s": "a"
+    },
+    "浜田": {
+        "prec_no": "68",
+        "block_no": "47755",
+        "a or s": "s"
+    },
+    "三隅": {
+        "prec_no": "68",
+        "block_no": "0703",
+        "a or s": "a"
+    },
+    "益田": {
+        "prec_no": "68",
+        "block_no": "0704",
+        "a or s": "a"
+    },
+    "聖山": {
+        "prec_no": "68",
+        "block_no": "0705",
+        "a or s": "a"
+    },
+    "十種峯": {
+        "prec_no": "68",
+        "block_no": "0706",
+        "a or s": "a"
+    },
+    "津和野": {
+        "prec_no": "68",
+        "block_no": "0707",
+        "a or s": "a"
+    },
+    "佐田": {
+        "prec_no": "68",
+        "block_no": "0954",
+        "a or s": "a"
+    },
+    "桜江": {
+        "prec_no": "68",
+        "block_no": "1093",
+        "a or s": "a"
+    },
+    "伯太": {
+        "prec_no": "68",
+        "block_no": "1095",
+        "a or s": "a"
+    },
+    "波佐": {
+        "prec_no": "68",
+        "block_no": "1175",
+        "a or s": "a"
+    },
+    "匹見": {
+        "prec_no": "68",
+        "block_no": "1176",
+        "a or s": "a"
+    },
+    "海士": {
+        "prec_no": "68",
+        "block_no": "1307",
+        "a or s": "a"
+    },
+    "出雲": {
+        "prec_no": "68",
+        "block_no": "1310",
+        "a or s": "a"
+    },
+    "赤名": {
+        "prec_no": "68",
+        "block_no": "1320",
+        "a or s": "a"
+    },
+    "弥栄": {
+        "prec_no": "68",
+        "block_no": "1321",
+        "a or s": "a"
+    },
+    "六日市": {
+        "prec_no": "68",
+        "block_no": "1322",
+        "a or s": "a"
+    },
+    "福光": {
+        "prec_no": "68",
+        "block_no": "1336",
+        "a or s": "a"
+    },
+    "原山": {
+        "prec_no": "68",
+        "block_no": "1362",
+        "a or s": "a"
+    },
+    "西郷岬": {
+        "prec_no": "68",
+        "block_no": "1473",
+        "a or s": "a"
+    },
+    "高津": {
+        "prec_no": "68",
+        "block_no": "1474",
+        "a or s": "a"
+    },
+    "吉賀": {
+        "prec_no": "68",
+        "block_no": "1592",
+        "a or s": "a"
+    },
+    "島根県全地点": {
+        "prec_no": "68",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "境": {
+        "prec_no": "69",
+        "block_no": "47742",
+        "a or s": "s"
+    },
+    "鳥取": {
+        "prec_no": "69",
+        "block_no": "47746",
+        "a or s": "s"
+    },
+    "米子": {
+        "prec_no": "69",
+        "block_no": "47744",
+        "a or s": "s"
+    },
+    "鳥取県全地点": {
+        "prec_no": "69",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "青谷": {
+        "prec_no": "69",
+        "block_no": "0709",
+        "a or s": "a"
+    },
+    "岩井": {
+        "prec_no": "69",
+        "block_no": "0711",
+        "a or s": "a"
+    },
+    "倉吉": {
+        "prec_no": "69",
+        "block_no": "0713",
+        "a or s": "a"
+    },
+    "菅俵原": {
+        "prec_no": "69",
+        "block_no": "0714",
+        "a or s": "a"
+    },
+    "霊石山": {
+        "prec_no": "69",
+        "block_no": "0715",
+        "a or s": "a"
+    },
+    "古峠山": {
+        "prec_no": "69",
+        "block_no": "0717",
+        "a or s": "a"
+    },
+    "智頭": {
+        "prec_no": "69",
+        "block_no": "0718",
+        "a or s": "a"
+    },
+    "日南": {
+        "prec_no": "69",
+        "block_no": "0938",
+        "a or s": "a"
+    },
+    "関金": {
+        "prec_no": "69",
+        "block_no": "1177",
+        "a or s": "a"
+    },
+    "若桜": {
+        "prec_no": "69",
+        "block_no": "1178",
+        "a or s": "a"
+    },
+    "塩津": {
+        "prec_no": "69",
+        "block_no": "1231",
+        "a or s": "a"
+    },
+    "茶屋": {
+        "prec_no": "69",
+        "block_no": "1304",
+        "a or s": "a"
+    },
+    "佐治": {
+        "prec_no": "69",
+        "block_no": "1385",
+        "a or s": "a"
+    },
+    "江尾": {
+        "prec_no": "69",
+        "block_no": "1389",
+        "a or s": "a"
+    },
+    "鹿野": {
+        "prec_no": "81",
+        "block_no": "1614",
+        "a or s": "a"
+    },
+    "湖山": {
+        "prec_no": "69",
+        "block_no": "1519",
+        "a or s": "a"
+    },
+    "大山寺": {
+        "prec_no": "71",
+        "block_no": "0719",
+        "a or s": "a"
+    },
+    "徳島": {
+        "prec_no": "71",
+        "block_no": "47895",
+        "a or s": "s"
+    },
+    "江田山": {
+        "prec_no": "71",
+        "block_no": "0722",
+        "a or s": "a"
+    },
+    "太竜寺山": {
+        "prec_no": "71",
+        "block_no": "0723",
+        "a or s": "a"
+    },
+    "日和佐": {
+        "prec_no": "71",
+        "block_no": "0724",
+        "a or s": "a"
+    },
+    "宍喰": {
+        "prec_no": "71",
+        "block_no": "0725",
+        "a or s": "a"
+    },
+    "穴吹": {
+        "prec_no": "71",
+        "block_no": "0972",
+        "a or s": "a"
+    },
+    "福原旭": {
+        "prec_no": "71",
+        "block_no": "1098",
+        "a or s": "a"
+    },
+    "蒲生田": {
+        "prec_no": "71",
+        "block_no": "1242",
+        "a or s": "a"
+    },
+    "京上": {
+        "prec_no": "71",
+        "block_no": "1252",
+        "a or s": "a"
+    },
+    "半田": {
+        "prec_no": "71",
+        "block_no": "1327",
+        "a or s": "a"
+    },
+    "木頭": {
+        "prec_no": "71",
+        "block_no": "1352",
+        "a or s": "a"
+    },
+    "旭丸": {
+        "prec_no": "71",
+        "block_no": "1358",
+        "a or s": "a"
+    },
+    "剣山": {
+        "prec_no": "71",
+        "block_no": "47894",
+        "a or s": "s"
+    },
+    "徳島県全地点": {
+        "prec_no": "71",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "海陽": {
+        "prec_no": "71",
+        "block_no": "1604",
+        "a or s": "a"
+    },
+    "東祖谷": {
+        "prec_no": "71",
+        "block_no": "1677",
+        "a or s": "a"
+    },
+    "内海": {
+        "prec_no": "72",
+        "block_no": "0726",
+        "a or s": "a"
+    },
+    "多度津": {
+        "prec_no": "72",
+        "block_no": "47890",
+        "a or s": "s"
+    },
+    "滝宮": {
+        "prec_no": "72",
+        "block_no": "0729",
+        "a or s": "a"
+    },
+    "引田": {
+        "prec_no": "72",
+        "block_no": "0730",
+        "a or s": "a"
+    },
+    "竜王山": {
+        "prec_no": "72",
+        "block_no": "0731",
+        "a or s": "a"
+    },
+    "財田": {
+        "prec_no": "72",
+        "block_no": "1239",
+        "a or s": "a"
+    },
+    "香南": {
+        "prec_no": "72",
+        "block_no": "1475",
+        "a or s": "a"
+    },
+    "香川県全地点": {
+        "prec_no": "72",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "大三島": {
+        "prec_no": "73",
+        "block_no": "0732",
+        "a or s": "a"
+    },
+    "新居浜": {
+        "prec_no": "73",
+        "block_no": "0734",
+        "a or s": "a"
+    },
+    "四国中央": {
+        "prec_no": "73",
+        "block_no": "0735",
+        "a or s": "a"
+    },
+    "松山": {
+        "prec_no": "73",
+        "block_no": "47887",
+        "a or s": "s"
+    },
+    "上林": {
+        "prec_no": "73",
+        "block_no": "0737",
+        "a or s": "a"
+    },
+    "成就社": {
+        "prec_no": "73",
+        "block_no": "0738",
+        "a or s": "a"
+    },
+    "中山": {
+        "prec_no": "73",
+        "block_no": "0740",
+        "a or s": "a"
+    },
+    "久万": {
+        "prec_no": "73",
+        "block_no": "0741",
+        "a or s": "a"
+    },
+    "獅子越峠": {
+        "prec_no": "73",
+        "block_no": "0742",
+        "a or s": "a"
+    },
+    "八幡浜": {
+        "prec_no": "73",
+        "block_no": "0743",
+        "a or s": "a"
+    },
+    "宇和島": {
+        "prec_no": "73",
+        "block_no": "47892",
+        "a or s": "s"
+    },
+    "御荘": {
+        "prec_no": "73",
+        "block_no": "0745",
+        "a or s": "a"
+    },
+    "西条": {
+        "prec_no": "73",
+        "block_no": "0958",
+        "a or s": "a"
+    },
+    "大洲": {
+        "prec_no": "73",
+        "block_no": "0959",
+        "a or s": "a"
+    },
+    "三崎": {
+        "prec_no": "74",
+        "block_no": "1556",
+        "a or s": "a"
+    },
+    "宇和": {
+        "prec_no": "73",
+        "block_no": "0961",
+        "a or s": "a"
+    },
+    "今治": {
+        "prec_no": "73",
+        "block_no": "1077",
+        "a or s": "a"
+    },
+    "富郷": {
+        "prec_no": "73",
+        "block_no": "1260",
+        "a or s": "a"
+    },
+    "近永": {
+        "prec_no": "73",
+        "block_no": "1350",
+        "a or s": "a"
+    },
+    "瀬戸": {
+        "prec_no": "73",
+        "block_no": "1456",
+        "a or s": "a"
+    },
+    "松山南吉田": {
+        "prec_no": "73",
+        "block_no": "1521",
+        "a or s": "a"
+    },
+    "愛媛県全地点": {
+        "prec_no": "73",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "本山": {
+        "prec_no": "74",
+        "block_no": "0746",
+        "a or s": "a"
+    },
+    "繁藤": {
+        "prec_no": "74",
+        "block_no": "0747",
+        "a or s": "a"
+    },
+    "佐川": {
+        "prec_no": "74",
+        "block_no": "0748",
+        "a or s": "a"
+    },
+    "成山": {
+        "prec_no": "74",
+        "block_no": "0749",
+        "a or s": "a"
+    },
+    "高知": {
+        "prec_no": "74",
+        "block_no": "47893",
+        "a or s": "s"
+    },
+    "南国": {
+        "prec_no": "74",
+        "block_no": "0751",
+        "a or s": "a"
+    },
+    "芸西": {
+        "prec_no": "74",
+        "block_no": "0752",
+        "a or s": "a"
+    },
+    "鳥形山": {
+        "prec_no": "74",
+        "block_no": "0753",
+        "a or s": "a"
+    },
+    "船戸": {
+        "prec_no": "74",
+        "block_no": "0754",
+        "a or s": "a"
+    },
+    "安芸": {
+        "prec_no": "74",
+        "block_no": "0755",
+        "a or s": "a"
+    },
+    "須崎": {
+        "prec_no": "74",
+        "block_no": "0756",
+        "a or s": "a"
+    },
+    "佐喜浜": {
+        "prec_no": "74",
+        "block_no": "0757",
+        "a or s": "a"
+    },
+    "窪川": {
+        "prec_no": "74",
+        "block_no": "0758",
+        "a or s": "a"
+    },
+    "室戸岬": {
+        "prec_no": "74",
+        "block_no": "47899",
+        "a or s": "s"
+    },
+    "堂ケ森": {
+        "prec_no": "74",
+        "block_no": "0760",
+        "a or s": "a"
+    },
+    "大正": {
+        "prec_no": "74",
+        "block_no": "0761",
+        "a or s": "a"
+    },
+    "宿毛": {
+        "prec_no": "74",
+        "block_no": "47897",
+        "a or s": "s"
+    },
+    "中村": {
+        "prec_no": "74",
+        "block_no": "0763",
+        "a or s": "a"
+    },
+    "梼原": {
+        "prec_no": "74",
+        "block_no": "0921",
+        "a or s": "a"
+    },
+    "田野": {
+        "prec_no": "87",
+        "block_no": "1663",
+        "a or s": "a"
+    },
+    "池川": {
+        "prec_no": "74",
+        "block_no": "1179",
+        "a or s": "a"
+    },
+    "大栃": {
+        "prec_no": "74",
+        "block_no": "1229",
+        "a or s": "a"
+    },
+    "佐賀": {
+        "prec_no": "85",
+        "block_no": "47813",
+        "a or s": "s"
+    },
+    "江川崎": {
+        "prec_no": "74",
+        "block_no": "1235",
+        "a or s": "a"
+    },
+    "後免": {
+        "prec_no": "74",
+        "block_no": "1249",
+        "a or s": "a"
+    },
+    "魚梁瀬": {
+        "prec_no": "74",
+        "block_no": "1281",
+        "a or s": "a"
+    },
+    "本川": {
+        "prec_no": "74",
+        "block_no": "1351",
+        "a or s": "a"
+    },
+    "南国日章": {
+        "prec_no": "74",
+        "block_no": "1476",
+        "a or s": "a"
+    },
+    "高知県全地点": {
+        "prec_no": "74",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "須佐": {
+        "prec_no": "81",
+        "block_no": "0765",
+        "a or s": "a"
+    },
+    "萩": {
+        "prec_no": "81",
+        "block_no": "47754",
+        "a or s": "s"
+    },
+    "徳佐": {
+        "prec_no": "81",
+        "block_no": "0767",
+        "a or s": "a"
+    },
+    "鍋提峠": {
+        "prec_no": "81",
+        "block_no": "0768",
+        "a or s": "a"
+    },
+    "秋吉台": {
+        "prec_no": "81",
+        "block_no": "0769",
+        "a or s": "a"
+    },
+    "瀬戸原": {
+        "prec_no": "81",
+        "block_no": "0770",
+        "a or s": "a"
+    },
+    "広瀬": {
+        "prec_no": "81",
+        "block_no": "0771",
+        "a or s": "a"
+    },
+    "防府": {
+        "prec_no": "81",
+        "block_no": "0775",
+        "a or s": "a"
+    },
+    "下松": {
+        "prec_no": "81",
+        "block_no": "0776",
+        "a or s": "a"
+    },
+    "宇部": {
+        "prec_no": "81",
+        "block_no": "0778",
+        "a or s": "a"
+    },
+    "安下庄": {
+        "prec_no": "81",
+        "block_no": "0779",
+        "a or s": "a"
+    },
+    "玖珂": {
+        "prec_no": "81",
+        "block_no": "0913",
+        "a or s": "a"
+    },
+    "油谷": {
+        "prec_no": "81",
+        "block_no": "0939",
+        "a or s": "a"
+    },
+    "岩国": {
+        "prec_no": "81",
+        "block_no": "0940",
+        "a or s": "a"
+    },
+    "周東": {
+        "prec_no": "81",
+        "block_no": "0941",
+        "a or s": "a"
+    },
+    "柳井": {
+        "prec_no": "81",
+        "block_no": "0942",
+        "a or s": "a"
+    },
+    "羅漢山": {
+        "prec_no": "81",
+        "block_no": "1100",
+        "a or s": "a"
+    },
+    "長野山": {
+        "prec_no": "81",
+        "block_no": "1101",
+        "a or s": "a"
+    },
+    "和田": {
+        "prec_no": "81",
+        "block_no": "1261",
+        "a or s": "a"
+    },
+    "篠生": {
+        "prec_no": "81",
+        "block_no": "1367",
+        "a or s": "a"
+    },
+    "山口県全地点": {
+        "prec_no": "81",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "東厚保": {
+        "prec_no": "81",
+        "block_no": "1620",
+        "a or s": "a"
+    },
+    "小倉": {
+        "prec_no": "82",
+        "block_no": "0781",
+        "a or s": "a"
+    },
+    "行橋": {
+        "prec_no": "82",
+        "block_no": "0782",
+        "a or s": "a"
+    },
+    "篠栗": {
+        "prec_no": "82",
+        "block_no": "0783",
+        "a or s": "a"
+    },
+    "飯塚": {
+        "prec_no": "82",
+        "block_no": "47809",
+        "a or s": "s"
+    },
+    "前原": {
+        "prec_no": "82",
+        "block_no": "0785",
+        "a or s": "a"
+    },
+    "福岡": {
+        "prec_no": "82",
+        "block_no": "47807",
+        "a or s": "s"
+    },
+    "九千部山": {
+        "prec_no": "82",
+        "block_no": "0787",
+        "a or s": "a"
+    },
+    "朝倉": {
+        "prec_no": "82",
+        "block_no": "0788",
+        "a or s": "a"
+    },
+    "英彦山": {
+        "prec_no": "82",
+        "block_no": "0789",
+        "a or s": "a"
+    },
+    "久留米": {
+        "prec_no": "82",
+        "block_no": "0790",
+        "a or s": "a"
+    },
+    "耳納山": {
+        "prec_no": "82",
+        "block_no": "0791",
+        "a or s": "a"
+    },
+    "黒木": {
+        "prec_no": "82",
+        "block_no": "0792",
+        "a or s": "a"
+    },
+    "大牟田": {
+        "prec_no": "82",
+        "block_no": "0793",
+        "a or s": "a"
+    },
+    "宗像": {
+        "prec_no": "82",
+        "block_no": "0943",
+        "a or s": "a"
+    },
+    "頂吉": {
+        "prec_no": "82",
+        "block_no": "0944",
+        "a or s": "a"
+    },
+    "柳川": {
+        "prec_no": "82",
+        "block_no": "0945",
+        "a or s": "a"
+    },
+    "添田": {
+        "prec_no": "82",
+        "block_no": "1046",
+        "a or s": "a"
+    },
+    "太宰府": {
+        "prec_no": "82",
+        "block_no": "1141",
+        "a or s": "a"
+    },
+    "博多": {
+        "prec_no": "82",
+        "block_no": "1477",
+        "a or s": "a"
+    },
+    "曽根": {
+        "prec_no": "82",
+        "block_no": "1527",
+        "a or s": "a"
+    },
+    "空港北町": {
+        "prec_no": "82",
+        "block_no": "1590",
+        "a or s": "a"
+    },
+    "福岡県全地点": {
+        "prec_no": "82",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "早良脇山": {
+        "prec_no": "82",
+        "block_no": "1611",
+        "a or s": "a"
+    },
+    "東谷": {
+        "prec_no": "82",
+        "block_no": "1637",
+        "a or s": "a"
+    },
+    "小呂島": {
+        "prec_no": "82",
+        "block_no": "1657",
+        "a or s": "a"
+    },
+    "中津": {
+        "prec_no": "83",
+        "block_no": "0794",
+        "a or s": "a"
+    },
+    "豊後高田": {
+        "prec_no": "83",
+        "block_no": "0795",
+        "a or s": "a"
+    },
+    "武蔵": {
+        "prec_no": "83",
+        "block_no": "0796",
+        "a or s": "a"
+    },
+    "日田": {
+        "prec_no": "83",
+        "block_no": "47814",
+        "a or s": "s"
+    },
+    "湯布院": {
+        "prec_no": "83",
+        "block_no": "0799",
+        "a or s": "a"
+    },
+    "大分": {
+        "prec_no": "83",
+        "block_no": "47815",
+        "a or s": "s"
+    },
+    "佐賀関": {
+        "prec_no": "83",
+        "block_no": "0801",
+        "a or s": "a"
+    },
+    "釈迦岳": {
+        "prec_no": "83",
+        "block_no": "0802",
+        "a or s": "a"
+    },
+    "湯平": {
+        "prec_no": "83",
+        "block_no": "0803",
+        "a or s": "a"
+    },
+    "温見": {
+        "prec_no": "83",
+        "block_no": "0804",
+        "a or s": "a"
+    },
+    "犬飼": {
+        "prec_no": "83",
+        "block_no": "0805",
+        "a or s": "a"
+    },
+    "竹田": {
+        "prec_no": "83",
+        "block_no": "0806",
+        "a or s": "a"
+    },
+    "出羽": {
+        "prec_no": "83",
+        "block_no": "0807",
+        "a or s": "a"
+    },
+    "佐伯": {
+        "prec_no": "83",
+        "block_no": "0808",
+        "a or s": "a"
+    },
+    "倉木": {
+        "prec_no": "83",
+        "block_no": "0809",
+        "a or s": "a"
+    },
+    "蒲江": {
+        "prec_no": "83",
+        "block_no": "0810",
+        "a or s": "a"
+    },
+    "院内": {
+        "prec_no": "83",
+        "block_no": "0931",
+        "a or s": "a"
+    },
+    "玖珠": {
+        "prec_no": "83",
+        "block_no": "0932",
+        "a or s": "a"
+    },
+    "臼杵": {
+        "prec_no": "83",
+        "block_no": "0933",
+        "a or s": "a"
+    },
+    "耶馬渓": {
+        "prec_no": "83",
+        "block_no": "0979",
+        "a or s": "a"
+    },
+    "国見": {
+        "prec_no": "83",
+        "block_no": "1137",
+        "a or s": "a"
+    },
+    "宇目": {
+        "prec_no": "83",
+        "block_no": "1142",
+        "a or s": "a"
+    },
+    "別府": {
+        "prec_no": "83",
+        "block_no": "1157",
+        "a or s": "a"
+    },
+    "杵築": {
+        "prec_no": "83",
+        "block_no": "1237",
+        "a or s": "a"
+    },
+    "椿ヶ鼻": {
+        "prec_no": "83",
+        "block_no": "1554",
+        "a or s": "a"
+    },
+    "大分県全地点": {
+        "prec_no": "83",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "佐須奈": {
+        "prec_no": "84",
+        "block_no": "0811",
+        "a or s": "a"
+    },
+    "厳原": {
+        "prec_no": "84",
+        "block_no": "47800",
+        "a or s": "s"
+    },
+    "平戸": {
+        "prec_no": "84",
+        "block_no": "47805",
+        "a or s": "s"
+    },
+    "松浦": {
+        "prec_no": "84",
+        "block_no": "0814",
+        "a or s": "a"
+    },
+    "佐世保": {
+        "prec_no": "84",
+        "block_no": "47812",
+        "a or s": "s"
+    },
+    "大瀬戸": {
+        "prec_no": "84",
+        "block_no": "0817",
+        "a or s": "a"
+    },
+    "長浦岳": {
+        "prec_no": "84",
+        "block_no": "0818",
+        "a or s": "a"
+    },
+    "五家原岳": {
+        "prec_no": "84",
+        "block_no": "0819",
+        "a or s": "a"
+    },
+    "諫早": {
+        "prec_no": "84",
+        "block_no": "0820",
+        "a or s": "a"
+    },
+    "長崎": {
+        "prec_no": "84",
+        "block_no": "47817",
+        "a or s": "s"
+    },
+    "雲仙岳": {
+        "prec_no": "84",
+        "block_no": "47818",
+        "a or s": "s"
+    },
+    "福江": {
+        "prec_no": "84",
+        "block_no": "47843",
+        "a or s": "s"
+    },
+    "口之津": {
+        "prec_no": "84",
+        "block_no": "0922",
+        "a or s": "a"
+    },
+    "島原": {
+        "prec_no": "84",
+        "block_no": "0962",
+        "a or s": "a"
+    },
+    "有川": {
+        "prec_no": "84",
+        "block_no": "1138",
+        "a or s": "a"
+    },
+    "大村": {
+        "prec_no": "84",
+        "block_no": "1084",
+        "a or s": "a"
+    },
+    "芦辺": {
+        "prec_no": "84",
+        "block_no": "1144",
+        "a or s": "a"
+    },
+    "野母崎": {
+        "prec_no": "84",
+        "block_no": "1441",
+        "a or s": "a"
+    },
+    "深江": {
+        "prec_no": "84",
+        "block_no": "1442",
+        "a or s": "a"
+    },
+    "普賢岳": {
+        "prec_no": "84",
+        "block_no": "1446",
+        "a or s": "a"
+    },
+    "百花台": {
+        "prec_no": "84",
+        "block_no": "1451",
+        "a or s": "a"
+    },
+    "千々石": {
+        "prec_no": "84",
+        "block_no": "1452",
+        "a or s": "a"
+    },
+    "鰐浦": {
+        "prec_no": "84",
+        "block_no": "1453",
+        "a or s": "a"
+    },
+    "石田": {
+        "prec_no": "84",
+        "block_no": "1478",
+        "a or s": "a"
+    },
+    "上大津": {
+        "prec_no": "84",
+        "block_no": "1479",
+        "a or s": "a"
+    },
+    "小値賀": {
+        "prec_no": "84",
+        "block_no": "1535",
+        "a or s": "a"
+    },
+    "頭ヶ島": {
+        "prec_no": "84",
+        "block_no": "1536",
+        "a or s": "a"
+    },
+    "美津島": {
+        "prec_no": "84",
+        "block_no": "1538",
+        "a or s": "a"
+    },
+    "長崎県全地点": {
+        "prec_no": "84",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "脇岬": {
+        "prec_no": "84",
+        "block_no": "1670",
+        "a or s": "a"
+    },
+    "西海": {
+        "prec_no": "84",
+        "block_no": "1672",
+        "a or s": "a"
+    },
+    "絹笠山": {
+        "prec_no": "84",
+        "block_no": "1676",
+        "a or s": "a"
+    },
+    "枝去木": {
+        "prec_no": "85",
+        "block_no": "0824",
+        "a or s": "a"
+    },
+    "和多田": {
+        "prec_no": "85",
+        "block_no": "0825",
+        "a or s": "a"
+    },
+    "八幡岳": {
+        "prec_no": "85",
+        "block_no": "0827",
+        "a or s": "a"
+    },
+    "嬉野": {
+        "prec_no": "85",
+        "block_no": "0830",
+        "a or s": "a"
+    },
+    "多良岳": {
+        "prec_no": "85",
+        "block_no": "0831",
+        "a or s": "a"
+    },
+    "伊万里": {
+        "prec_no": "85",
+        "block_no": "1075",
+        "a or s": "a"
+    },
+    "川副": {
+        "prec_no": "85",
+        "block_no": "1480",
+        "a or s": "a"
+    },
+    "佐賀県全地点": {
+        "prec_no": "85",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "唐津": {
+        "prec_no": "85",
+        "block_no": "1610",
+        "a or s": "a"
+    },
+    "鳥栖": {
+        "prec_no": "85",
+        "block_no": "1612",
+        "a or s": "a"
+    },
+    "北山": {
+        "prec_no": "85",
+        "block_no": "1616",
+        "a or s": "a"
+    },
+    "鹿北": {
+        "prec_no": "86",
+        "block_no": "0832",
+        "a or s": "a"
+    },
+    "南小国": {
+        "prec_no": "86",
+        "block_no": "0833",
+        "a or s": "a"
+    },
+    "岱明": {
+        "prec_no": "86",
+        "block_no": "0834",
+        "a or s": "a"
+    },
+    "菊池": {
+        "prec_no": "86",
+        "block_no": "0835",
+        "a or s": "a"
+    },
+    "鞍岳": {
+        "prec_no": "86",
+        "block_no": "0836",
+        "a or s": "a"
+    },
+    "熊本": {
+        "prec_no": "86",
+        "block_no": "47819",
+        "a or s": "s"
+    },
+    "俵山": {
+        "prec_no": "86",
+        "block_no": "0838",
+        "a or s": "a"
+    },
+    "阿蘇山": {
+        "prec_no": "86",
+        "block_no": "47821",
+        "a or s": "s"
+    },
+    "高森": {
+        "prec_no": "86",
+        "block_no": "0840",
+        "a or s": "a"
+    },
+    "間の谷山": {
+        "prec_no": "86",
+        "block_no": "0841",
+        "a or s": "a"
+    },
+    "甲佐": {
+        "prec_no": "86",
+        "block_no": "0842",
+        "a or s": "a"
+    },
+    "松島": {
+        "prec_no": "86",
+        "block_no": "0843",
+        "a or s": "a"
+    },
+    "大金峰": {
+        "prec_no": "86",
+        "block_no": "0844",
+        "a or s": "a"
+    },
+    "本渡": {
+        "prec_no": "86",
+        "block_no": "0845",
+        "a or s": "a"
+    },
+    "八代": {
+        "prec_no": "86",
+        "block_no": "0846",
+        "a or s": "a"
+    },
+    "人吉": {
+        "prec_no": "86",
+        "block_no": "47824",
+        "a or s": "s"
+    },
+    "牛深": {
+        "prec_no": "86",
+        "block_no": "47838",
+        "a or s": "s"
+    },
+    "一里山": {
+        "prec_no": "86",
+        "block_no": "0850",
+        "a or s": "a"
+    },
+    "白髪岳": {
+        "prec_no": "86",
+        "block_no": "0851",
+        "a or s": "a"
+    },
+    "益城": {
+        "prec_no": "86",
+        "block_no": "0923",
+        "a or s": "a"
+    },
+    "水俣": {
+        "prec_no": "86",
+        "block_no": "0924",
+        "a or s": "a"
+    },
+    "多良木": {
+        "prec_no": "86",
+        "block_no": "0925",
+        "a or s": "a"
+    },
+    "上": {
+        "prec_no": "86",
+        "block_no": "0926",
+        "a or s": "a"
+    },
+    "田浦": {
+        "prec_no": "86",
+        "block_no": "0946",
+        "a or s": "a"
+    },
+    "三角": {
+        "prec_no": "86",
+        "block_no": "1081",
+        "a or s": "a"
+    },
+    "湯前横谷": {
+        "prec_no": "86",
+        "block_no": "1086",
+        "a or s": "a"
+    },
+    "茶臼峠": {
+        "prec_no": "86",
+        "block_no": "1088",
+        "a or s": "a"
+    },
+    "屋形山": {
+        "prec_no": "86",
+        "block_no": "1156",
+        "a or s": "a"
+    },
+    "五家荘": {
+        "prec_no": "86",
+        "block_no": "1158",
+        "a or s": "a"
+    },
+    "阿蘇乙姫": {
+        "prec_no": "86",
+        "block_no": "1240",
+        "a or s": "a"
+    },
+    "五木": {
+        "prec_no": "86",
+        "block_no": "1368",
+        "a or s": "a"
+    },
+    "山江": {
+        "prec_no": "86",
+        "block_no": "1435",
+        "a or s": "a"
+    },
+    "宇土": {
+        "prec_no": "86",
+        "block_no": "1580",
+        "a or s": "a"
+    },
+    "一勝地": {
+        "prec_no": "86",
+        "block_no": "1581",
+        "a or s": "a"
+    },
+    "熊本県全地点": {
+        "prec_no": "86",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "戦山": {
+        "prec_no": "86",
+        "block_no": "0847",
+        "a or s": "a"
+    },
+    "山都": {
+        "prec_no": "86",
+        "block_no": "1613",
+        "a or s": "a"
+    },
+    "南阿蘇": {
+        "prec_no": "86",
+        "block_no": "1660",
+        "a or s": "a"
+    },
+    "高千穂": {
+        "prec_no": "87",
+        "block_no": "0852",
+        "a or s": "a"
+    },
+    "大中尾": {
+        "prec_no": "87",
+        "block_no": "0853",
+        "a or s": "a"
+    },
+    "中小屋": {
+        "prec_no": "87",
+        "block_no": "0854",
+        "a or s": "a"
+    },
+    "延岡": {
+        "prec_no": "87",
+        "block_no": "47822",
+        "a or s": "s"
+    },
+    "猪原": {
+        "prec_no": "87",
+        "block_no": "0856",
+        "a or s": "a"
+    },
+    "日向": {
+        "prec_no": "87",
+        "block_no": "0857",
+        "a or s": "a"
+    },
+    "矢櫃岳": {
+        "prec_no": "87",
+        "block_no": "0858",
+        "a or s": "a"
+    },
+    "高鍋": {
+        "prec_no": "87",
+        "block_no": "0859",
+        "a or s": "a"
+    },
+    "加久藤": {
+        "prec_no": "87",
+        "block_no": "0860",
+        "a or s": "a"
+    },
+    "西都": {
+        "prec_no": "87",
+        "block_no": "0861",
+        "a or s": "a"
+    },
+    "えびの高原": {
+        "prec_no": "87",
+        "block_no": "0862",
+        "a or s": "a"
+    },
+    "小林": {
+        "prec_no": "87",
+        "block_no": "0863",
+        "a or s": "a"
+    },
+    "野尻": {
+        "prec_no": "87",
+        "block_no": "0864",
+        "a or s": "a"
+    },
+    "国富": {
+        "prec_no": "87",
+        "block_no": "0865",
+        "a or s": "a"
+    },
+    "宮崎": {
+        "prec_no": "87",
+        "block_no": "47830",
+        "a or s": "s"
+    },
+    "霧島御池": {
+        "prec_no": "87",
+        "block_no": "0867",
+        "a or s": "a"
+    },
+    "青島": {
+        "prec_no": "87",
+        "block_no": "0868",
+        "a or s": "a"
+    },
+    "都城": {
+        "prec_no": "87",
+        "block_no": "47829",
+        "a or s": "s"
+    },
+    "鰐塚山": {
+        "prec_no": "87",
+        "block_no": "0870",
+        "a or s": "a"
+    },
+    "油津": {
+        "prec_no": "87",
+        "block_no": "47835",
+        "a or s": "s"
+    },
+    "串間": {
+        "prec_no": "87",
+        "block_no": "0872",
+        "a or s": "a"
+    },
+    "古江": {
+        "prec_no": "87",
+        "block_no": "1135",
+        "a or s": "a"
+    },
+    "酒谷": {
+        "prec_no": "87",
+        "block_no": "1164",
+        "a or s": "a"
+    },
+    "見立": {
+        "prec_no": "87",
+        "block_no": "1275",
+        "a or s": "a"
+    },
+    "諸塚": {
+        "prec_no": "87",
+        "block_no": "1343",
+        "a or s": "a"
+    },
+    "西米良": {
+        "prec_no": "87",
+        "block_no": "1345",
+        "a or s": "a"
+    },
+    "鞍岡": {
+        "prec_no": "87",
+        "block_no": "1348",
+        "a or s": "a"
+    },
+    "神門": {
+        "prec_no": "87",
+        "block_no": "1353",
+        "a or s": "a"
+    },
+    "北方": {
+        "prec_no": "87",
+        "block_no": "1432",
+        "a or s": "a"
+    },
+    "上椎葉": {
+        "prec_no": "87",
+        "block_no": "1433",
+        "a or s": "a"
+    },
+    "赤江": {
+        "prec_no": "87",
+        "block_no": "1481",
+        "a or s": "a"
+    },
+    "宮崎県全地点": {
+        "prec_no": "87",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "都農": {
+        "prec_no": "87",
+        "block_no": "1608",
+        "a or s": "a"
+    },
+    "日之影": {
+        "prec_no": "87",
+        "block_no": "1609",
+        "a or s": "a"
+    },
+    "高原": {
+        "prec_no": "87",
+        "block_no": "1623",
+        "a or s": "a"
+    },
+    "椎葉": {
+        "prec_no": "87",
+        "block_no": "1636",
+        "a or s": "a"
+    },
+    "阿久根": {
+        "prec_no": "88",
+        "block_no": "47823",
+        "a or s": "s"
+    },
+    "古原野": {
+        "prec_no": "88",
+        "block_no": "0874",
+        "a or s": "a"
+    },
+    "大口": {
+        "prec_no": "88",
+        "block_no": "0875",
+        "a or s": "a"
+    },
+    "魚野越": {
+        "prec_no": "88",
+        "block_no": "0876",
+        "a or s": "a"
+    },
+    "紫尾山": {
+        "prec_no": "88",
+        "block_no": "0877",
+        "a or s": "a"
+    },
+    "さつま柏原": {
+        "prec_no": "88",
+        "block_no": "0878",
+        "a or s": "a"
+    },
+    "中甑": {
+        "prec_no": "88",
+        "block_no": "0879",
+        "a or s": "a"
+    },
+    "溝辺": {
+        "prec_no": "88",
+        "block_no": "0881",
+        "a or s": "a"
+    },
+    "八重山": {
+        "prec_no": "88",
+        "block_no": "0882",
+        "a or s": "a"
+    },
+    "東市来": {
+        "prec_no": "88",
+        "block_no": "0883",
+        "a or s": "a"
+    },
+    "権現ケ尾": {
+        "prec_no": "88",
+        "block_no": "0884",
+        "a or s": "a"
+    },
+    "鹿児島": {
+        "prec_no": "88",
+        "block_no": "47827",
+        "a or s": "s"
+    },
+    "高峠": {
+        "prec_no": "88",
+        "block_no": "0886",
+        "a or s": "a"
+    },
+    "加世田": {
+        "prec_no": "88",
+        "block_no": "0887",
+        "a or s": "a"
+    },
+    "吉ケ別府": {
+        "prec_no": "88",
+        "block_no": "0888",
+        "a or s": "a"
+    },
+    "喜入": {
+        "prec_no": "88",
+        "block_no": "0890",
+        "a or s": "a"
+    },
+    "肝属川": {
+        "prec_no": "88",
+        "block_no": "0891",
+        "a or s": "a"
+    },
+    "枕崎": {
+        "prec_no": "88",
+        "block_no": "47831",
+        "a or s": "s"
+    },
+    "指宿": {
+        "prec_no": "88",
+        "block_no": "0893",
+        "a or s": "a"
+    },
+    "甫与志岳": {
+        "prec_no": "88",
+        "block_no": "0894",
+        "a or s": "a"
+    },
+    "内之浦": {
+        "prec_no": "88",
+        "block_no": "0895",
+        "a or s": "a"
+    },
+    "種子島": {
+        "prec_no": "88",
+        "block_no": "47837",
+        "a or s": "s"
+    },
+    "中種子": {
+        "prec_no": "88",
+        "block_no": "0897",
+        "a or s": "a"
+    },
+    "上中": {
+        "prec_no": "88",
+        "block_no": "0898",
+        "a or s": "a"
+    },
+    "尾之間": {
+        "prec_no": "88",
+        "block_no": "0899",
+        "a or s": "a"
+    },
+    "名瀬": {
+        "prec_no": "88",
+        "block_no": "47909",
+        "a or s": "s"
+    },
+    "屋久島": {
+        "prec_no": "88",
+        "block_no": "47836",
+        "a or s": "s"
+    },
+    "沖永良部": {
+        "prec_no": "88",
+        "block_no": "47942",
+        "a or s": "s"
+    },
+    "出水": {
+        "prec_no": "88",
+        "block_no": "0934",
+        "a or s": "a"
+    },
+    "牧之原": {
+        "prec_no": "88",
+        "block_no": "0935",
+        "a or s": "a"
+    },
+    "志布志": {
+        "prec_no": "88",
+        "block_no": "0936",
+        "a or s": "a"
+    },
+    "鹿屋": {
+        "prec_no": "88",
+        "block_no": "0937",
+        "a or s": "a"
+    },
+    "古仁屋": {
+        "prec_no": "88",
+        "block_no": "0980",
+        "a or s": "a"
+    },
+    "矢止岳": {
+        "prec_no": "88",
+        "block_no": "1104",
+        "a or s": "a"
+    },
+    "伊仙": {
+        "prec_no": "88",
+        "block_no": "1139",
+        "a or s": "a"
+    },
+    "輝北": {
+        "prec_no": "88",
+        "block_no": "1146",
+        "a or s": "a"
+    },
+    "大隅": {
+        "prec_no": "88",
+        "block_no": "1149",
+        "a or s": "a"
+    },
+    "佐多": {
+        "prec_no": "88",
+        "block_no": "1161",
+        "a or s": "a"
+    },
+    "肝付前田": {
+        "prec_no": "88",
+        "block_no": "1181",
+        "a or s": "a"
+    },
+    "与論島": {
+        "prec_no": "88",
+        "block_no": "1277",
+        "a or s": "a"
+    },
+    "喜界島": {
+        "prec_no": "88",
+        "block_no": "1296",
+        "a or s": "a"
+    },
+    "笠利": {
+        "prec_no": "88",
+        "block_no": "1520",
+        "a or s": "a"
+    },
+    "中之島": {
+        "prec_no": "88",
+        "block_no": "1540",
+        "a or s": "a"
+    },
+    "天城": {
+        "prec_no": "88",
+        "block_no": "1542",
+        "a or s": "a"
+    },
+    "鹿児島県全地点": {
+        "prec_no": "88",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "宝島": {
+        "prec_no": "88",
+        "block_no": "1647",
+        "a or s": "a"
+    },
+    "諏訪之瀬島": {
+        "prec_no": "88",
+        "block_no": "1654",
+        "a or s": "a"
+    },
+    "小宝島": {
+        "prec_no": "88",
+        "block_no": "1655",
+        "a or s": "a"
+    },
+    "平島": {
+        "prec_no": "88",
+        "block_no": "1658",
+        "a or s": "a"
+    },
+    "霧島牧園": {
+        "prec_no": "88",
+        "block_no": "1625",
+        "a or s": "a"
+    },
+    "奥": {
+        "prec_no": "91",
+        "block_no": "0901",
+        "a or s": "a"
+    },
+    "与那覇岳": {
+        "prec_no": "91",
+        "block_no": "0902",
+        "a or s": "a"
+    },
+    "呉我山": {
+        "prec_no": "91",
+        "block_no": "0903",
+        "a or s": "a"
+    },
+    "名護": {
+        "prec_no": "91",
+        "block_no": "47940",
+        "a or s": "s"
+    },
+    "名嘉真": {
+        "prec_no": "91",
+        "block_no": "0905",
+        "a or s": "a"
+    },
+    "読谷": {
+        "prec_no": "91",
+        "block_no": "0906",
+        "a or s": "a"
+    },
+    "胡屋": {
+        "prec_no": "91",
+        "block_no": "0907",
+        "a or s": "a"
+    },
+    "那覇": {
+        "prec_no": "91",
+        "block_no": "47936",
+        "a or s": "s"
+    },
+    "糸数": {
+        "prec_no": "91",
+        "block_no": "0909",
+        "a or s": "a"
+    },
+    "金武": {
+        "prec_no": "91",
+        "block_no": "1064",
+        "a or s": "a"
+    },
+    "石垣島": {
+        "prec_no": "91",
+        "block_no": "47918",
+        "a or s": "s"
+    },
+    "伊原間": {
+        "prec_no": "91",
+        "block_no": "1145",
+        "a or s": "a"
+    },
+    "伊是名": {
+        "prec_no": "91",
+        "block_no": "1147",
+        "a or s": "a"
+    },
+    "宮古島": {
+        "prec_no": "91",
+        "block_no": "47927",
+        "a or s": "s"
+    },
+    "久米島": {
+        "prec_no": "91",
+        "block_no": "47929",
+        "a or s": "s"
+    },
+    "渡嘉敷": {
+        "prec_no": "91",
+        "block_no": "1152",
+        "a or s": "a"
+    },
+    "伊良部": {
+        "prec_no": "91",
+        "block_no": "1246",
+        "a or s": "a"
+    },
+    "多良間": {
+        "prec_no": "91",
+        "block_no": "1247",
+        "a or s": "a"
+    },
+    "城辺": {
+        "prec_no": "91",
+        "block_no": "1248",
+        "a or s": "a"
+    },
+    "川平": {
+        "prec_no": "91",
+        "block_no": "1250",
+        "a or s": "a"
+    },
+    "大原": {
+        "prec_no": "91",
+        "block_no": "1251",
+        "a or s": "a"
+    },
+    "西表島": {
+        "prec_no": "91",
+        "block_no": "47917",
+        "a or s": "s"
+    },
+    "与那国島": {
+        "prec_no": "91",
+        "block_no": "47912",
+        "a or s": "s"
+    },
+    "波照間": {
+        "prec_no": "91",
+        "block_no": "1354",
+        "a or s": "a"
+    },
+    "南大東（南大東島）": {
+        "prec_no": "91",
+        "block_no": "47945",
+        "a or s": "s"
+    },
+    "本部": {
+        "prec_no": "91",
+        "block_no": "1373",
+        "a or s": "a"
+    },
+    "東": {
+        "prec_no": "91",
+        "block_no": "1374",
+        "a or s": "a"
+    },
+    "安次嶺": {
+        "prec_no": "91",
+        "block_no": "1482",
+        "a or s": "a"
+    },
+    "鏡原": {
+        "prec_no": "91",
+        "block_no": "1483",
+        "a or s": "a"
+    },
+    "真栄里": {
+        "prec_no": "91",
+        "block_no": "1484",
+        "a or s": "a"
+    },
+    "下地島": {
+        "prec_no": "91",
+        "block_no": "1490",
+        "a or s": "a"
+    },
+    "仲筋": {
+        "prec_no": "91",
+        "block_no": "1491",
+        "a or s": "a"
+    },
+    "所野": {
+        "prec_no": "91",
+        "block_no": "1493",
+        "a or s": "a"
+    },
+    "志多阿原": {
+        "prec_no": "91",
+        "block_no": "1494",
+        "a or s": "a"
+    },
+    "粟国": {
+        "prec_no": "91",
+        "block_no": "1515",
+        "a or s": "a"
+    },
+    "慶良間": {
+        "prec_no": "91",
+        "block_no": "1516",
+        "a or s": "a"
+    },
+    "北大東": {
+        "prec_no": "91",
+        "block_no": "1517",
+        "a or s": "a"
+    },
+    "旧東": {
+        "prec_no": "91",
+        "block_no": "1518",
+        "a or s": "a"
+    },
+    "北原": {
+        "prec_no": "91",
+        "block_no": "1534",
+        "a or s": "a"
+    },
+    "国頭": {
+        "prec_no": "91",
+        "block_no": "1586",
+        "a or s": "a"
+    },
+    "沖縄県全地点": {
+        "prec_no": "91",
+        "block_no": "00",
+        "a or s": "neither"
+    },
+    "宮城島": {
+        "prec_no": "91",
+        "block_no": "1596",
+        "a or s": "a"
+    },
+    "盛山": {
+        "prec_no": "91",
+        "block_no": "1639",
+        "a or s": "a"
+    },
+    "渡名喜": {
+        "prec_no": "91",
+        "block_no": "1651",
+        "a or s": "a"
+    },
+    "昭和": {
+        "prec_no": "99",
+        "block_no": "89532",
+        "a or s": "s"
+    }
+}
