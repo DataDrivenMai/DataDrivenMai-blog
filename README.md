@@ -22,6 +22,7 @@ Use the table below to locate the project you're looking for
 
 | Date | Folder | Blog | 
 |--------|--------|------|
+| 2026-08-04 | [`transliterate-japanese-romaji`](https://github.com/DataDrivenMai/DataDrivenMai-blog/tree/main/transliterate-japanese-romaji) | [Transliteration of Japanese Hiragana and Katakana Using the Roman Alphabet](https://datadrivenmai.com/blog/transliterate-japanese-romaji/index.html) | 
 | 2026-07-25 | [`algorithmic-site-crawling-url-discovery`](https://github.com/DataDrivenMai/DataDrivenMai-blog/tree/main/algorithmic-site-crawling-url-discovery) | [Algorithmic Site Crawling for Automatic Discovery of URL Identifiers of Japan’s Weather Stations](https://datadrivenmai.com/blog/algorithmic-site-crawling-url-discovery/index.html) | 
 | 2026-07-14 | [`reading-files-unknown-encoding`](https://github.com/DataDrivenMai/DataDrivenMai-blog/tree/main/reading-files-unknown-encoding) | [Reading CSV Files of Unknown Encoding into a Pandas DataFrame](https://datadrivenmai.com/blog/reading-files-unknown-encoding/index.html) | 
 | 2026-05-29 | [`responsible-web-scraping`](https://github.com/DataDrivenMai/DataDrivenMai-blog/tree/main/responsible-web-scraping) | [Responsible Web Scraping Practices for Beginners](https://datadrivenmai.com/blog/responsible-web-scraping/index.html) | 
