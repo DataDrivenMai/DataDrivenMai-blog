@@ -30,9 +30,9 @@ This project demonstrates the conversion of Japanese dates into their Gregorian 
 Data collected by the Japanese government and other official entities often rely on the Japanese calendar system, which starts a new era aperiodically. Being able to convert the Japanese dates into their Gregorian calendar equivalent is useful as it allows data to be visualized on a continuum, and can easily be integrated with other data from non-Japanese sources. 
 
 ### Key Skills Demonstrated
-- Used regular expressions (regex) to find and parse the era name, year number, month and day from real data
-- Improved the regular expressions to work with exceptions in the data, which may be caused by human error
-- Converted Japanese years into Gregorian years by simple addition of the Japanese years to the "year 0" for the era in question
+- Use regular expressions (regex) to find and parse the era name, year number, month and day from real data
+- Improve the regular expressions to work with exceptions in the data, which may be caused by human error
+- Convert Japanese years into Gregorian years by simple addition of the Japanese years to the "year 0" for the era in question
 
 ## How to Run
 Open the `japanese-gregorian-calendar.ipynb` notebook and run all cells sequentially, or run the `japanese-gregorian-calendar.py` python script in one go.
