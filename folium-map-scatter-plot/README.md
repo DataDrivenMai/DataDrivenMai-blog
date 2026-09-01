@@ -1,4 +1,4 @@
-# Mapping Scatter Plots on Folium Maps with CircleMarker
+# Mapping Scatter Plots on Folium Maps with `folium.CircleMarker()`
 
 How to make scatter plot like circle markers on `folium` maps. 
 
