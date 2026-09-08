@@ -1,51 +1,52 @@
-# JMA Weather Data Scraping and Parsing
+# Making Legends for Circle Markers in `folium` Maps
 
-This project demonstrates how to scrape, parse, structure and save weather data (per 10 min) from the Japan Meteorological Agency (JMA) website using Python.
+No map is complete without a legend. Learn how to make a matching legend for your `folium` maps with scatter plot like circle markers with the `branca` library using HTML and CSS. 
 
 ## Blog Post
-[Read the full tutorial here](https://datadrivenmai.com/blog/jma-weather-scraping/)
+[Read the full tutorial here](https://datadrivenmai.com/blog/folium-map-legender-scraping/)
 
 ## Project Structure
 - `README.md` (you are here)
-- `jma-weather-scraping.ipynb`
+- `folium-map-legend.ipynb`
     - Step-by-step tutorial identical to the original blog post
-- `jma-weather-scraping.py`
+- `folium-map-legend.py`
     - Python script containing only the essence of the code from the tutorial with minimal explanation
 - `data/`
 - `images/`
 
 ## The Ins and Outs
 ### Input 
-- URL to weather data collected every 10 min from one s1 type JMA observation site
-    - Default URL provided ([Tokyo site for March 9, 2024](https://www.data.jma.go.jp/stats/etrn/view/10min_s1.php?prec_no=44&block_no=47662&year=2024&month=3&day=9&view=))
+- `amedas_stations_all.csv` inside the `data/` subfolder containing preprocessed data on all weather stations in Japan
 
 ### Output
--  `jma_weather_scraping_xxx.csv` with 10 min weather data, ready for further analysis
-    - `_xxx.csv` is `_jupyter.csv` when `jma_weather_scraping.ipynb` file is ran
-    - `_xxx.csv` is `_python.csv` when `jma_weather_scraping.py` file is ran
+- `sendai_map_legend.html`, a map containing all the weather stations of the Sendai region with circle markers and a matching legend, inside the `data/` subfolder.
 
 ## Project Value
 
 ### Motivation
-Access to structured weather data is essential for time-series analysis and modeling, but some JMA data are only available through HTML tables. 
-This project builds a pipeline to extract and clean that data for analysis.
+
+Making a legend in `folium` can be a bit tricky, as there is no built-in method to automatically generate a legend from the items drawn on the map. Even in the [`folium` tutorial, legends were manually generated using HTML](https://python-visualization.github.io/folium/latest/advanced_guide/piechart_icons.html#Legend). 
+
+This GitHub directory contains code to crate a custom legend for `folium` maps with circle markers using HTML.
+
 
 ### Key Skills Demonstrated
-- Scraping tabular data using `requests`
-- Parsing HTML with `BeautifulSoup`
-- Converting simple timestamps into useful `datetime` objects
-- Attaching time zone information to `datetime` objects with `pytz`
-- Cleaning and exporting data using `pandas`
+
+- Stylize legend boxes with various colors, opacities, corner radius, drop shadows and borders
+- Separate inline and internal CSS for common vs variable properties of elements
+- Create local functions to incorporate user-specified input into inline CSS to stylize the legend elements
+- Include legend titles
+- Insert circle markers as legend entries and modify the marker's size, fill color and opacity, and stroke color
 
 ## How to Run
-Open the `jma-weather-scraping.ipynb` notebook and run all cells sequentially, or run the `jma-weather-scraping.py` python script in one go.
+Open the `folium-map-legend.ipynb` notebook and run all cells sequentially, or run the `folium-map-legend.py` python script in one go.
 
 ### Requirements for Code to Run
 - Python 3 (Verified on 3.14.3)
 - Python libraries
-    - `requests`
-    - `bs4`
-    - `datetime`
-    - `pytz`
     - `pandas`
+    - `base64`
+    - `folium`
+    - `branca`
+    - `IPython.display`
 - `data/` subfolder to save the final CSV file
