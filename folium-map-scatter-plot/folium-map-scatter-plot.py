@@ -118,9 +118,6 @@ def main():
     boolMask = (amedas_df['prec_no'] >= 31) & (amedas_df['prec_no'] <= 36)
     sendai_df = amedas_df[boolMask].reset_index(drop=True)
 
-    # Take a peek at the resulting DataFrame
-    sendai_df.head()
-
     # Find the middle of the map
     mid_lat = sendai_df['latitude_decimal'].mean()
     mid_long = sendai_df['longitude_decimal'].mean()
