@@ -3,7 +3,7 @@
 No map is complete without a legend. Learn how to make a matching legend for your `folium` maps with scatter plot like circle markers with the `branca` library using HTML and CSS. 
 
 ## Blog Post
-[Read the full tutorial here](https://datadrivenmai.com/blog/folium-map-legender-scraping/)
+[Read the full tutorial here](https://datadrivenmai.com/blog/folium-map-legend/)
 
 ## Project Structure
 - `README.md` (you are here)
