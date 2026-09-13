@@ -376,12 +376,12 @@ def main():
     mid_lat = sendai_df['latitude_decimal'].mean()
     mid_long = sendai_df['longitude_decimal'].mean()
 
+    # Create the map with the complete pop up text
+    m = MapSendaiJurisdiction_popup(sendai_df, mid_lat, mid_long)
+    
     # Create legend_html using the legend_dict and concatenate it all
     legend_html = GenerateLegendHTML(legend_dict)
     legend_html_all = macro_start + legend_css + legend_html + macro_end
-
-    # Create the map with the complete pop up text
-    m = MapSendaiJurisdiction_popup(sendai_df, mid_lat, mid_long)
 
     # Create a branca macroelement object and overwrite it with our legend html
     legend = branca.element.MacroElement()

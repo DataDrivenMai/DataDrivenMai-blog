@@ -22,7 +22,7 @@ Use the table below to locate the project you're looking for
 
 | Date | Folder | Blog | 
 |--------|--------|------|
-| 2026-09-08 | [`folium-map-legend`](https://github.com/DataDrivenMai/DataDrivenMai-blog/tree/main/folium-map-legend) | [Making Legends for Circle Markers in `folium` Maps](https://datadrivenmai.com/blog/folium-map-legend/index.html) | 
+| 2026-09-08 | [`folium-map-legend`](https://github.com/DataDrivenMai/DataDrivenMai-blog/tree/main/folium-map-legend) | [Creating Custom `branca` Legends for `folium` Maps with HTML and CSS](https://datadrivenmai.com/blog/folium-map-legend/index.html) | 
 | 2026-08-31 | [`folium-map-scatter-plot`](https://github.com/DataDrivenMai/DataDrivenMai-blog/tree/main/folium-map-scatter-plot) | [Mapping Scatter Plots on Folium Maps with `folium.CircleMarker()`](https://datadrivenmai.com/blog/folium-map-scatter-plot/index.html) | 
 | 2026-08-14 | [`japanese-gregorian-calendar`](https://github.com/DataDrivenMai/DataDrivenMai-blog/tree/main/japanese-gregorian-calendar) | [Conversion of Japanese Dates into the Gregorian Calendar](https://datadrivenmai.com/blog/japanese-gregorian-calendar/index.html) | 
 | 2026-08-04 | [`transliterate-japanese-romaji`](https://github.com/DataDrivenMai/DataDrivenMai-blog/tree/main/transliterate-japanese-romaji) | [Transliteration of Japanese Hiragana and Katakana Using the Roman Alphabet](https://datadrivenmai.com/blog/transliterate-japanese-romaji/index.html) | 

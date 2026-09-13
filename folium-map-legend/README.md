@@ -1,4 +1,4 @@
-# Making Legends for Circle Markers in `folium` Maps
+# Creating Custom `branca` Legends for `folium` Maps with HTML and CSS
 
 No map is complete without a legend. Learn how to make a matching legend for your `folium` maps with scatter plot like circle markers with the `branca` library using HTML and CSS. 
 
