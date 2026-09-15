@@ -17,6 +17,7 @@ No map is complete without a legend. Learn how to make a matching legend for you
 ## The Ins and Outs
 ### Input 
 - `amedas_stations_all.csv` inside the `data/` subfolder containing preprocessed data on all weather stations in Japan
+- Your [personal API key from CARTO](https://carto.com/basemaps/apikey/) to access the map tiles without watermarks (free tier available)
 
 ### Output
 - `sendai_map_legend.html`, a map containing all the weather stations of the Sendai region with circle markers and a matching legend, inside the `data/` subfolder.
@@ -49,4 +50,6 @@ Open the `folium-map-legend.ipynb` notebook and run all cells sequentially, or r
     - `folium`
     - `branca`
     - `IPython.display`
+    - `dotenv`
+    - `os`
 - `data/` subfolder to save the final CSV file
