@@ -6,6 +6,8 @@ Description: Essential code for making a matching legend for `folium` maps with 
 import folium
 import pandas as pd
 import branca
+from dotenv import load_dotenv
+import os
 
 # Constants
 # File location and file name to open and save
@@ -100,19 +102,26 @@ legend_dict = {
     }
     
 # Local functions
-def MapSendaiJurisdiction_popup(sendai_df, mid_lat, mid_long):
+def MapSendaiJurisdiction_popup(sendai_df, mid_lat, mid_long, tile_url, attr):
     """Function to generate the folium map (m) for the Sendai jurisdiction with popups
     AUTHOR:     Mai Tanaka (www.DataDrivenMai.com)
     DATE:       2026-08-24
+    REQUIRES: sendai_df = DataFrame containing weather station information from Sendai region
+              mid_lat = Latitude to center the map upon
+              mid_long = Longitude to center the map upon 
+              tile_url = URL for accessing the basemap 
+              attr = Attrition for the map data
     PROMISES: m = folium map object of the Sendai jurisdiction, complete with popups
     """
 
-   # Generate a folium map
+    # Generate a folium map
     m = folium.Map(location=[mid_lat, mid_long], 
-                tiles='openstreetmap', 
+                tiles=tile_url, 
                 zoom_start=6, 
-                min_zoom=5)
-
+                min_zoom=5, 
+                attr=attr,
+                )
+    
     # Work through each row to plot a circle marker and generate popups 
     for rowNow in sendai_df.itertuples():
         # Location of the weather station
@@ -354,7 +363,24 @@ def GenerateLegendHTML(dict_legend):
 # Main script
 def main():
     """Main script that draws the map of Sendai and saves the HTML."""
-    
+
+    # Import .env file containing the API key for CARTO ('carto_API_key')
+    if load_dotenv():
+        # CARTO API key (request one free at https://carto.com/basemaps/apikey)
+        carto_api_key = os.getenv('carto_API_key')
+
+        # Construct the tile URL template with the API key parameter
+        tile_url = f"https://basemaps.cartocdn.com/rastertiles/light_all/{{z}}/{{x}}/{{y}}.png?key={carto_api_key}"
+
+        # Manual attrition needed 
+        attr = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    else:
+        # If no .env file, use open street map
+        tile_url = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png'
+
+        # Attrition
+        attr = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        
     # Read the CSV file containing all information
     amedas_df_all = pd.read_csv(fileName, encoding='utf-8')
 
@@ -377,7 +403,7 @@ def main():
     mid_long = sendai_df['longitude_decimal'].mean()
 
     # Create the map with the complete pop up text
-    m = MapSendaiJurisdiction_popup(sendai_df, mid_lat, mid_long)
+    m = MapSendaiJurisdiction_popup(sendai_df, mid_lat, mid_long, tile_url, attr)
     
     # Create legend_html using the legend_dict and concatenate it all
     legend_html = GenerateLegendHTML(legend_dict)
