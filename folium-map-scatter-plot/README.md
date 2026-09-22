@@ -44,4 +44,6 @@ Open the `folium-map-scatter-plot.ipynb` notebook and run all cells sequentially
     - `folium`
     - `base64`
     - `IPython.display`
+    - `dotenv`
+    - `os`
 - `data/` subfolder to load the `amedas_stations_all.csv` file and save the `sendai_map_scatter_plot.html` map
