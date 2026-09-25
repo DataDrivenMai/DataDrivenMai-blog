@@ -113,6 +113,9 @@ def main():
             # Extract the <area> tags for each JMA station nested under the <map> tag
             stations_in_region = soup.find('map').find_all('area')
 
+            # Use a set to keep track of which weather stations we've entered into the dictionary
+            duplicate_set = set()
+            
             # Work through each weather station inside the region
             for station_now in stations_in_region:
                 
@@ -135,6 +138,13 @@ def main():
                 prec_no = match_href[1]
                 block_no = match_href[2]
 
+                # If we've already added this JMA station (as identified with prec_no and block_no combo), skip
+                if (prec_no, block_no) in duplicate_set:
+                    continue
+                else:
+                    # Add to list to prevent duplicate entries for next 
+                    duplicate_set.add((prec_no, block_no))
+
                 # In case we have no onmouseover attribute
                 if onmouseover == None:
                     #print('No onmouseover match: ', station_name)
@@ -147,8 +157,13 @@ def main():
                     a_s = match_onmouse[1]
                 
                 # Assign this to a nested dictionary 
-                prec_block_as_dict[station_name] = {'prec_no': prec_no, 'block_no': block_no, 'a or s': a_s}        
-            
+                if station_name in prec_block_as_dict:
+                    # This is when we have a station located elsewhere with the exact same station_name
+                    prec_block_as_dict[station_name].append({'prec_no': prec_no, 'block_no': block_no, 'a or s': a_s})
+                else:
+                    # For new entries, make a one item list
+                    prec_block_as_dict[station_name] = [{'prec_no': prec_no, 'block_no': block_no, 'a or s': a_s}]
+
             # Sleep between requests
             time.sleep(30)
 
